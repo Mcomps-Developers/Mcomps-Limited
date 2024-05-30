@@ -58,6 +58,7 @@
                                 <li class="mil-has-children">
                                     <a href="#.">Services</a>
                                     <ul>
+                                </li>
                                         <li><a href="{{ route('service1') }}">SAAS-Development-Services</a></li>
                                         <li><a href="{{ route('service2') }}">UI/UX design</a></li>
                                         <li><a href="{{ route('service3') }}">Mobile app development</a></li>
@@ -71,7 +72,6 @@
                                         <li><a href="{{ route('solution2') }}">Big data</a></li>
                                         <li><a href="{{ route('solution3') }}">IoT development</a></li>
                                     </ul>
-                                </li>
                                 <li><a href="{{ route('blogs') }}">Blog</a></li>
                                 <li><a href="{{ route('contact') }}">Contact Us</a></li>
                                 <li class="mil-has-children">
