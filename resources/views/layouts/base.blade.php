@@ -67,19 +67,19 @@
                                 <li class="mil-has-children">
                                     <a href="#.">Solutions</a>
                                     <ul>
-                                        <li><a href="solution-1.html">Solution 1</a></li>
-                                        <li><a href="solution-2.html">Solution 2</a></li>
-                                        <li><a href="solution-3.html">Solution 3</a></li>
+                                        <li><a href="{{ route('solution1') }}">AI consulting and development</a></li>
+                                        <li><a href="{{ route('solution2') }}">Big data</a></li>
+                                        <li><a href="{{ route('solution3') }}">IoT development</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="blog.html">Blog</a></li>
+                                <li><a href="{{ route('blogs') }}">Blog</a></li>
                                 <li><a href="{{ route('contact') }}">Contact Us</a></li>
                                 <li class="mil-has-children">
-                                    <a href="#.">Other</a>
+                                    {{-- <a href="#.">Other</a>
                                     <ul>
                                         <li><a href="coming-soon.html">Coming Soon</a></li>
                                         <li><a href="404.html">404</a></li>
-                                    </ul>
+                                    </ul> --}}
                                 </li>
                             </ul>
                             <div class="mil-search-icon">
