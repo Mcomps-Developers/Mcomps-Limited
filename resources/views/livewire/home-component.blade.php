@@ -28,11 +28,10 @@
                                 Solutions</span> <span class="mil-font-3 mil-accent">To Enterprise</span></h1>
                         <div class="mil-flex-hori-center">
                             <div>
-                                <a href="contact.html" class="mil-button mil-border mil-light"><span>Let’s
+                                <a href="{{ route('contact') }}" class="mil-button mil-border mil-light"><span>Let’s
                                         Talk</span></a>
                             </div>
-                            <p class="mil-button-descr mil-light-soft">Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-button-descr mil-light-soft">We design, develop, and support business applications using the <br> latest technology and standards.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -94,7 +93,7 @@
     <!-- banner end -->
 
     <!-- partners -->
-    <div class="mil-partners mil-p-90-60">
+    {{-- <div class="mil-partners mil-p-90-60">
         <div class="container">
             <div class="mil-partners-frame">
                 <a href="#."><img src="{{ asset('img/partners/1.png') }}" alt="partner"></a>
@@ -105,12 +104,12 @@
                 <a href="#."><img src="{{ asset('img/partners/6.png') }}" alt="partner"></a>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- partners end -->
 
-    <div class="container">
+    {{-- <div class="container">
         <div class="mil-divider"></div>
-    </div>
+    </div> --}}
 
     <!-- services -->
     <section class="mil-services mil-p-120-90">
@@ -129,8 +128,8 @@
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">01</span> Dedicated Team</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p>Our dedicated team model ensures you have a skilled and focused team working exclusively on your projects,
+                                 offering flexibility and control.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -142,8 +141,8 @@
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">02</span> QA and Testing</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p>We offer comprehensive quality assurance and testing services to ensure your software is bug-free,
+                                 reliable, and performs optimally.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -155,8 +154,8 @@
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">03</span> SaaS</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p>We develop robust Software as a Service (SaaS) solutions that are scalable, secure,
+                                 and designed to meet your business needs.</p>
                         </div>
                     </div>
                 </div>
@@ -171,8 +170,8 @@
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">01</span> Blockchain</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p>We harness the power of blockchain technology to provide secure, transparent,
+                                 and efficient solutions for various business applications.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -184,8 +183,8 @@
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">02</span> Artificial Intelligence</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p>Our AI solutions are designed to automate processes, provide insights,
+                                and enhance decision-making to drive business growth and innovation.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
@@ -197,8 +196,8 @@
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">03</span> Internet of Things</h5>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                                ut labore et dolore magna aliqua.</p>
+                            <p>We develop IoT solutions that connect devices and systems, enabling real-time data collection and analysis
+                                 for smarter decision-making and improved efficiency.</p>
                         </div>
                     </div>
                 </div>
@@ -239,18 +238,18 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
 
-                        <a href="project.html" class="mil-card">
+                        <a href="https://www.studybuddy.co.ke/" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/1.jpg') }}" alt="project">
+                                <img src="{{ asset('img/projects/1.png') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Easy & Most Powerful Server Platform.</h4>
-                                    <h6>by: <span class="mil-accent">Jane Meldrum</span></h6>
+                                    <h4 class="mil-mb-20">Study Buddy.</h4>
+                                    <a href="https://www.studybuddy.co.ke/"><b>Stydy Buddy</b></a>
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>Study Buddy is an innovative platform that connects students directly with teachers,
+                                        facilitating personalized learning and real-time academic support.</p>
                                 </div>
                             </div>
                         </a>
@@ -258,18 +257,18 @@
                     </div>
                     <div class="swiper-slide">
 
-                        <a href="project.html" class="mil-card">
+                        <a href="https://angoloexpert.com/" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/2.jpg') }}" alt="project">
+                                <img src="{{ asset('img/projects/2.png') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Easy & Most Powerful Server Platform.</h4>
-                                    <h6>by: <span class="mil-accent">Nguta Ithya</span></h6>
+                                    <h4 class="mil-mb-20">Angolo Experts.</h4>
+                                    <a href="https://angoloexpert.com/"><b>Angolo Experts</b></a>
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>Angolo Experts is a dynamic content selling platform designed to empower creators and connect
+                                         them with their audience through high-quality, engaging content.</p>
                                 </div>
                             </div>
                         </a>
@@ -277,42 +276,24 @@
                     </div>
                     <div class="swiper-slide">
 
-                        <a href="project.html" class="mil-card">
+                        <a href="https://pointpro.mcomps.co.ke/" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/3.jpg') }}" alt="project">
+                                <img src="{{ asset('img/projects/3.png') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Easy & Most Powerful Server Platform.</h4>
-                                    <h6>by: <span class="mil-accent">Roy Bricks</span></h6>
+                                    <h4 class="mil-mb-20">PointPro</h4>
+                                    <a href="https://pointpro.mcomps.co.ke/"><b>PointPro</b></a>
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
+                                    <p>PointPro is a web-based POS system that you can easily use on your mobile phone,
+                                         designed to streamline your business operations effortlessly.</p>
                                 </div>
                             </div>
                         </a>
 
                     </div>
-                    <div class="swiper-slide">
 
-                        <a href="project.html" class="mil-card">
-                            <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/4.jpg') }}" alt="project">
-                            </div>
-                            <div class="mil-description">
-                                <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Easy & Most Powerful Server Platform.</h4>
-                                    <h6>by: <span class="mil-accent">Nguta Ithya</span></h6>
-                                </div>
-                                <div class="mil-card-text">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua.</p>
-                                </div>
-                            </div>
-                        </a>
-
-                    </div>
                 </div>
             </div>
             <div class="row align-items-center">
@@ -325,7 +306,7 @@
                 <div class="col-md-6 col-xl-6">
 
                     <div class="mil-adaptive-right">
-                        <a href="contact.html" class="mil-button mil-border mil-mb-30"><span>Get Started</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get Started</span></a>
                     </div>
 
                 </div>
@@ -351,8 +332,9 @@
                             </div>
                             <h5>Thinking Big</h5>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>At McompsLimited, we believe in thinking big and setting ambitious goals. We aim to revolutionize the
+                            software industry with innovative
+                            solutions tailored to meet our clients' needs.</p>
                     </div>
 
                 </div>
@@ -365,8 +347,8 @@
                             </div>
                             <h5>Starting Small</h5>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>We understand the importance of starting small and focusing on the details. Our team works closely with clients from the initial idea to the final product,
+                            ensuring every aspect is perfected..</p>
                     </div>
 
                 </div>
@@ -379,8 +361,8 @@
                             </div>
                             <h5>Creating Fast</h5>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>Mcomps Limited is committed to rapid development without compromising quality. Our experienced team leverages cutting-edge technologies and
+                             best practices to deliver solutions quickly and efficiently.</p>
                     </div>
 
                 </div>
@@ -393,8 +375,8 @@
                             </div>
                             <h5>Innovating Scale</h5>
                         </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.</p>
+                        <p>At Mcomps Limited, we believe in innovation at scale. We continuously explore new technologies and methodologies to drive innovation in our solutions,
+                             ensuring they remain cutting-edge and future-proof.</p>
                     </div>
 
                 </div>
@@ -430,9 +412,9 @@
                 </div>
                 <div class="col-xl-6">
 
-                    <p class="mil-mt-60-adapt">It is a long established fact that a reader will be distracted by the
-                        readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it
-                        has a more-or-less normal distribution of letters, as opposed to using content here.</p>
+                    <p class="mil-mt-60-adapt">At Mcomps Limited, we excel in leveraging technology to drive business success.
+                         Our team is adept at crafting innovative solutions tailored to your specific needs, ensuring that your business thrives in today's digital landscape. With our expertise, you can unlock new opportunities,
+                        streamline operations, and achieve your goals with confidence</p>
 
                 </div>
             </div>
@@ -444,9 +426,9 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 65%"></div>
+                            <div class="mil-skill-prog" style="width: 95%"></div>
                         </div>
-                        <div class="mil-text-sm">65%</div>
+                        <div class="mil-text-sm">95%</div>
                     </div>
 
                 </div>
@@ -456,9 +438,9 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 90%"></div>
+                            <div class="mil-skill-prog" style="width: 98%"></div>
                         </div>
-                        <div class="mil-text-sm">90%</div>
+                        <div class="mil-text-sm">98%</div>
                     </div>
 
                 </div>
@@ -468,9 +450,9 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 50%"></div>
+                            <div class="mil-skill-prog" style="width: 81%"></div>
                         </div>
-                        <div class="mil-text-sm">50%</div>
+                        <div class="mil-text-sm">81%</div>
                     </div>
 
                 </div>
@@ -480,9 +462,9 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 95%"></div>
+                            <div class="mil-skill-prog" style="width: 80%"></div>
                         </div>
-                        <div class="mil-text-sm">95%</div>
+                        <div class="mil-text-sm">80%</div>
                     </div>
 
                 </div>
@@ -504,9 +486,9 @@
 
                     <div class="mil-skill-frame mil-mb-60">
                         <div class="mil-skill-track">
-                            <div class="mil-skill-prog" style="width: 90%"></div>
+                            <div class="mil-skill-prog" style="width: 75%"></div>
                         </div>
-                        <div class="mil-text-sm">90%</div>
+                        <div class="mil-text-sm">75%</div>
                     </div>
 
                 </div>
@@ -538,7 +520,7 @@
     </div>
 
     <!-- blog -->
-    <section class="mil-blog mil-p-120-120">
+    {{-- <section class="mil-blog mil-p-120-120">
         <div class="mil-deco" style="top: 0; right: 30%;"></div>
         <div class="container">
             <div class="row align-items-center mil-mb-90">
@@ -691,11 +673,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- blog end -->
 
     <!-- reviews -->
-    <section class="mil-reviews mil-deep-bg mil-p-120-120">
+    {{-- <section class="mil-reviews mil-deep-bg mil-p-120-120">
         <div class="mil-deco" style="top: 0; right: 30%;"></div>
         <div class="container">
             <div class="row align-items-center mil-mb-90">
@@ -848,7 +830,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- reviews end -->
 
     <!-- contact -->

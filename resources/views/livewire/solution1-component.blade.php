@@ -27,7 +27,7 @@
                                 <img src="img/icons/md/11.svg" alt="icon">
                             </div>
                         </div>
-                        <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqu quis ipsum suspendisse ultrices gravida.</h5>
+                        <h5>Transform your business with cutting-edge AI solutions. </h5>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -82,12 +82,12 @@
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden.</p>
+                                        <p>Unlock the power of machine learning to drive innovation and make data-driven decisions. Our machine learning solutions are designed to optimize processes and extract valuable insights from your data.</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                                        <p>Our approach leverages advanced algorithms and data science techniques to deliver accurate predictions and enhance decision-making capabilities. Let us help you harness the potential of machine learning for your business.</p>
 
                                     </div>
                                 </div>
@@ -126,12 +126,12 @@
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden.</p>
+                                        <p>Unlock the potential of deep learning to revolutionize your business processes. Our deep learning solutions are tailored to your specific needs, helping you extract valuable insights from complex data.</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                                        <p>We utilize state-of-the-art neural networks and advanced algorithms to tackle challenging problems and drive innovation. Discover how deep learning can enhance decision-making and drive growth in your organization.</p>
 
                                     </div>
                                 </div>
@@ -169,12 +169,12 @@
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden.</p>
+                                        <p>Enhance customer experience and automate processes with Natural Language Processing (NLP) solutions. Our NLP services empower businesses to analyze, understand, and derive insights from textual data.</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                                        <p>From sentiment analysis to chatbot development, our NLP expertise enables you to leverage language-based technologies to drive innovation and efficiency in your organization.</p>
 
                                     </div>
                                 </div>
@@ -217,7 +217,7 @@
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                                        <p>From object detection to image classification, our expertise in computer vision empowers you to enhance productivity, improve decision-making, and drive innovation across various industries.</p>
 
                                     </div>
                                 </div>
@@ -254,7 +254,7 @@
     <!-- about end -->
 
     <!-- title -->
-    <section class="mil-p-120-0">
+    {{-- <section class="mil-p-120-0">
         <div class="container">
 
             <div class="mil-text-center mil-mb-90">
@@ -263,11 +263,11 @@
             </div>
 
         </div>
-    </section>
+    </section> --}}
     <!-- title end -->
 
     <!-- ??? -->
-    <section class="mil-awards">
+    {{-- <section class="mil-awards">
         <div class="row m-0">
             <div class="col-xl-6 p-0 mil-relative">
 
@@ -289,7 +289,7 @@
                                         </div>
                                         <h5 class="mil-light">Facial Recognition</h5>
                                     </div>
-                                    <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                                    <p class="mil-light-soft">Leverage cutting-edge AI technology to enhance security and streamline identity verification processes with our facial recognition solutions. Our advanced algorithms ensure accuracy and reliability, empowering businesses to optimize operations and improve customer experiences.</p>
                                 </div>
 
                             </div>
@@ -305,7 +305,7 @@
                                         </div>
                                         <h5 class="mil-light">Artificial Intelligence</h5>
                                     </div>
-                                    <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                                    <p class="mil-light-soft">Unlock the potential of artificial intelligence to drive innovation and growth in your industry. Our expert consultants and developers craft customized AI solutions tailored to your specific needs, enabling you to stay ahead of the competition and achieve your business objectives.</p>
                                 </div>
 
                             </div>
@@ -321,7 +321,7 @@
                                         </div>
                                         <h5 class="mil-light">Facial Recognition</h5>
                                     </div>
-                                    <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                                    <p class="mil-light-soft">Leverage cutting-edge AI technology to enhance security and streamline identity verification processes with our facial recognition solutions. Our advanced algorithms ensure accuracy and reliability, empowering businesses to optimize operations and improve customer experiences.</p>
                                 </div>
 
                             </div>
@@ -337,7 +337,7 @@
                                         </div>
                                         <h5 class="mil-light">Artificial Intelligence</h5>
                                     </div>
-                                    <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                                    <p class="mil-light-soft">Unlock the potential of artificial intelligence to drive innovation and growth in your industry. Our expert consultants and developers craft customized AI solutions tailored to your specific needs, enabling you to stay ahead of the competition and achieve your business objectives.</p>
                                 </div>
 
                             </div>
@@ -357,11 +357,11 @@
 
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- ??? end -->
 
     <!-- ??? -->
-    <section class="mil-p-120-120">
+    {{-- <section class="mil-p-120-120">
         <div class="mil-deco" style="top: 0; right: 30%;"></div>
         <div class="container">
             <div class="row align-items-end mil-mb-90">
@@ -432,11 +432,11 @@
             </div>
             <a href="#." class="mil-link"><span>Let’s Solve Your Challenges With AI</span><i class="fas fa-arrow-right"></i></a>
         </div>
-    </section>
+    </section> --}}
     <!-- ??? end -->
 
     <!-- call to action -->
-    <section class="call-to-action mil-gradient-bg mil-p-120-120">
+    {{-- <section class="call-to-action mil-gradient-bg mil-p-120-120">
         <div class="mil-deco mil-deco-accent" style="top: 0; left: 15%;"></div>
         <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 15%; transform: rotate(180deg)"></div>
         <div class="container mil-text-center">
@@ -448,7 +448,7 @@
                 <h3 class="mil-light">The Estimated Global Cost of <span class="mil-accent">Cybercrime</span> is <span class="mil-accent">$6T</span> <br>and Climbing <span class="mil-accent">+ 15%</span> a Year.</h3>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- call to action end -->
 
     <!-- tech stack -->

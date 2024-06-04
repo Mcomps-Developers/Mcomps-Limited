@@ -26,7 +26,7 @@
                             <h3>I</h3>
                         </div>
                         <h5 class="mil-mb-30">Embedded <br>IoT Solutions</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore facilisis. </p>
+                        <p>Developing customized embedded IoT solutions tailored to your specific needs and requirements. </p>
                     </div>
 
                 </div>
@@ -37,7 +37,7 @@
                             <h3>II</h3>
                         </div>
                         <h5 class="mil-mb-30">IoT Cloud Platforms and Dashboards</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore facilisis. </p>
+                        <p>Developing customized embedded IoT solutions tailored to your specific needs and requirements.. </p>
                     </div>
 
                 </div>
@@ -48,7 +48,7 @@
                             <h3>III</h3>
                         </div>
                         <h5 class="mil-mb-30">IoT Mobile <br>App Development</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore facilisis. </p>
+                        <p>Creating feature-rich IoT mobile applications to provide real-time monitoring and control of connected devices. </p>
                     </div>
 
                 </div>
@@ -71,7 +71,7 @@
                 <div class="col-xl-5 mil-mb-30">
 
                     <h3 class="mil-mb-30">Smarthome Technology</h3>
-                    <p class="mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p class="mil-mb-30">Implementing cutting-edge technology to create smarter, more efficient homes for modern living.</p>
                     <a href="#." class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
 
                 </div>
@@ -87,7 +87,7 @@
                 <div class="col-xl-5 mil-mb-30">
 
                     <h3 class="mil-mb-30">Medical IoT</h3>
-                    <p class="mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p class="mil-mb-30">Innovative IoT solutions revolutionizing healthcare by improving patient care and streamlining operations.</p>
                     <a href="#." class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
 
                 </div>
@@ -103,7 +103,7 @@
                 <div class="col-xl-5 mil-mb-30">
 
                     <h3 class="mil-mb-30">Apps For Wearables</h3>
-                    <p class="mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p class="mil-mb-30">Developing innovative mobile applications tailored for wearable devices to enhance user experience and functionality.</p>
                     <a href="#." class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
 
                 </div>
@@ -119,7 +119,7 @@
                 <div class="col-xl-5 mil-mb-30">
 
                     <h3 class="mil-mb-30">Industrial IoT Solutions</h3>
-                    <p class="mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p class="mil-mb-30">Providing advanced IoT solutions tailored for industrial applications to optimize processes and increase efficiency.</p>
                     <a href="#." class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
 
                 </div>
@@ -145,7 +145,7 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <img src="img/icons/md/12.svg" alt="icon">
                             </div>
-                            <p class="mil-mb-30">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret.</p>
+                            <p class="mil-mb-30">Implementing IoT solutions tailored for the retail industry to enhance customer experience and optimize operations.</p>
                             <h6>Retail IoT</h6>
                         </div>
 
@@ -157,7 +157,7 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <img src="img/icons/md/25.svg" alt="icon">
                             </div>
-                            <p class="mil-mb-30">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret.</p>
+                            <p class="mil-mb-30">Utilizing IoT technology to revolutionize healthcare delivery, improve patient care, and streamline medical processes.</p>
                             <h6>Healthcare IoT</h6>
                         </div>
 
@@ -169,7 +169,7 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <img src="img/icons/md/6.svg" alt="icon">
                             </div>
-                            <p class="mil-mb-30">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret.</p>
+                            <p class="mil-mb-30">Implementing IoT solutions in education to create interactive learning environments and improve educational outcomes.</p>
                             <h6>IoT For Education</h6>
                         </div>
 
@@ -181,7 +181,7 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <img src="img/icons/md/23.svg" alt="icon">
                             </div>
-                            <p class="mil-mb-30">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret.</p>
+                            <p class="mil-mb-30">Utilizing IoT technology to optimize supply chain operations, enhance logistics management, and improve overall efficiency.</p>
                             <h6>IoT Driven Supply Chain</h6>
                         </div>
 
@@ -201,7 +201,7 @@
                 </div>
                 <div class="col-lg-6">
 
-                    <a href="#." class="mil-link mil-mb-30"><span>Talk to Our IoT Agent</span><i class="fas fa-arrow-right"></i></a>
+                    <a href="{{ route('contact') }}" class="mil-link mil-mb-30"><span>Talk to Our IoT Agent</span><i class="fas fa-arrow-right"></i></a>
 
                 </div>
             </div>
@@ -244,7 +244,7 @@
                                         <img src="img/icons/md/24.svg" alt="icon">
                                     </div>
                                     <div class="mil-mb-30">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                        <p>Revolutionize your business operations with our innovative solutions tailored for your industry. Explore our comprehensive suite of services designed to meet your specific needs.</p>
                                     </div>
                                     <a href="about.html" class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
                                 </div>
@@ -257,7 +257,7 @@
                                         <img src="img/icons/md/22.svg" alt="icon">
                                     </div>
                                     <div class="mil-mb-30">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                        <p>Empower your business with cutting-edge technology solutions that drive growth and enhance efficiency. Discover how we can elevate your operations to new heights.</p>
                                     </div>
                                     <a href="about.html" class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
                                 </div>
@@ -270,7 +270,7 @@
                                         <img src="img/icons/md/21.svg" alt="icon">
                                     </div>
                                     <div class="mil-mb-30">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                        <p>Enhance your business performance and stay ahead of the competition with our customized solutions designed to address your unique challenges and opportunities.</p>
                                     </div>
                                     <a href="about.html" class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
                                 </div>
@@ -283,7 +283,7 @@
                                         <img src="img/icons/md/20.svg" alt="icon">
                                     </div>
                                     <div class="mil-mb-30">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                        <p>Transform your business processes with our innovative solutions that optimize efficiency, reduce costs, and drive sustainable growth. Discover the power of technology-driven transformation.</p>
                                     </div>
                                     <a href="about.html" class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
                                 </div>
@@ -296,7 +296,7 @@
                                         <img src="img/icons/md/19.svg" alt="icon">
                                     </div>
                                     <div class="mil-mb-30">
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                                        <p>Unlock new opportunities and drive innovation with our industry-specific solutions tailored to meet your unique business requirements. Explore our range of offerings today.</p>
                                     </div>
                                     <a href="about.html" class="mil-link"><span>See More</span><i class="fas fa-arrow-right"></i></a>
                                 </div>

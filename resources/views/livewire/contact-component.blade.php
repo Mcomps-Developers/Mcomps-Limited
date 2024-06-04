@@ -186,17 +186,18 @@
                 <div class="col-xl-4">
 
                     <div class="mil-mb-60">
-                        <h4 class="mil-mb-30">United States</h4>
-                        <h5 class="mil-list-title mil-mb-15">New York</h5>
-                        <p class="mil-mb-30">525, North Tryon Street, Suite 1600, Charlotte, NC 28202-0213</p>
+                        <h4 class="mil-mb-30">ADDRESS</h4>
+                        <h5 class="mil-list-title mil-mb-15">Nairobi</h5>
+                        <p class="mil-mb-30">Karen Plains Arcade, Karen Plains Road off Karen Road</p>
                         <div class="mil-divider mil-divider-left mil-mb-30"></div>
 
-                        <h6 class="mil-mb-15"><span class="mil-accent">+ 90</span> 700 300 000</h6>
-                        <h6><span class="mil-accent">usa</span>.support@mydomain.com</h6>
+                        <h6 class="mil-mb-15"><i class="fas fa-phone"></i> <span class="mil-accent">+ 254</span> 7-0010-6541</h6>
+                        <h6><i class="fas fa-envelope"></i> info@mcomps.co.ke</h6>
                     </div>
 
+
                 </div>
-                <div class="col-xl-4">
+                {{-- <div class="col-xl-4">
 
                     <div class="mil-mb-60">
                         <h4 class="mil-mb-30">Germany</h4>
@@ -209,8 +210,8 @@
                         <h6><span class="mil-accent">germany</span>.support@mydomain.com</h6>
                     </div>
 
-                </div>
-                <div class="col-xl-4">
+                </div> --}}
+                {{-- <div class="col-xl-4">
 
                     <div class="mil-mb-60">
                         <h4 class="mil-mb-30">France</h4>
@@ -222,7 +223,7 @@
                         <h6><span class="mil-accent">france</span>.support@mydomain.com</h6>
                     </div>
 
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>

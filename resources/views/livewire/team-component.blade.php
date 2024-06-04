@@ -17,17 +17,17 @@
     <!-- team -->
     <section class="mil-team mil-p-120-60">
         <div class="container">
-            <h3 class="mil-text-center mil-mb-120">It is a long established fact that a <span class="mil-accent">reader will be <br>distracted</span> by the readable content.</h3>
+            <h3 class="mil-text-center mil-mb-120">Meet Our Team </h3>
             <div class="row">
                 <div class="col-sm-6 col-lg-4">
 
-                    <a href="team-single.html" class="mil-team-card mil-mb-60">
+                    <a href="https://manzolo.mcomps.co.ke/" class="mil-team-card mil-mb-60">
                         <div class="mil-image-frame mil-mb-30">
                             <img src="img/faces/1.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Andrew Kazantzis</h4>
-                        <p>CEO ITSulu</p>
+                        <h4 class="mil-mb-10">Almeida Manzolo</h4>
+                        <p>CEO and Co-Founder </p>
                     </a>
 
                 </div>
@@ -38,8 +38,8 @@
                             <img src="img/faces/2.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Jane Meldrum</h4>
-                        <p>Designer</p>
+                        <h4 class="mil-mb-10">Muremi Peter</h4>
+                        <p>Software Engineer and Co-Founder</p>
                     </a>
 
                 </div>
@@ -50,8 +50,8 @@
                             <img src="img/faces/3.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Roy Ellawala</h4>
-                        <p>App Developer</p>
+                        <h4 class="mil-mb-10">Cele</h4>
+                        <p>Designer and Co-Founder</p>
                     </a>
 
                 </div>
@@ -62,8 +62,8 @@
                             <img src="img/faces/4.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Andrew Kazantzis</h4>
-                        <p>CEO ITSulu</p>
+                        <h4 class="mil-mb-10">Tony Del</h4>
+                        <p>Head Of Public Relations and Co-Founder</p>
                     </a>
 
                 </div>
@@ -74,8 +74,8 @@
                             <img src="img/faces/5.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Jane Meldrum</h4>
-                        <p>Designer</p>
+                        <h4 class="mil-mb-10">Muzamil</h4>
+                        <p>General Manager and Co-Founder</p>
                     </a>
 
                 </div>
@@ -86,8 +86,8 @@
                             <img src="img/faces/6.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Roy Ellawala</h4>
-                        <p>App Developer</p>
+                        <h4 class="mil-mb-10">Ambrose</h4>
+                        <p>Head Of MArketing and Co-Founder</p>
                     </a>
 
                 </div>
@@ -111,7 +111,7 @@
                 </div>
                 <div class="col-xl-5">
 
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                    <p>Our core values shape the culture and define the character of Mcomps Limited. They guide how we behave and make decisions, ensuring we deliver exceptional results for our clients.</p>
 
                 </div>
             </div>
@@ -123,7 +123,7 @@
                             <img src="img/icons/md/5.svg" alt="icon">
                         </div>
                         <h5 class="mil-mb-20"><span class="mil-accent">01.</span>&nbsp; Productivity</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore magna aliqua.</p>
+                        <p>We strive for efficiency and effectiveness in all our processes, ensuring that we deliver the highest quality results in the shortest possible time.</p>
                     </div>
 
                 </div>
@@ -134,7 +134,7 @@
                             <img src="img/icons/md/5.svg" alt="icon">
                         </div>
                         <h5 class="mil-mb-20"><span class="mil-accent">02.</span>&nbsp; Transparency</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore magna aliqua.</p>
+                        <p>We maintain open and honest communication with our clients and within our team, fostering trust and accountability in all our interactions.</p>
                     </div>
 
                 </div>
@@ -144,8 +144,8 @@
                         <div class="mil-icon-frame mil-icon-frame-md mil-mb-30">
                             <img src="img/icons/md/5.svg" alt="icon">
                         </div>
-                        <h5 class="mil-mb-20"><span class="mil-accent">03.</span>&nbsp; Personality</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore magna aliqua.</p>
+                        <h5 class="mil-mb-20"><span class="mil-accent">03.</span>&nbsp;  Integrity</h5>
+                        <p>We uphold the highest standards of integrity in all our actions, ensuring that we consistently deliver on our promises and commitments.</p>
                     </div>
 
                 </div>
@@ -155,8 +155,8 @@
                         <div class="mil-icon-frame mil-icon-frame-md mil-mb-30">
                             <img src="img/icons/md/5.svg" alt="icon">
                         </div>
-                        <h5 class="mil-mb-20"><span class="mil-accent">04.</span>&nbsp; Volition</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore magna aliqua.</p>
+                        <h5 class="mil-mb-20"><span class="mil-accent">04.</span>&nbsp; Innovation</h5>
+                        <p>We embrace creativity and innovation, continuously seeking new ways to improve our services and provide our clients with cutting-edge solutions.</p>
                     </div>
 
                 </div>
@@ -175,8 +175,8 @@
                 </div>
                 <p class="mil-light mil-mb-30">Leadership Team</p>
                 <h2 class="mil-light mil-mb-30">Let’s <span class="mil-accent">Open the World</span> of IT to You</h2>
-                <p class="mil-light-soft mil-mb-60">It is a long established fact that a reader will be distracted by the readable content <br> of a page when looking at its layout.</p>
-                <a href="#." class="mil-button mil-border mil-light"><span>Book an Appointment</span></a>
+                <p class="mil-light-soft mil-mb-60">Our leadership team is dedicated to leveraging cutting-edge technology to drive your business success. With extensive experience and a forward-thinking approach, we are ready to tackle your most challenging IT needs.</p>
+                <a href="{{ route('contact') }}" class="mil-button mil-border mil-light"><span>Book an Appointment</span></a>
             </div>
         </div>
     </section>

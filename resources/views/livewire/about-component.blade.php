@@ -20,15 +20,16 @@
             <div class="row align-items-center">
                 <div class="col-lg-12 col-xl-6">
 
-                    <h4 class="mil-mb-60">Lorem ipsum dolor sit amet, <span class="mil-accent">consectetur adipiscing elit</span>, sed do eiusmod tempor incididunt ut labor aliqua.</h4>
+                    <h4 class="mil-mb-60">Are you ready to elevate your business to new heights? <span class="mil-accent">Let's collaborate</span> to unlock your full potential.</h4>
 
                 </div>
                 <div class="col-lg-12 col-xl-6">
 
                     <div class="mil-adaptive-right">
-                        <a href="#." class="mil-button mil-border mil-mr-15 mil-mb-30"><span>Talk To an Expert</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mr-15 mil-mb-30"><span>Talk To an Expert</span></a>
                         <a href="#." class="mil-button-with-label mil-mb-60">
-                            <div class="mil-button mil-border mil-icon-button"><span><i class="fas fa-play"></i></span></div><span class="mil-dark">Watch Video</span>
+                            <div class="mil-button mil-border mil-icon-button"><span><i class="fas fa-play"></i></span></div>
+                            {{-- <span class="mil-dark">Watch Video</span> --}}
                         </a>
                     </div>
 
@@ -58,7 +59,7 @@
                     <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Firm Overview</span>
                     <h2 class="mil-mb-50">We Specialize in <br><span class="mil-accent">Transforming Your Idea</span> or Business in The Current<br> Digital Era.</h2>
 
-                    <p class="mil-mb-50">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p>
+                    <p class="mil-mb-50">At Mcomps Limited, we specialize in transforming ideas and businesses to thrive in today's digital landscape. Our mission is to empower individuals and organizations by providing innovative solutions that drive growth and success. </p>
 
                     <div class="row align-items-end">
 
@@ -67,19 +68,19 @@
                             <ul class="mil-check-icon-list mil-mb-60">
                                 <li>
                                     <img src="{{ asset('img/icons/sm/12.svg') }}" alt="icon">
-                                    <span class="mil-dark">Quis suspendisse ultrices gravida.</span>
+                                    <span class="mil-dark">Strategic planning and consulting</span>
                                 </li>
                                 <li>
                                     <img src="{{ asset('img/icons/sm/12.svg') }}" alt="icon">
-                                    <span class="mil-dark">Consectetur adipiscing elit.</span>
+                                    <span class="mil-dark">Cutting-edge technology solutions.</span>
                                 </li>
                                 <li>
                                     <img src="{{ asset('img/icons/sm/12.svg') }}" alt="icon">
-                                    <span class="mil-dark">Quis suspendisse ultrices gravida.</span>
+                                    <span class="mil-dark">Agile development methodologies.</span>
                                 </li>
                                 <li>
                                     <img src="{{ asset('mg/icons/sm/12.svg') }}" alt="icon">
-                                    <span class="mil-dark">Consectetur adipiscing elit.</span>
+                                    <span class="mil-dark">Continuous innovation and improvement.</span>
                                 </li>
                             </ul>
 
@@ -89,7 +90,7 @@
                             <a href="team-single.html" class="mil-post-sm mil-mb-60">
                                 <div class="mil-cover-frame"><img src="img/faces/1.jpg" alt="cover"></div>
                                 <div class="mil-description">
-                                    <h4 class="mil-font-3 mil-accent">Jane Meldrum</h4>
+                                    <h4 class="mil-font-3 mil-accent">Almeida Manzolo</h4>
                                     <p class="mil-text-sm">CEO & Co-Founder</p>
                                 </div>
                             </a>
@@ -110,7 +111,7 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-lg-5">
-                    <div class="mil-h1">8<span class="mil-accent">+</span></div>
+                    <div class="mil-h1">4<span class="mil-accent">+</span></div>
                     <h6 class="mil-mb-60">Years Experience</h6>
 
                     <h2 class="mil-mb-60">We Run All Kinds of IT Services That Vow Your Success</h2>
@@ -161,7 +162,7 @@
     </div>
 
     <!-- partners -->
-    <div class="mil-partners mil-p-120-90">
+    {{-- <div class="mil-partners mil-p-120-90">
         <div class="container">
             <div class="mil-partners-frame">
                 <a href="#."><img src="img/partners/1.png" alt="partner"></a>
@@ -172,7 +173,7 @@
                 <a href="#."><img src="img/partners/6.png" alt="partner"></a>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- partners end -->
 
     <!-- about -->
@@ -195,7 +196,7 @@
                     <span class="mil-suptitle mil-suptitle-2 mil-mb-30">IT Enterprise</span>
                     <h2 class="mil-mb-50">Our Mission</h2>
 
-                    <p class="mil-mb-50">Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. There are many variations of passages majority.</p>
+                    <p class="mil-mb-50">At Mcomps Limited, our mission is to drive innovation and excellence in the IT enterprise sector. We are committed to providing cutting-edge solutions and world-class tech teams to accelerate your business growth and success. Our comprehensive service offerings are designed to enhance your capabilities and propel your organization forward.</p>
 
                     <ul class="mil-simple-list">
                         <li>Accelerate innovation.</li>
@@ -233,7 +234,7 @@
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Et iusto odio dignissim qui blandit praesent luptatum zzril delenit. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.</p>
+                        <p class="mil-box-text mil-mb-30">We offer top expertise in our field, ensuring that our solutions are crafted with precision and professionalism. Our team consists of seasoned professionals dedicated to delivering the highest quality services.</p>
 
                     </div>
                 </div>
@@ -255,7 +256,7 @@
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Facilisis at vero eros et accumsan et iusto odio dignissim. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla qui blandit praesent luptatum zzril delenit.</p>
+                        <p class="mil-box-text mil-mb-30">We are committed to maintaining the highest standards of quality management throughout our processes. From project initiation to delivery, we ensure that every aspect of our work meets the highest industry standards.</p>
 
                     </div>
                 </div>
@@ -277,7 +278,7 @@
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Dolore eu feugiat nulla facilisis at. Quis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit.</p>
+                        <p class="mil-box-text mil-mb-30">We understand the importance of flexibility in today's dynamic business environment. That's why we tailor our solutions to meet your specific needs, ensuring maximum flexibility and adaptability.</p>
 
                     </div>
                 </div>
@@ -299,7 +300,7 @@
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril.</p>
+                        <p class="mil-box-text mil-mb-30">We embrace agility in our approach, allowing us to respond quickly and effectively to changing requirements and market conditions. Our agile methodology ensures that we deliver results with speed and efficiency.</p>
 
                     </div>
                 </div>
@@ -321,7 +322,7 @@
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Blandit praesent luptatum zzril. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui delenit.</p>
+                        <p class="mil-box-text mil-mb-30">Innovation is at the core of everything we do. We constantly seek new ways to improve and innovate, ensuring that our solutions are always at the forefront of technological advancements and industry trends.</p>
 
                     </div>
                 </div>
@@ -346,8 +347,8 @@
                             <img src="img/icons/md/10.svg" alt="icon">
                         </div>
                         <div class="mil-box-text">
-                            <h4 class="mil-mb-30">We Are</h4>
-                            <p class="mil-box-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h4 class="mil-mb-30">We Are Customer-Centric</h4>
+                            <p class="mil-box-text">At Mcomps Limited, our primary focus is our customers. We are dedicated to understanding their needs and providing them with exceptional service and support</p>
                         </div>
                     </div>
 
@@ -360,8 +361,8 @@
                             <img src="img/icons/md/10.svg" alt="icon">
                         </div>
                         <div class="mil-box-text">
-                            <h4 class="mil-mb-30">We Deep Dive</h4>
-                            <p class="mil-box-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h4 class="mil-mb-30">We Deep Dive Into Solutions</h4>
+                            <p class="mil-box-text">We delve deep into each challenge to provide innovative and effective solutions. Our team of experts goes above and beyond to deliver results that exceed expectations.</p>
                         </div>
                     </div>
 
@@ -374,8 +375,8 @@
                             <img src="img/icons/md/10.svg" alt="icon">
                         </div>
                         <div class="mil-box-text">
-                            <h4 class="mil-mb-30">We Take</h4>
-                            <p class="mil-box-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h4 class="mil-mb-30">We Take Ownership</h4>
+                            <p class="mil-box-text">We take full ownership of our work and hold ourselves accountable for delivering results. Our commitment to excellence drives us to constantly strive for improvement and success.</p>
                         </div>
                     </div>
 
@@ -388,8 +389,8 @@
                             <img src="img/icons/md/10.svg" alt="icon">
                         </div>
                         <div class="mil-box-text">
-                            <h4 class="mil-mb-30">We Value</h4>
-                            <p class="mil-box-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h4 class="mil-mb-30">We Value Collaboration</h4>
+                            <p class="mil-box-text">Collaboration is at the heart of our approach. We believe in working together with our clients and partners to achieve common goals and drive mutual success.</p>
                         </div>
                     </div>
 
@@ -402,8 +403,8 @@
                             <img src="img/icons/md/10.svg" alt="icon">
                         </div>
                         <div class="mil-box-text">
-                            <h4 class="mil-mb-30">We Believe</h4>
-                            <p class="mil-box-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <h4 class="mil-mb-30">We Embrace Innovation</h4>
+                            <p class="mil-box-text">Innovation is key to our success. We continually explore new ideas and technologies to stay ahead of the curve and provide our clients with cutting-edge solutions.</p>
                         </div>
                     </div>
 
@@ -417,7 +418,7 @@
                         </div>
                         <div class="mil-box-text">
                             <h4 class="mil-mb-30">We Say “We”</h4>
-                            <p class="mil-box-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-box-text">We believe in the power of teamwork and collaboration. Together, we can overcome challenges, achieve great things, and make a positive impact on the world.</p>
                         </div>
                     </div>
 
@@ -432,7 +433,7 @@
     <section class="mil-contact mil-gradient-bg mil-p-120-0">
         <div class="mil-deco mil-deco-accent" style="top: 0; right: 10%;"></div>
         <div class="container">
-            <h2 class="mil-light mil-mb-90">Contact <span class="mil-accent">Me</span></h2>
+            <h2 class="mil-light mil-mb-90">Contact <span class="mil-accent">Us</span></h2>
             <form>
                 <div class="row">
                     <div class="col-lg-6">

@@ -71,7 +71,7 @@
                             <h3>I</h3>
                         </div>
                         <h5 class="mil-mb-30">Application Security</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>e ensure that your applications are secure from the ground up, protecting against threats and vulnerabilities throughout the development lifecycle.</p>
                     </div>
 
                 </div>
@@ -83,7 +83,7 @@
                             <h3>II</h3>
                         </div>
                         <h5 class="mil-mb-30">Data Protection</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Our data protection solutions safeguard your critical information with advanced encryption, access controls, and regular audits.</p>
                     </div>
 
                 </div>
@@ -95,7 +95,7 @@
                             <h3>III</h3>
                         </div>
                         <h5 class="mil-mb-30">Network Security</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>We offer comprehensive network security solutions to protect your infrastructure from internal and external threats, ensuring business continuity.</p>
                     </div>
 
                 </div>
@@ -107,7 +107,7 @@
                             <h3>IV</h3>
                         </div>
                         <h5 class="mil-mb-30">Security Strategy</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Our experts help you develop a robust security strategy tailored to your business needs, including risk assessment, compliance, and policy development.</p>
                     </div>
 
                 </div>
@@ -119,7 +119,7 @@
                             <h3>V</h3>
                         </div>
                         <h5 class="mil-mb-30">Detection and Response</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Identify and respond to security threats in real-time with our advanced detection and response solutions.</p>
                     </div>
 
                 </div>
@@ -131,7 +131,7 @@
                             <h3>VI</h3>
                         </div>
                         <h5 class="mil-mb-30">Elastic Engineering</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Scale your security infrastructure dynamically and efficiently with our elastic engineering solutions.</p>
                     </div>
 
                 </div>
@@ -157,7 +157,7 @@
                         <h3>I</h3>
                     </div>
                     <h5 class="mil-mb-30">Cloud Native <br>Security Services</h5>
-                    <p>Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Secure your cloud infrastructure with our comprehensive suite of cloud-native security services, ensuring the safety and integrity of your data and applications.</p>
 
                 </div>
                 <div class="col-xl-3 mil-mb-30">
@@ -167,7 +167,7 @@
                         <h3>II</h3>
                     </div>
                     <h5 class="mil-mb-30">Multi <br>Cloud Security</h5>
-                    <p>Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Extend your security protocols across multiple cloud platforms seamlessly with our multi-cloud security solutions, ensuring consistent protection and compliance.</p>
 
                 </div>
                 <div class="col-xl-3 mil-mb-30">
@@ -177,7 +177,7 @@
                         <h3>III</h3>
                     </div>
                     <h5 class="mil-mb-30">On Site Security <br>and Compliance</h5>
-                    <p>Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>Enhance your on-site security measures and ensure compliance with industry regulations using our on-site security and compliance solutions, tailored to your specific needs.</p>
 
                 </div>
                 <div class="col-xl-3 mil-mb-30">
@@ -186,8 +186,8 @@
                     <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                         <h3>IV</h3>
                     </div>
-                    <h5 class="mil-mb-30">Consectetur <br>adipiscing elit</h5>
-                    <p>Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h5 class="mil-mb-30">Customized Solutions</h5>
+                    <p>Receive personalized security solutions designed to address your unique challenges and requirements, ensuring maximum protection and peace of mind.</p>
 
                 </div>
             </div>
@@ -218,7 +218,7 @@
     <!-- ??? end -->
 
     <!-- courses -->
-    <section class="mil-courses mil-p-120-90">
+    {{-- <section class="mil-courses mil-p-120-90">
         <div class="mil-deco" style="top: 0; right: 40%;"></div>
         <div class="container">
             <div class="row align-items-center mil-mb-60-adapt">
@@ -386,7 +386,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- courses end -->
 
     <!-- contact -->

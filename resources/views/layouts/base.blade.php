@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="{{ asset('css/plugins/swiper.min.css') }}">
     <!-- itsulu css -->
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
-    <title>Mcomps Limited</title>
+    <title>Mcomps Limited - Made To Go Beyond</title>
     <!-- itsulu favicon -->
     <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('favicon/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('favicon/favicon-32x32.png') }}">
@@ -25,7 +25,7 @@
     <link rel="mask-icon" href="{{ asset('favicon/safari-pinned-tab.svg') }}" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    
+
 </head>
 
 <body>
@@ -102,7 +102,7 @@
         </div>
         {{ $slot }}
 
-        
+
         <footer class="mil-dark-bg">
             <img src="{{ asset('img/deco/map.png') }}" alt="background" class="mil-footer-bg">
             <div class="container">
@@ -113,11 +113,10 @@
                             <img src="{{ asset('img/logo/logo-light.png') }}" alt="" class="mil-logo mil-mb-30"
                                 style="width: 140px">
 
-                            <p class="mil-light-soft mil-mb-30">Lorem ipsum dolor sit amet, consectetuer adipiscing
-                                elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
-                                volutpat.</p>
+                            <p class="mil-light-soft mil-mb-30">We design, develop, and support business applications using the latest
+                                 technology and standards.</p>
 
-                            <a href="#." class="mil-app-btn mil-mb-5">
+                            {{-- <a href="#." class="mil-app-btn mil-mb-5">
                                 <i class="fab fa-google-play"></i>
                                 <div class="mil-app-text">
                                     <span class="mil-accent mil-text-sm">Available on the</span>
@@ -131,7 +130,7 @@
                                     <span class="mil-accent mil-text-sm">Download on the</span>
                                     <div class="mil-h6">App Store</div>
                                 </div>
-                            </a>
+                            </a> --}}
 
                         </div>
                         <div class="col-xl-7 mil-mt-60-adapt">
@@ -139,10 +138,10 @@
                             <div class="row">
                                 <div class="col-lg-7 mil-mb-30">
 
-                                    <h3 class="mil-light mil-up-font mil-mb-30">Join The <span
-                                            class="mil-accent">ITSulu</span> <br>Experience</h3>
-                                    <p class="mil-light-soft">Lorem ipsum dolor sit amet, consectetuer<br> adipiscing
-                                        elit, sed diam nonummy.</p>
+                                    <h3 class="mil-light mil-up-font mil-mb-30">Join <span
+                                            class="mil-accent">McompsLimited</span> <br>Experience</h3>
+                                    <p class="mil-light-soft">Are you ready to join Mcomps Limited and experience the excitement of being part of a dynamic team dedicated to innovation and excellence? With opportunities for growth and development, we strive to create an environment where your skills and talents can flourish. Join us in shaping the future of technology
+                                         and making a meaningful impact in the industry.</p>
 
                                 </div>
                                 <div class="col-lg-5 mil-mb-30">
@@ -166,10 +165,10 @@
 
                 <div class="mil-footer-links">
                     <ul class="mil-social mil-light">
-                        <li class="mil-adapt-links"><a href="#.">Facebook</a><a href="#.">FB</a></li>
-                        <li class="mil-adapt-links"><a href="#.">Instagram</a><a href="#.">IG</a></li>
+                        <li class="mil-adapt-links"><a href="https://www.facebook.com/McompsLimited">Facebook</a><a href="#.">FB</a></li>
+                        {{-- <li class="mil-adapt-links"><a href="https://www.instagram.com">Instagram</a><a href="#.">IG</a></li> --}}
                         <li class="mil-adapt-links"><a href="#.">LinkedIn</a><a href="#.">IN</a></li>
-                        <li class="mil-adapt-links"><a href="#.">Twitter</a><a href="#.">TW</a></li>
+                        <li class="mil-adapt-links"><a href="https://twitter.com/McompsLimited">Twitter</a><a href="#.">TW</a></li>
                         <li class="mil-adapt-links"><a href="#.">YouTube</a><a href="#.">YT</a></li>
                     </ul>
                     <ul class="mil-additional-links mil-light">
@@ -181,7 +180,7 @@
             </div>
             <div class="mil-footer-bottom">
                 <div class="container">
-                    <p class="mil-text-sm mil-light">© ITSulu 2023.</p>
+                    <p class="mil-text-sm mil-light">© McompsLimited 2024.</p>
                     <p class="mil-text-sm mil-light">All Rights Reserved.</p>
                 </div>
             </div>
@@ -230,7 +229,7 @@
     <!-- bslthemes.com buttons assets begin -->
     <link rel="{{ asset('stylesheet" href="../../bslthms-advanced-btns/assets/style.css') }}">
     <script src="{{ asset('../../bslthms-advanced-btns/assets/script.js') }}"></script>
-    
+
 
 </body>
 

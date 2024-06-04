@@ -1,6 +1,7 @@
 <div>
     <div class="mil-banner-sm mil-deep-bg">
-        <img src="img/deco/map.png" alt="background" class="mil-background-image">
+        <img src="{{ asset('img/deco/map.png') }}
+        " alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
         <div class="mil-banner-content">
             <div class="container mil-relative">
@@ -23,10 +24,10 @@
                     <div class="mil-hori-box mil-mb-30">
                         <div class="mil-mr-30">
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg">
-                                <img src="img/icons/md/13.svg" alt="icon">
+                                <img src="{{ asset('img/icons/md/13.svg') }}" alt="icon">
                             </div>
                         </div>
-                        <h5>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna <span class="mil-accent">aliqu quis ipsum suspendisse</span> ultrices gravida.</h5>
+                        <h5>Enhance user satisfaction with intuitive and aesthetically pleasing designs. Our UI/UX design services focus on creating seamless user experiences that drive engagement and conversion.</h5>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -57,11 +58,11 @@
 
                     <div class="mil-icon-box-2 mil-mb-60">
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <img src="img/icons/md/1.svg" alt="icon">
+                            <img src="{{ asset('img/icons/md/1.svg') }}" alt="icon">
                         </div>
                         <div class="mil-box-text">
                             <h4 class="mil-mb-30">User Research</h4>
-                            <p class="mil-box-text mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-box-text mil-mb-30">Gain deep insights into user behavior and preferences to design intuitive interfaces that meet user needs and business goals.</p>
                         </div>
                     </div>
 
@@ -71,11 +72,11 @@
 
                     <div class="mil-icon-box-2 mil-mb-60">
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <img src="img/icons/md/15.svg" alt="icon">
+                            <img src="{{ asset('img/icons/md/15.svg') }}" alt="icon">
                         </div>
                         <div class="mil-box-text">
                             <h4 class="mil-mb-30">Prototyping</h4>
-                            <p class="mil-box-text mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-box-text mil-mb-30">Create interactive prototypes to visualize and test design concepts, ensuring a seamless user experience before development.</p>
                         </div>
                     </div>
 
@@ -85,11 +86,11 @@
 
                     <div class="mil-icon-box-2 mil-mb-60">
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <img src="img/icons/md/4.svg" alt="icon">
+                            <img src="{{ asset('img/icons/md/4.svg') }}" alt="icon">
                         </div>
                         <div class="mil-box-text">
                             <h4 class="mil-mb-30">UX Design</h4>
-                            <p class="mil-box-text mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-box-text mil-mb-30">Craft user experiences that are both functional and enjoyable, focusing on usability, accessibility, and user satisfaction.</p>
                         </div>
                     </div>
 
@@ -99,11 +100,11 @@
 
                     <div class="mil-icon-box-2 mil-mb-60">
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <img src="img/icons/md/13.svg" alt="icon">
+                            <img src="{{ asset('img/icons/md/13.svg') }}" alt="icon">
                         </div>
                         <div class="mil-box-text">
                             <h4 class="mil-mb-30">UI Design</h4>
-                            <p class="mil-box-text mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-box-text mil-mb-30">Design visually appealing interfaces that align with your brand identity and provide a delightful user experience.</p>
                         </div>
                     </div>
 
@@ -113,11 +114,11 @@
 
                     <div class="mil-icon-box-2 mil-mb-60">
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <img src="img/icons/md/16.svg" alt="icon">
+                            <img src="{{ asset('img/icons/md/16.svg') }}" alt="icon">
                         </div>
                         <div class="mil-box-text">
                             <h4 class="mil-mb-30">UI/UX Audit and Consulting</h4>
-                            <p class="mil-box-text mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-box-text mil-mb-30">Evaluate and enhance your current UI/UX design with expert audits and consulting to ensure optimal performance and user satisfaction.</p>
                         </div>
                     </div>
 
@@ -127,11 +128,11 @@
 
                     <div class="mil-icon-box-2 mil-mb-60">
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <img src="img/icons/md/10.svg" alt="icon">
+                            <img src="{{ asset('img/icons/md/10.svg') }}" alt="icon">
                         </div>
                         <div class="mil-box-text">
                             <h4 class="mil-mb-30">Usability Testing</h4>
-                            <p class="mil-box-text mil-mb-30">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p class="mil-box-text mil-mb-30">Conduct comprehensive usability testing to identify and resolve issues, ensuring your product is user-friendly and effective.</p>
                         </div>
                     </div>
 
@@ -145,7 +146,7 @@
     <!-- call to action -->
     <section class="mil-call-to-action mil-p-120-90">
         <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 35%; transform: rotate(180deg)"></div>
-        <img src="img/photo/15.jpg" class="mil-background-image" style="object-position: center" alt="image">
+        <img src="{{ asset('img/photo/15.jpg') }}" class="mil-background-image" style="object-position: center" alt="image">
         <div class="mil-overlay"></div>
         <div class="container mil-relative">
             <div class="row">
@@ -155,14 +156,14 @@
                 </div>
                 <div class="col-lg-6 mil-mb-30">
                     <div class="mil-adaptive-right">
-                        <a href="#." class="mil-button mil-border mil-light"><span>Get Started</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-light"><span>Get Started</span></a>
                     </div>
                 </div>
             </div>
-
         </div>
     </section>
     <!-- call to action end -->
+
 
     <!-- tech stack -->
     <section class="mil-p-120-90">
@@ -276,8 +277,8 @@
                         <div class="mil-number-icon mil-light mil-circle mil-mb-30">
                             <span>01</span>
                         </div>
-                        <h4 class="mil-light mil-mb-15">SaaS Development Consulting</h4>
-                        <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-light mil-mb-15">User Research and Analysis</h4>
+                        <p class="mil-light-soft">We conduct thorough user research and analysis to gain insights into user needs and behaviors, forming the foundation for effective design strategies.</p>
                     </div>
 
                 </div>
@@ -287,8 +288,8 @@
                         <div class="mil-number-icon mil-light mil-lines mil-mb-30">
                             <span>02</span>
                         </div>
-                        <h4 class="mil-light mil-mb-15">SaaS Design and Prototyping</h4>
-                        <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-light mil-mb-15">Wireframing and Prototyping</h4>
+                        <p class="mil-light-soft">Our team creates detailed wireframes and interactive prototypes, enabling visualization of design concepts and validation of user flows.</p>
                     </div>
 
                 </div>
@@ -298,8 +299,8 @@
                         <div class="mil-number-icon mil-light mil-mb-30">
                             <span>03</span>
                         </div>
-                        <h4 class="mil-light mil-mb-15">End-to-End SaaS Development</h4>
-                        <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-light mil-mb-15">UI/UX Design</h4>
+                        <p class="mil-light-soft">We design intuitive and visually appealing user interfaces, ensuring seamless and enjoyable user experiences.</p>
                     </div>
 
                 </div>
@@ -309,8 +310,8 @@
                         <div class="mil-number-icon mil-light mil-mb-30">
                             <span>04</span>
                         </div>
-                        <h4 class="mil-light mil-mb-15">Migration to SaaS</h4>
-                        <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-light mil-mb-15">Responsive Design</h4>
+                        <p class="mil-light-soft">Our designs are fully responsive, optimized for various devices and screen sizes to provide a consistent user experience across platforms.</p>
                     </div>
 
                 </div>
@@ -320,8 +321,8 @@
                         <div class="mil-number-icon mil-light mil-circle mil-mb-30">
                             <span>05</span>
                         </div>
-                        <h4 class="mil-light mil-mb-15">Third Party Integrations</h4>
-                        <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-light mil-mb-15">Design Systems and Guidelines</h4>
+                        <p class="mil-light-soft">We develop comprehensive design systems and guidelines, ensuring consistency and streamlining the design process..</p>
                     </div>
 
                 </div>
@@ -331,8 +332,8 @@
                         <div class="mil-number-icon mil-light mil-lines mil-mb-30">
                             <span>06</span>
                         </div>
-                        <h4 class="mil-light mil-mb-15">SaaS Support and Maintenance</h4>
-                        <p class="mil-light-soft">Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily.</p>
+                        <h4 class="mil-light mil-mb-15">Usability Testing</h4>
+                        <p class="mil-light-soft">We conduct extensive usability testing to identify and resolve issues, ensuring our designs are user-friendly and efficient.</p>
                     </div>
 
                 </div>
@@ -343,7 +344,7 @@
     <!-- ??? end -->
 
     <!-- steps -->
-    <section class="mil-deep-bg mil-p-120-0">
+    {{-- <section class="mil-deep-bg mil-p-120-0">
         <div class="container">
 
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Enterprise</span>
@@ -363,12 +364,12 @@
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden.</p>
+                                        <p>We create user personas and journey maps to visualize user needs and interactions. This foundational work ensures our designs are user-centered and aligned with your business objectives, setting the stage for a successful project.</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                                        <p>We utilize cutting-edge tools and methodologies to ensure our UI/UX designs are both innovative and functional. Our team conducts usability testing to gather feedback and refine designs, ensuring they meet user needs and provide a seamless experience.</p>
 
                                     </div>
                                 </div>
@@ -403,12 +404,12 @@
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden.</p>
+                                        <p>Our validation process ensures that the designs are not only visually appealing but also functional and user-friendly. We conduct thorough user testing to gather feedback and make necessary adjustments.</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                                        <p>We utilize various methods such as A/B testing, usability testing, and user interviews to validate our designs. This ensures that the final product meets the needs and expectations of the target audience.</p>
 
                                     </div>
                                 </div>
@@ -422,7 +423,7 @@
                                 <div class="mil-circle-illustration mil-with-dots mil-mb-60" data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t4.png" alt="img">
+                                        <img src="{{ asset('img/faces/t4.png" alt="img') }}">
                                     </div>
                                 </div>
 
@@ -442,12 +443,12 @@
                                 <div class="row mil-mb-60">
                                     <div class="col-lg-6">
 
-                                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden.</p>
+                                        <p>Our design process is centered around creating visually compelling and highly functional interfaces. We focus on understanding the user's needs and crafting designs that provide an intuitive and enjoyable experience..</p>
 
                                     </div>
                                     <div class="col-lg-6">
 
-                                        <p>Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>
+                                        <p>We leverage a blend of creativity and technical expertise to deliver designs that not only look great but also perform exceptionally well. Our team uses the latest design tools and follows best practices to ensure quality and consistency.</p>
 
                                     </div>
                                 </div>
@@ -461,7 +462,7 @@
                                 <div class="mil-circle-illustration mil-with-dots mil-mb-60" data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t3.png" alt="img">
+                                        <img src="{{ asset('img/faces/t3.png') }}" alt="img">
                                     </div>
                                 </div>
 
@@ -500,7 +501,7 @@
                                 <div class="mil-circle-illustration mil-with-dots mil-mb-60" data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t2.png" alt="img">
+                                        <img src="{{ asset('img/faces/t2.png') }}" alt="img">
                                     </div>
                                 </div>
 
@@ -520,11 +521,11 @@
             </div>
 
         </div>
-    </section>
+    </section> --}}
     <!-- steps end -->
 
     <!-- reviews -->
-    <section class="mil-gradient-bg mil-p-120-120">
+    {{-- <section class="mil-gradient-bg mil-p-120-120">
        <div class="mil-deco mil-deco-accent" style="top: 0; right: 30%;"></div>
        <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 10%; transform: rotate(180deg)"></div>
         <div class="container">
@@ -537,7 +538,7 @@
                                 <div class="mil-circle-illustration mil-with-dots mil-mb-60" data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t6.png" alt="img">
+                                        <img src="{{ asset('img/faces/t6.png') }}" alt="img">
                                     </div>
                                 </div>
 
@@ -545,7 +546,7 @@
                             <div class="col-lg-7">
 
                                 <div class="mil-icon-frame mil-light mil-icon-frame-sm mil-mb-60">
-                                    <img src="img/icons/sm/11.svg" alt="icon">
+                                    <img src="{{ asset('img/icons/sm/11.svg') }}" alt="icon">
                                 </div>
 
                                 <p class="mil-text-lg mil-light mil-mb-60">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida risus commodo viverra maecenas.</p>
@@ -564,7 +565,7 @@
                                 <div class="mil-circle-illustration mil-with-dots mil-mb-60" data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t1.png" alt="img">
+                                        <img src="{{ asset('img/faces/t1.png') }}" alt="img">
                                     </div>
                                 </div>
 
@@ -572,7 +573,7 @@
                             <div class="col-lg-7">
 
                                 <div class="mil-icon-frame mil-light mil-icon-frame-sm mil-mb-60">
-                                    <img src="img/icons/sm/11.svg" alt="icon">
+                                    <img src="{{ asset('img/icons/sm/11.svg') }}" alt="icon">
                                 </div>
 
                                 <p class="mil-text-lg mil-light mil-mb-60">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida risus commodo viverra maecenas.</p>
@@ -591,7 +592,7 @@
                                 <div class="mil-circle-illustration mil-with-dots mil-mb-60" data-swiper-parallax-scale=".8">
                                     <div class="mil-circle-bg"></div>
                                     <div class="mil-image-frame">
-                                        <img src="img/faces/t2.png" alt="img">
+                                        <img src="{{ asset('img/faces/t2.png') }}" alt="img">
                                     </div>
                                 </div>
 
@@ -599,7 +600,7 @@
                             <div class="col-lg-7">
 
                                 <div class="mil-icon-frame mil-light mil-icon-frame-sm mil-mb-60">
-                                    <img src="img/icons/sm/11.svg" alt="icon">
+                                    <img src="{{ asset('img/icons/sm/11.svg') }}" alt="icon">
                                 </div>
 
                                 <p class="mil-text-lg mil-light mil-mb-60">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua quis ipsum suspendisse ultrices gravida risus commodo viverra maecenas.</p>
@@ -622,11 +623,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- reviews end -->
 
     <!-- portfolio -->
-    <section class="mil-works mil-p-120-90">
+    {{-- <section class="mil-works mil-p-120-90">
         <div class="mil-deco" style="top: 0; right: 40%;"></div>
         <div class="container">
             <div class="row align-items-center mil-mb-60-adapt">
@@ -671,7 +672,7 @@
 
                         <a href="project.html" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/2.jpg" alt="project">
+                                <img src="{{ asset('img/projects/2.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -689,7 +690,7 @@
 
                         <a href="project.html" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/3.jpg" alt="project">
+                                <img src="{{ asset('img/projects/3.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -707,7 +708,7 @@
 
                         <a href="project.html" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/4.jpg" alt="project">
+                                <img src="{{ asset('img/projects/4.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -732,13 +733,13 @@
                 <div class="col-md-6 col-xl-6">
 
                     <div class="mil-adaptive-right">
-                        <a href="contact.html" class="mil-button mil-border mil-mb-30"><span>Get Started</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get Started</span></a>
                     </div>
 
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- portfolio end -->
 
     <!-- contact -->
