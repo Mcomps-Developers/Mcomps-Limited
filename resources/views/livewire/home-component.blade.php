@@ -153,7 +153,7 @@
                             <div class="mil-divider mil-divider-left mil-mb-50"></div>
                             <ul class="mil-simple-list mil-mb-50">
                                 <li> Professional support</li>
-                                <li> Proactive Maintenance Patch Management Monitoring.</li>
+                                <li> Proactive Maintenance.</li>
                                 <li>Managed Cyber Security Services.</li>
                                 <li>Managed Backup and Disaster Recovery Services.</li>
                                 <li>Managed Unified Communications (3CX).</li>
@@ -176,7 +176,7 @@
                             <ul class="mil-simple-list mil-mb-50">
                                 <li> Endpoint Security.</li>
                                 <li> Perimeter Security.</li>
-                                <li>Endpointdetection and response.</li>
+                                <li>Endpoint detection and response.</li>
                                 <li> Storage and cloud security.</li>
                                 <li>  Email Security.</li>
                                 <li>  Dark web Monitoring.</li>
@@ -191,14 +191,19 @@
                     <div class="swiper-slide">
 
                         <div class="mil-hover-card">
-                            <h4 class="mil-mb-30">Analytics and Research</h4>
-                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <h4 class="mil-mb-30">Unified
+                                Communications</h4>
+                            <p class="mil-mb-50">Offering you an all in one communication hub that improves efficiency
+                                reduces cost and enhances internal and external collaboration.</p>
                             <div class="mil-divider mil-divider-left mil-mb-50"></div>
                             <ul class="mil-simple-list mil-mb-50">
-                                <li>Accelerate innovation.</li>
-                                <li>With world-class tech teams.</li>
-                                <li>Our all service offerings to enhance.</li>
-                                <li>Simply drag, drop and customize.</li>
+                                <li>IP Telephony.</li>
+                                <li>Contact Center.</li>
+                                <li>Video Conferencing.</li>
+                                <li> Mobility.</li>
+                                <li>  Managed Unified Communications.</li>
+                                <li> Mobility.</li>
+                                <li> Bulky SMS.</li>
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -223,14 +228,17 @@
                     <div class="swiper-slide">
 
                         <div class="mil-hover-card">
-                            <h4 class="mil-mb-30">Web Development</h4>
-                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <h4 class="mil-mb-30">Software Solutions</h4>
+                            <p class="mil-mb-50">I.T. software solutions that are customized to fit your business needs,
+                                improve efficiency, drastically reduce errors and increase productivity and
+                                profits.</p>
                             <div class="mil-divider mil-divider-left mil-mb-50"></div>
                             <ul class="mil-simple-list mil-mb-50">
-                                <li>Accelerate innovation.</li>
-                                <li>With world-class tech teams.</li>
-                                <li>Our all service offerings to enhance.</li>
-                                <li>Simply drag, drop and customize.</li>
+                                <li>Business Applications.</li>
+                                <li> School systems.</li>
+                                <li>Payment Gateways.</li>
+                                <li> Fintech solutions.</li>
+                                <li> System Integrations.</li>
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
