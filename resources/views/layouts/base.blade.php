@@ -33,7 +33,7 @@
     <!-- wrapper -->
     <div class="mil-wrapper">
         <!-- top bar -->
-        @livewire('eleemnts.header')
+        @livewire('elements.header')
         {{ $slot }}
 
 

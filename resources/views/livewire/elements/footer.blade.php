@@ -34,25 +34,25 @@
                     <div class="row">
                         <div class="col-lg-7 mil-mb-30">
 
-                            <h3 class="mil-light mil-up-font mil-mb-30">Join <span
-                                    class="mil-accent">McompsLimited</span> <br>Experience</h3>
-                            <p class="mil-light-soft">Are you ready to join Mcomps Limited and experience the
+                            <h3 class="mil-light mil-up-font mil-mb-30">Get <span
+                                    class="mil-accent">{{ config('app.name') }}</span> <br>Experience</h3>
+                            <p class="mil-light-soft">Are you ready to engage {{ config('app.name') }} and experience
+                                the
                                 excitement of being part of a dynamic team dedicated to innovation and
                                 excellence? With opportunities for growth and development, we strive to create
                                 an environment where your skills and talents can flourish. Join us in shaping
-                                the future of technology
-                                and making a meaningful impact in the industry.</p>
+                                the future of technology and making a meaningful impact in the industry.</p>
 
                         </div>
                         <div class="col-lg-5 mil-mb-30">
-
                             <form>
-
-                                <input class="mil-rounded-input mil-text-center mil-mb-5" type="text"
+                                <input class="mil-rounded-input mil-text-center mil-mb-5" type="email"
                                     placeholder="Your email address">
-                                <button class="mil-button mil-accent-bg mil-fw"><span>Subscribe
-                                        Now</span></button>
-
+                                <button class="mil-button mil-accent-bg mil-fw">
+                                    <span>
+                                        Subscribe
+                                    </span>
+                                </button>
                             </form>
 
                         </div>
