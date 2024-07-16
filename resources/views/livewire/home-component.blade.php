@@ -126,7 +126,7 @@
                 <div class="col-md-6 col-xl-6">
 
                     <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Services and Solutions</span>
-                    <h2>Technological Applications</h2>
+                    <h2>Our Products & Solutions</h2>
 
                 </div>
                 <div class="col-md-6 col-xl-6">
@@ -146,14 +146,21 @@
                     <div class="swiper-slide">
 
                         <div class="mil-hover-card">
-                            <h4 class="mil-mb-30">Data Secuity</h4>
-                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <h4 class="mil-mb-30">Managed I.T.
+                                Services</h4>
+                            <p class="mil-mb-50">Benefit from our superior I.T. services that support the success of your
+                                organization.</p>
                             <div class="mil-divider mil-divider-left mil-mb-50"></div>
                             <ul class="mil-simple-list mil-mb-50">
-                                <li>Accelerate innovation.</li>
-                                <li>With world-class tech teams.</li>
-                                <li>Our all service offerings to enhance.</li>
-                                <li>Simply drag, drop and customize.</li>
+                                <li> Professional support</li>
+                                <li> Proactive Maintenance Patch Management Monitoring.</li>
+                                <li>Managed Cyber Security Services.</li>
+                                <li>Managed Backup and Disaster Recovery Services.</li>
+                                <li>Managed Unified Communications (3CX).</li>
+                                <li> Managed Web Services.</li>
+                                <li> Network as a Service.</li>
+                                <li> Infrastructure Suppor.</li>
+                                <li> Virtual CIO Services and Consulting.</li>
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -162,14 +169,20 @@
                     <div class="swiper-slide">
 
                         <div class="mil-hover-card">
-                            <h4 class="mil-mb-30">SEO and Optimazation</h4>
-                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <h4 class="mil-mb-30">Cyber Security</h4>
+                            <p class="mil-mb-50">Helping your business quickly and effectively respond to cyber attacks
+                                using the very best tools and technologies.</p>
                             <div class="mil-divider mil-divider-left mil-mb-50"></div>
                             <ul class="mil-simple-list mil-mb-50">
-                                <li>Accelerate innovation.</li>
-                                <li>With world-class tech teams.</li>
-                                <li>Our all service offerings to enhance.</li>
-                                <li>Simply drag, drop and customize.</li>
+                                <li> Endpoint Security.</li>
+                                <li> Perimeter Security.</li>
+                                <li>Endpointdetection and response.</li>
+                                <li> Storage and cloud security.</li>
+                                <li>  Email Security.</li>
+                                <li>  Dark web Monitoring.</li>
+                                <li> Authentication.</li>
+                                <li> Cyber Awareness Training.</li>
+                                <li> Managed Cyber Security.</li>
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
