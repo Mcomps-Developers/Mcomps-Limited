@@ -70,7 +70,7 @@
                                     <ul>
                                         <li><a href="{{ route('about') }}">About Mcomps</a></li>
                                         <li class="nav-item">
-                                            <a href="{{ asset('assets/img/Mcomps Limited Company Profile Online V.pdf') }}" class="nav-link">Company
+                                            <a href="{{ asset('img/Mcomps Limited Company Profile.pdf') }}" class="nav-link">Company
                                                 profile</a>
                                         </li>
                                         <li><a href="{{ route('team') }}">Our Team</a></li>
