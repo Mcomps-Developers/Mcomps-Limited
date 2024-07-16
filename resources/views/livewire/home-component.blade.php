@@ -11,13 +11,11 @@
                 </div>
                 <div class="swiper-slide">
                     <img src="{{ asset('img/photo/2.jpg') }}" class="mil-background-image"
-                        style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1"
-                    >
+                        style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1">
                 </div>
                 <div class="swiper-slide">
                     <img src="{{ asset('img/photo/3.jpg') }}" class="mil-background-image"
-                        style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1"
-                    >
+                        style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1">
                 </div>
             </div>
         </div>
@@ -27,10 +25,12 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-xl-8">
-                        <span class="mil-suptitle mil-mb-60"><span class="mil-light">The Next</span> <span
-                                class="mil-accent">Gen</span></span>
-                        <h1 class="mil-mb-60"><span class="mil-uppercase mil-light">We Provide Services <br>and
-                                Solutions</span> <span class="mil-font-3 mil-accent">To Enterprise</span></h1>
+                        <span class="mil-suptitle mil-mb-60"><span class="mil-light">MADE TO</span> <span
+                                class="mil-accent">GO BEYOND</span></span>
+                        <h1 class="mil-mb-60"><span class="mil-uppercase mil-light">We Provide Software solutions
+                                <br>and
+                                Digital Products </span> <span class="mil-font-3 mil-accent"> To Africa & Beyond</span>
+                        </h1>
                         <div class="mil-flex-hori-center">
                             <div>
                                 <a href="{{ route('contact') }}" class="mil-button mil-border mil-light"><span>Let’s
@@ -457,11 +457,11 @@
                         </div>
                         {{-- <p class="mil-text-sm mil-light-soft mil-mb-15">We will process your personal information in
                             accordance with our Privacy Policy.</p> --}}
-                            <div class="mil-input-frame mil-mb-30">
-                                <label><span class="mil-light">Subject</span><span
-                                        class="mil-accent">Required</span></label>
-                                <input type="text" id="name" placeholder="Your Email">
-                            </div>
+                        <div class="mil-input-frame mil-mb-30">
+                            <label><span class="mil-light">Subject</span><span
+                                    class="mil-accent">Required</span></label>
+                            <input type="text" id="name" placeholder="Your Email">
+                        </div>
 
                         <div class="mil-checbox-frame mil-mb-60">
                             <input class="mil-checkbox" id="checkbox-1" type="checkbox" value="value">
