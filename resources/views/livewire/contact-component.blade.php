@@ -171,12 +171,12 @@
     <!-- contact end -->
 
     <!-- map -->
-    <div>
+    {{-- <div>
         <div class="mil-map-frame">
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.289421122936!2d-74.0577166!3d40.7107384!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c250aee3ee6da7%3A0xe8a316c6c836011f!2sBuddy's%20JC!5e0!3m2!1sen!2sua!4v1682071433844!5m2!1sen!2sua" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="container"></div>
-    </div>
+    </div> --}}
     <!-- map end -->
 
     <!-- contact info -->

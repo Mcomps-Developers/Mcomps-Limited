@@ -42,8 +42,7 @@
                                         <div class="mil-window-content">
                                             <h5 class="mil-dark mil-mb-15">Experts</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">And here's some amazing content. It's very engaging.
-                                                Right?</p>
+                                            <p class="mil-text-sm">Our dedicated team of experts ensures your project is a success.</p>
                                         </div>
                                     </div>
                                     <div class="mil-item-hover">

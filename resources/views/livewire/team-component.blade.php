@@ -33,13 +33,13 @@
                 </div>
                 <div class="col-sm-6 col-lg-4">
 
-                    <a href="team-single.html" class="mil-team-card mil-mb-60">
+                    <a href="https://muremi.mcomps.co.ke/" class="mil-team-card mil-mb-60">
                         <div class="mil-image-frame mil-mb-30">
                             <img src="img/faces/2.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Muremi Peter</h4>
-                        <p>Software Engineer and Co-Founder</p>
+                        <p>Production and Quality Assurance</p>
                     </a>
 
                 </div>
@@ -50,8 +50,8 @@
                             <img src="img/faces/3.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Cele</h4>
-                        <p>Designer and Co-Founder</p>
+                        <h4 class="mil-mb-10">Celestine Oseda</h4>
+                        <p>Head of marketing and Co-Founder</p>
                     </a>
 
                 </div>
@@ -62,7 +62,7 @@
                             <img src="img/faces/4.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Tony Del</h4>
+                        <h4 class="mil-mb-10">Del Manzolo</h4>
                         <p>Head Of Public Relations and Co-Founder</p>
                     </a>
 
@@ -75,7 +75,7 @@
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Muzamil</h4>
-                        <p>General Manager and Co-Founder</p>
+                        <p>Operations Manager and Co-Founder</p>
                     </a>
 
                 </div>
@@ -86,8 +86,8 @@
                             <img src="img/faces/6.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Ambrose</h4>
-                        <p>Head Of MArketing and Co-Founder</p>
+                        <h4 class="mil-mb-10">Ambrose Ikedi</h4>
+                        <p>Cheaf Finance Officer and Co-Founder</p>
                     </a>
 
                 </div>
