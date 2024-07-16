@@ -15,7 +15,7 @@ html {
 .mil-simple-list li:before,
 .mil-suptitle.mil-suptitle-2:before {
     border-radius: 50%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
 }
 .mil-deco,
 .mil-top-panel .mil-logo {
@@ -80,7 +80,7 @@ h4,
 h5,
 h6 {
     font-family: Syne, sans-serif;
-    color: blue;
+    color: rgb(39, 93, 241);
     font-weight: 600;
     line-height: 140%;
 }
@@ -229,7 +229,7 @@ section {
 .mil-top-panel .mil-navigation nav ul li a:hover,
 .mil-top-panel .mil-navigation nav ul li.mil-has-children ul li a:hover,
 .mil-top-panel.mil-top-panel-transparent .mil-navigation nav ul li a:hover {
-    color: rgb(221, 28, 28);
+    color: rgb(236, 36, 36);
 }
 .mil-button.mil-light,
 .mil-light,
@@ -320,7 +320,7 @@ blockquote {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
     content: "\f00c";
-    color: rgb(221, 28, 28);
+    color: rgb(236, 36, 36);
     border-radius: 50%;
     left: 0;
     top: 0;
@@ -469,7 +469,7 @@ blockquote {
     height: 8px;
     border-radius: 50%;
     margin-right: 15px;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
 }
 .mil-footer-links ul li,
 .mil-social-links li {
@@ -508,7 +508,7 @@ blockquote {
 .mil-rec-res li a:hover i {
     -webkit-transform: translateX(0);
     transform: translateX(0);
-    color: rgb(221, 28, 28);
+    color: rgb(236, 36, 36);
 }
 .mil-adaptive-right {
     width: 100%;
@@ -553,8 +553,8 @@ blockquote {
     -ms-flex-pack: center;
     justify-content: center;
     text-align: center;
-    -webkit-box-shadow: inset 0 0 0 0 rgb(221, 28, 28);
-    box-shadow: inset 0 0 0 0 rgb(221, 28, 28);
+    -webkit-box-shadow: inset 0 0 0 0 rgb(236, 36, 36);
+    box-shadow: inset 0 0 0 0 rgb(236, 36, 36);
     border: 2px solid transparent;
     border-radius: 40px;
     transition: 0.2s cubic-bezier(0, 0, 0.3642, 1);
@@ -570,12 +570,12 @@ blockquote {
     font-size: 12px;
 }
 .mil-button.mil-border {
-    border-color: rgb(221, 28, 28);
+    border-color: rgb(236, 36, 36);
     background-color: transparent;
 }
 .mil-button.mil-border:hover {
-    -webkit-box-shadow: inset 0 0 0 1px rgb(221, 28, 28);
-    box-shadow: inset 0 0 0 1px rgb(221, 28, 28);
+    -webkit-box-shadow: inset 0 0 0 1px rgb(236, 36, 36);
+    box-shadow: inset 0 0 0 1px rgb(236, 36, 36);
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
 }
@@ -600,7 +600,7 @@ blockquote {
     border-color: transparent;
 }
 .mil-button.mil-accent-bg {
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     border-color: transparent;
 }
 .mil-button.mil-accent-bg:hover {
@@ -670,7 +670,7 @@ blockquote {
     font-size: 12px;
     color: #fff;
     margin-left: 15px;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     width: 35px;
     height: 35px;
     border-radius: 50%;
@@ -883,7 +883,7 @@ blockquote {
     width: 60px;
     border-radius: 50%;
     color: #fff;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     border: none;
     transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
@@ -950,12 +950,12 @@ blockquote {
 .mil-checbox-frame .mil-checkbox:hover + label:before,
 .mil-checbox-frame.mil-dark-input .mil-checkbox:hover + label:before {
     background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgb(221, 28, 28);
+    border: 1px solid rgb(236, 36, 36);
 }
 .mil-checbox-frame .mil-checkbox:checked + label:before,
 .mil-checbox-frame.mil-dark-input .mil-checkbox:checked + label:before {
-    background: rgb(221, 28, 28);
-    border: 1px solid rgb(221, 28, 28);
+    background: rgb(236, 36, 36);
+    border: 1px solid rgb(236, 36, 36);
 }
 .mil-checbox-frame .mil-checkbox:disabled + label {
     color: #b8b8b8;
@@ -1003,7 +1003,7 @@ blockquote {
     width: 25px;
     border-right: 5px solid #fff;
     height: 100%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     position: absolute;
     top: 0;
     left: 0;
@@ -1055,7 +1055,7 @@ blockquote {
     content: "";
     width: 350px;
     height: 350px;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     top: -150px;
     right: -150px;
     border-radius: 50%;
@@ -1245,7 +1245,7 @@ blockquote {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    border: 2px solid rgb(221, 28, 28);
+    border: 2px solid rgb(236, 36, 36);
 }
 .mil-top-panel .mil-navigation nav ul li.mil-has-children:after {
     content: "";
@@ -1300,7 +1300,7 @@ blockquote {
     .mil-search-icon:hover
     svg
     path {
-    fill: rgb(221, 28, 28);
+    fill: rgb(236, 36, 36);
 }
 .mil-banner-nav .mil-banner-button,
 .mil-menu-btn {
@@ -1663,7 +1663,7 @@ blockquote {
         width: 8px;
         height: 8px;
         border-radius: 50%;
-        border: 2px solid rgb(221, 28, 28);
+        border: 2px solid rgb(236, 36, 36);
     }
     .mil-top-panel .mil-navigation nav ul li.mil-has-children ul {
         position: static;
@@ -1706,7 +1706,7 @@ blockquote {
         color: #121820;
     }
     .mil-top-panel.mil-top-panel-transparent .mil-navigation nav ul li a:hover {
-        color: rgb(221, 28, 28);
+        color: rgb(236, 36, 36);
     }
     .mil-top-panel.mil-top-panel-transparent .mil-navigation nav ul li ul {
         border-radius: 5px;
@@ -1725,7 +1725,7 @@ blockquote {
         .mil-search-icon:hover
         svg
         path {
-        fill: rgb(221, 28, 28);
+        fill: rgb(236, 36, 36);
     }
     .mil-top-panel.mil-top-panel-transparent .mil-menu-btn span,
     .mil-top-panel.mil-top-panel-transparent .mil-menu-btn span:after,
@@ -1760,7 +1760,7 @@ blockquote {
 }
 .mil-banner-nav .mil-banner-button:hover,
 .mil-tags li a:hover {
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     color: #fff;
 }
 .mil-banner-sm {
@@ -1972,10 +1972,10 @@ blockquote {
 }
 .mil-illustration-1 .mil-item .mil-plus:hover .mil-item-hover h6 {
     opacity: 1;
-    color: rgb(221, 28, 28);
+    color: rgb(236, 36, 36);
 }
 .mil-illustration-1 .mil-item .mil-plus:hover .mil-item-hover .mil-plus-icon {
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     -webkit-animation: 1s linear infinite puls;
     animation: 1s linear infinite puls;
 }
@@ -2008,7 +2008,7 @@ blockquote {
 .mil-circle-illustration .mil-circle-bg {
     width: 100%;
     height: 100%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     position: absolute;
     top: 0;
     left: 0;
@@ -2086,7 +2086,7 @@ blockquote {
 }
 .mil-icon-frame:before {
     content: "";
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     border-radius: 50%;
     position: absolute;
     bottom: -2px;
@@ -2183,7 +2183,7 @@ blockquote {
     -webkit-transform: scale(0);
     transform: scale(0);
     border-radius: 50%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     width: 30px;
     height: 30px;
     -webkit-transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
@@ -2330,7 +2330,7 @@ blockquote {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     opacity: 0.9;
     position: absolute;
     z-index: 2;
@@ -2382,7 +2382,7 @@ blockquote {
     left: 0;
 }
 .mil-card-2 .mil-description .mil-category {
-    color: rgb(221, 28, 28) !important;
+    color: rgb(236, 36, 36) !important;
     font-weight: 500;
 }
 .mil-card-2:hover .mil-cover-frame img {
@@ -2417,14 +2417,14 @@ blockquote {
     background-color: rgba(18, 24, 32, 0.2);
 }
 .mil-hover-card:hover {
-    border-color: rgb(221, 28, 28);
+    border-color: rgb(236, 36, 36);
     -webkit-box-shadow: 0 0 40px 0 rgba(18, 24, 32, 0.1);
     box-shadow: 0 0 40px 0 rgba(18, 24, 32, 0.1);
 }
 .mil-banners-pagination
     .swiper-pagination-bullet.swiper-pagination-bullet-active,
 .mil-hover-card:hover i {
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
 }
 .mil-hover-card:hover .mil-deco {
     opacity: 1;
@@ -2566,7 +2566,7 @@ blockquote {
 .mil-number-icon span:before {
     content: "";
     border-radius: 50%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     width: 18px;
     height: 18px;
     z-index: -1;
@@ -2609,7 +2609,7 @@ blockquote {
 }
 .mil-skill-frame .mil-skill-track .mil-skill-prog {
     position: relative;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     height: 2px;
 }
 .mil-skill-frame .mil-skill-track .mil-skill-prog:after {
@@ -2617,7 +2617,7 @@ blockquote {
     width: 14px;
     height: 14px;
     border: 2px solid #fff;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     position: absolute;
     right: 0;
     border-radius: 50%;
@@ -2680,7 +2680,7 @@ blockquote {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     opacity: 0.9;
     position: absolute;
     z-index: 1;
@@ -2757,7 +2757,7 @@ blockquote {
     content: "";
     width: 300px;
     height: 300px;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     border-radius: 50%;
     position: absolute;
     z-index: 2;
@@ -2781,7 +2781,7 @@ blockquote {
     align-items: center;
     width: 70px;
     height: 70px;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     -webkit-animation: 1s linear infinite puls;
     animation: 1s linear infinite puls;
 }
@@ -2816,7 +2816,7 @@ blockquote {
     position: absolute;
     top: -120px;
     right: -120px;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     border-radius: 50%;
 }
 .mil-breadcrumbs li {
@@ -2838,7 +2838,7 @@ blockquote {
     width: 7px;
     height: 7px;
     border-radius: 50%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     margin: 0 15px;
 }
 .mil-breadcrumbs li:last-child {
@@ -2887,7 +2887,7 @@ blockquote {
     position: absolute;
 }
 .mil-team-card .mil-image-frame .mil-team-circle {
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     height: 120px;
     -webkit-transform: scale(0.5);
     transform: scale(0.5);
@@ -2996,7 +2996,7 @@ blockquote {
     width: 100%;
     padding-bottom: 100%;
     border-radius: 50%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     position: absolute;
     bottom: 0;
     left: 0;
@@ -3039,7 +3039,7 @@ blockquote {
     height: 13px;
     border: 2px solid #fff;
     border-radius: 50%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
 }
 .mil-accordion,
 .mil-tab-buttons.mil-tab-buttons-2,
@@ -3094,7 +3094,7 @@ blockquote {
     position: absolute;
     left: 0;
     font-size: 20px;
-    color: rgb(221, 28, 28);
+    color: rgb(236, 36, 36);
     bottom: -13px;
     background-color: #fff;
     padding-right: 10px;
@@ -3302,7 +3302,7 @@ blockquote {
     left: 0;
     width: 100%;
     height: 2px;
-    border-bottom: 2px solid rgb(221, 28, 28);
+    border-bottom: 2px solid rgb(236, 36, 36);
 }
 .mil-tabs input[type="radio"]:checked + label + .mil-tab {
     display: block;
@@ -3349,7 +3349,7 @@ blockquote {
 .mil-tab-buttons a:before {
     width: 0;
     height: 2px;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     top: -2px;
     transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
@@ -3447,7 +3447,7 @@ blockquote {
     transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
 .mil-tabs-left-nav li a.mil-active:before {
-    border: 5px solid rgb(221, 28, 28);
+    border: 5px solid rgb(236, 36, 36);
 }
 .mil-price-card .mil-plan-price {
     display: flex;
@@ -3457,7 +3457,7 @@ blockquote {
 }
 .mil-price-card .mil-button:hover,
 .mil-price-card:hover .mil-button {
-    border-color: rgb(221, 28, 28);
+    border-color: rgb(236, 36, 36);
 }
 .mil-vacancies-frame .mil-vacancy {
     list-style-type: none;
@@ -3470,7 +3470,7 @@ blockquote {
 .mil-vacancies-frame .mil-vacancy .mil-vacancy-head .mil-badge {
     padding: 2px 15px 0;
     margin-right: 15px;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     color: #fff;
     border-radius: 20px;
     text-transform: uppercase;
@@ -3724,7 +3724,7 @@ blockquote {
 }
 .mil-pagination .mil-pagination-numbers li.mil-active a {
     color: #fff;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
 }
 .mil-pagination .mil-button-all {
     width: 50px;
@@ -3789,7 +3789,7 @@ blockquote {
     content: "";
     width: 30%;
     padding-bottom: 30%;
-    background-color: rgb(221, 28, 28);
+    background-color: rgb(236, 36, 36);
     position: absolute;
     bottom: -15%;
     left: -10%;
@@ -3908,7 +3908,7 @@ blockquote {
     justify-content: space-between;
 }
 .mil-footer-links ul li:hover a {
-    color: rgb(221, 28, 28) !important;
+    color: rgb(236, 36, 36) !important;
 }
 @media screen and (max-width: 768px) {
     .mil-post-author img {
