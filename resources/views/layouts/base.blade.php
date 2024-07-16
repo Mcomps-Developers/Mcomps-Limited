@@ -23,7 +23,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('favicon/favicon-16x16.png') }}">
     <link rel="manifest" href="{{ asset('favicon/site.html') }}">
     <link rel="mask-icon" href="{{ asset('favicon/safari-pinned-tab.svg') }}" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileColor" content="#0934f1">
     <meta name="theme-color" content="#ffffff">
 
 </head>
@@ -49,32 +49,6 @@
     <script src="{{ asset('js/plugins/swiper.min.js') }}"></script>
     <!-- itsulu js -->
     <script src="{{ asset('js/main.js') }}"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-125314689-11');
-    </script>
-
-    <!-- bslthemes.com buttons html begin -->
-    <div class="bsl-popup" data-theme="itsulu" data-category="html">
-        <div class="bsl-popup__buttons"></div>
-        <div class="bsl-popup__content bsl-popup__content-related">
-            <div class="bsl-popup__menu"></div>
-            <div class="bsl-popup__tabs">
-                <div class="bsl-popup__tab bsl-popup__tab-demo"></div>
-                <div class="bsl-popup__tab bsl-popup__tab-all"></div>
-                <div class="bsl-popup__tab bsl-popup__tab-related"></div>
-                <div class="bsl-popup__tab bsl-popup__tab-version"></div>
-            </div>
-        </div>
-        <div class="bsl-popup__content bsl-popup__content-help"></div>
-    </div>
-    <!-- bslthemes.com buttons html end -->
 
     <!-- bslthemes.com buttons assets begin -->
     <link rel="{{ asset('stylesheet" href="bslthms-advanced-btns/assets/style.css') }}">

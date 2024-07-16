@@ -5,8 +5,7 @@
             <div class="row justify-content-between align-items-center">
                 <div class="col-xl-4 mil-mb-30">
 
-                    <img src="{{ asset('img/logo/logo-light.png') }}" alt="" class="mil-logo mil-mb-30"
-                        style="width: 140px">
+                    <img src="{{ asset('img/logo/logo-light.png') }}" alt="" class="mil-logo mil-mb-30">
 
                     <p class="mil-light-soft mil-mb-30">We design, develop, and support business applications
                         using the latest
