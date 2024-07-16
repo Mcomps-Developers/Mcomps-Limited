@@ -247,14 +247,127 @@
                     <div class="swiper-slide">
 
                         <div class="mil-hover-card">
-                            <h4 class="mil-mb-30">UI/UX Design</h4>
-                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <h4 class="mil-mb-30">Web Solutions</h4>
+                            <p class="mil-mb-50">Be part of the digital world aided by our outstanding, professional and fully
+                                tailored web Services.</p>
                             <div class="mil-divider mil-divider-left mil-mb-50"></div>
                             <ul class="mil-simple-list mil-mb-50">
-                                <li>Accelerate innovation.</li>
-                                <li>With world-class tech teams.</li>
-                                <li>Our all service offerings to enhance.</li>
-                                <li>Simply drag, drop and customize.</li>
+                                <li>Web Development and Design.</li>
+                                <li> Domain Registration.</li>
+                                <li> Web Hosting.</li>
+                                <li>  Email Services.</li>
+                                <li> Digital Marketing.</li>
+                                <li> Managed Web Services.</li>
+                                <li> Website redesigning.</li>
+                                
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                        </div>
+
+                    </div>
+                  
+                   
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">Network Solutions</h4>
+                            <p class="mil-mb-50">We deliver network and infrastructure solutions that future proof your
+                                business. Solutions that reduce operational costs and increase connectivity.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li> Structured Cabling.</li>
+                                <li> CCTV Camer as Installation.</li>
+                                <li>Video Surveillance Analytics.</li>
+                                <li>Biometrics and Access Control.</li>
+                                <li>Storage Solutions.</li>
+                                <li> SDWAN, LAN, WLAN.</li>
+                                <li>  Network as a Service .</li>
+                                
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">Data Center
+                                Solution</h4>
+                            <p class="mil-mb-50">Our future proof DC solution helps enterprises tap into the real value of
+                                data, accelerate digital transformation and promote the development of the
+                                digital economy.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li>Server Virtualization.</li>
+                                <li> Server Hosting.</li>
+                                <li> Data center Architecture Design.</li>
+                                <li> Colocation Services.</li>
+                               
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">Business Continuity
+                                & Cloud Services</h4>
+                            <p class="mil-mb-50">Backup your organization’s data to a secure cloud storage that is
+                                accessible to authorized users only. With us, you get world class cloud
+                                infrastructure that ensures security, reliability, availability.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li> Offsite Backup (cloud) Management.</li>
+                                <li> Disaster Recovery.</li>
+                                <li> Secret Data Handling.</li>
+                                <li>  Email Backup Solutions.</li>
+                                <li>   File Folder Backup.</li>
+                                <li>   High Availability.</li>
+                               
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">School Solutions</h4>
+                            <p class="mil-mb-50">Education institutions can choose from our wide selection of our
+                                customized services to get comprehensive solutions that address their
+                                needs.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li> School Management Systems.</li>
+                                <li> Time tabling Systems.</li>
+                                <li> Bulk SMS.</li>
+                                <li> School Bus Surveillance System.</li>
+                                <li>    Custom E-Learning System.</li>
+                                <li>   School Website.</li>
+                               
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">Digital Finance
+                                Solutions</h4>
+                            <p class="mil-mb-50">We provide financial institutions and financial service providers with digital
+                                solutions to assist them in serving the needs of clients putting in mind
+                                security, accessibility, and reliability.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li>E-Wallet.</li>
+                                <li>  Revenue Collection System.</li>
+                                <li>  Self-Service Portals.</li>
+                                <li> Payment Gateway.</li>
+                               
+                                <li>    Fintech Solution.</li>
+                               
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
