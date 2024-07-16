@@ -48,7 +48,7 @@
 
 
                                         {{-- <li><a href="team-single.html">Team Member</a></li> --}}
-                                        <li><a href="careers.html">Careers</a></li>
+
                                         {{-- <li><a href="{{ route('pricing') }}">Prices</a></li> --}}
 
 
@@ -59,43 +59,44 @@
                                     <a href="#.">Services</a>
                                     <ul>
                                 </li>
-                                        <li><a href="{{ route('service1') }}">SAAS-Development-Services</a></li>
-                                        <li><a href="{{ route('service2') }}">UI/UX design</a></li>
-                                        <li><a href="{{ route('service3') }}">Mobile app development</a></li>
-                                        <li><a href="{{ route('service4') }}">Cybersecurity</a></li>
-                                    </ul>
-                                </li>
-                                <li class="mil-has-children">
-                                    <a href="#.">About</a>
-                                    <ul>
-                                        <li><a href="{{ route('about') }}">About Mcomps</a></li>
-                                        <li class="nav-item">
-                                            <a href="{{ asset('img/Mcomps Limited Company Profile.pdf') }}" class="nav-link">Company
-                                                profile</a>
-                                        </li>
-                                        <li><a href="{{ route('team') }}">Our Team</a></li>
+                                <li><a href="{{ route('service1') }}">SAAS-Development-Services</a></li>
+                                <li><a href="{{ route('service2') }}">UI/UX design</a></li>
+                                <li><a href="{{ route('service3') }}">Mobile app development</a></li>
+                                <li><a href="{{ route('service4') }}">Cybersecurity</a></li>
+                            </ul>
+                            </li>
+                            <li class="mil-has-children">
+                                <a href="#.">About</a>
+                                <ul>
+                                    <li><a href="{{ route('about') }}">About Mcomps</a></li>
+                                    <li class="nav-item">
+                                        <a href="{{ asset('img/Mcomps Limited Company Profile.pdf') }}"
+                                            class="nav-link">Company
+                                            profile</a>
+                                    </li>
+                                    <li><a href="{{ route('team') }}">Our Team</a></li>
 
 
 
 
-                                    </ul>
-                                    <li class="mil-has-children">
-                                        <a href="#.">Media</a>
-                                        <ul>
+                                </ul>
+                            <li class="mil-has-children">
+                                <a href="#.">Media</a>
+                                <ul>
 
-                                            <li><a href="{{ route('blogs') }}">Blog</a></li>
-                                            <li><a href="{{ route('events') }}">Event</a></li>
-                                            <li><a href="{{ route('faq') }}">FAQ</a></li>
-                                        </ul>
-
-                                <li><a href="{{ route('contact') }}">Contact Us</a></li>
-                                <li class="mil-has-children">
-                                    {{-- <a href="#.">Other</a>
+                                    <li><a href="{{ route('blogs') }}">Blog</a></li>
+                                    <li><a href="{{ route('events') }}">Event</a></li>
+                                    <li><a href="{{ route('faq') }}">FAQ</a></li>
+                                </ul>
+                            <li><a href="careers.html">Careers</a></li>
+                            <li><a href="{{ route('contact') }}">Contact Us</a></li>
+                            <li class="mil-has-children">
+                                {{-- <a href="#.">Other</a>
                                     <ul>
                                         <li><a href="coming-soon.html">Coming Soon</a></li>
                                         <li><a href="404.html">404</a></li>
                                     </ul> --}}
-                                </li>
+                            </li>
                             </ul>
                             <div class="mil-search-icon">
                                 <svg width="21" height="20" viewBox="0 0 21 20" fill="none"
@@ -128,8 +129,9 @@
                             <img src="{{ asset('img/logo/logo-light.png') }}" alt="" class="mil-logo mil-mb-30"
                                 style="width: 140px">
 
-                            <p class="mil-light-soft mil-mb-30">We design, develop, and support business applications using the latest
-                                 technology and standards.</p>
+                            <p class="mil-light-soft mil-mb-30">We design, develop, and support business applications
+                                using the latest
+                                technology and standards.</p>
 
                             {{-- <a href="#." class="mil-app-btn mil-mb-5">
                                 <i class="fab fa-google-play"></i>
@@ -155,8 +157,12 @@
 
                                     <h3 class="mil-light mil-up-font mil-mb-30">Join <span
                                             class="mil-accent">McompsLimited</span> <br>Experience</h3>
-                                    <p class="mil-light-soft">Are you ready to join Mcomps Limited and experience the excitement of being part of a dynamic team dedicated to innovation and excellence? With opportunities for growth and development, we strive to create an environment where your skills and talents can flourish. Join us in shaping the future of technology
-                                         and making a meaningful impact in the industry.</p>
+                                    <p class="mil-light-soft">Are you ready to join Mcomps Limited and experience the
+                                        excitement of being part of a dynamic team dedicated to innovation and
+                                        excellence? With opportunities for growth and development, we strive to create
+                                        an environment where your skills and talents can flourish. Join us in shaping
+                                        the future of technology
+                                        and making a meaningful impact in the industry.</p>
 
                                 </div>
                                 <div class="col-lg-5 mil-mb-30">
@@ -180,10 +186,12 @@
 
                 <div class="mil-footer-links">
                     <ul class="mil-social mil-light">
-                        <li class="mil-adapt-links"><a href="https://www.facebook.com/McompsLimited">Facebook</a><a href="#.">FB</a></li>
+                        <li class="mil-adapt-links"><a href="https://www.facebook.com/McompsLimited">Facebook</a><a
+                                href="#.">FB</a></li>
                         {{-- <li class="mil-adapt-links"><a href="https://www.instagram.com">Instagram</a><a href="#.">IG</a></li> --}}
                         <li class="mil-adapt-links"><a href="#.">LinkedIn</a><a href="#.">IN</a></li>
-                        <li class="mil-adapt-links"><a href="https://twitter.com/McompsLimited">Twitter</a><a href="#.">TW</a></li>
+                        <li class="mil-adapt-links"><a href="https://twitter.com/McompsLimited">Twitter</a><a
+                                href="#.">TW</a></li>
                         <li class="mil-adapt-links"><a href="#.">YouTube</a><a href="#.">YT</a></li>
                     </ul>
                     <ul class="mil-additional-links mil-light">
