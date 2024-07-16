@@ -42,19 +42,19 @@
                         <nav>
                             <ul>
                                 <li class="mil-has-children">
-                                    <a href="#.">Enterprise</a>
+                                    <a href="/">Home</a>
                                     <ul>
                                         {{-- <li><a href="home-2.html">Home V2</a></li> --}}
-                                        <li><a href="{{ route('about') }}">About us</a></li>
-                                        <li><a href="{{ route('team') }}">Team</a></li>
+
+
                                         {{-- <li><a href="team-single.html">Team Member</a></li> --}}
                                         <li><a href="careers.html">Careers</a></li>
-                                        <li><a href="{{ route('pricing') }}">Prices</a></li>
-                                        <li><a href="{{ route('faq') }}">FAQ</a></li>
-                                        <li><a href="{{ route('events') }}">Event</a></li>
+                                        {{-- <li><a href="{{ route('pricing') }}">Prices</a></li> --}}
+
+
                                     </ul>
                                 </li>
-                                <li><a href="{{ route('portfolio') }}">Case Studies</a></li>
+                                {{-- <li><a href="{{ route('portfolio') }}">Case Studies</a></li> --}}
                                 <li class="mil-has-children">
                                     <a href="#.">Services</a>
                                     <ul>
@@ -66,13 +66,28 @@
                                     </ul>
                                 </li>
                                 <li class="mil-has-children">
-                                    <a href="#.">Solutions</a>
+                                    <a href="#.">About</a>
                                     <ul>
-                                        <li><a href="{{ route('solution1') }}">AI consulting and development</a></li>
-                                        <li><a href="{{ route('solution2') }}">Big data</a></li>
-                                        <li><a href="{{ route('solution3') }}">IoT development</a></li>
+                                        <li><a href="{{ route('about') }}">About Mcomps</a></li>
+                                        <li class="nav-item">
+                                            <a href="{{ asset('assets/img/Mcomps Limited Company Profile Online V.pdf') }}" class="nav-link">Company
+                                                profile</a>
+                                        </li>
+                                        <li><a href="{{ route('team') }}">Our Team</a></li>
+
+
+
+
                                     </ul>
-                                <li><a href="{{ route('blogs') }}">Blog</a></li>
+                                    <li class="mil-has-children">
+                                        <a href="#.">Media</a>
+                                        <ul>
+
+                                            <li><a href="{{ route('blogs') }}">Blog</a></li>
+                                            <li><a href="{{ route('events') }}">Event</a></li>
+                                            <li><a href="{{ route('faq') }}">FAQ</a></li>
+                                        </ul>
+
                                 <li><a href="{{ route('contact') }}">Contact Us</a></li>
                                 <li class="mil-has-children">
                                     {{-- <a href="#.">Other</a>

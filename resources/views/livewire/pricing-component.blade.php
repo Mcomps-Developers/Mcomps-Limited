@@ -1,4 +1,4 @@
-<div>
+{{-- <div>
     <div class="mil-banner-sm mil-deep-bg">
         <img src="{{ asset('img/deco/map.png') }}" alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
@@ -252,4 +252,4 @@
             </div>
         </div>
     </section>
-</div>
+</div> --}}
