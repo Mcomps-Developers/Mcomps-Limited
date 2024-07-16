@@ -33,7 +33,7 @@
                 </div>
                 <div class="col-sm-6 col-lg-4">
 
-                    <a href="https://muremi.mcomps.co.ke/" class="mil-team-card mil-mb-60">
+                    <a href="https://muremi.mcomps.africa/" class="mil-team-card mil-mb-60">
                         <div class="mil-image-frame mil-mb-30">
                             <img src="img/faces/2.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
