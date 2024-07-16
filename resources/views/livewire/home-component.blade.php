@@ -118,97 +118,498 @@
     </div>
 
     <!-- services -->
-    <section class="mil-services mil-p-120-90">
+    <section class="mil-services mil-deep-bg mil-p-120-90">
         <div class="mil-deco" style="top: 0; right: 20%;"></div>
         <div class="container">
-            <h2 class="mil-mb-30">How We Can <span class="mil-accent">Help You</span></h2>
-            <div class="row">
-                <div class="col-lg-6 col-xl-6">
-                    <h4 class="mil-mb-60 mil-mt-30">IT Services</h4>
-                    <div class="mil-divider mil-divider-left"></div>
-                    <div class="mil-service-item">
-                        <div class="mil-service-icon">
-                            <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/1.svg') }}">
-                            </div>
-                        </div>
-                        <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">01</span> Dedicated Team</h5>
-                            <p>Our dedicated team model ensures you have a skilled and focused team working exclusively
-                                on your projects,
-                                offering flexibility and control.</p>
+
+            <div class="row align-items-center mil-mb-90">
+                <div class="col-md-6 col-xl-6">
+
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Services and Solutions</span>
+                    <h2>Technological Applications</h2>
+
+                </div>
+                <div class="col-md-6 col-xl-6">
+
+                    <div class="mil-adaptive-right mil-mt-60-adapt">
+                        <div class="mil-slider-nav">
+                            <div class="mil-slider-btn-prev mil-services-prev"><i class="fas fa-arrow-left"></i><span class="mil-h6">Prev</span></div>
+                            <div class="mil-slider-btn-next mil-services-next"><span class="mil-h6">Next</span><i class="fas fa-arrow-right"></i></div>
                         </div>
                     </div>
-                    <div class="mil-divider mil-divider-left"></div>
-                    <div class="mil-service-item">
-                        <div class="mil-service-icon">
-                            <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/2.svg') }}">
-                            </div>
+
+                </div>
+            </div>
+
+            <div class="swiper-container mil-services-slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">Data Secuity</h4>
+                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li>Accelerate innovation.</li>
+                                <li>With world-class tech teams.</li>
+                                <li>Our all service offerings to enhance.</li>
+                                <li>Simply drag, drop and customize.</li>
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
-                        <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">02</span> QA and Testing</h5>
-                            <p>We offer comprehensive quality assurance and testing services to ensure your software is
-                                bug-free,
-                                reliable, and performs optimally.</p>
-                        </div>
+
                     </div>
-                    <div class="mil-divider mil-divider-left"></div>
-                    <div class="mil-service-item">
-                        <div class="mil-service-icon">
-                            <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/3.svg') }}">
-                            </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">SEO and Optimazation</h4>
+                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li>Accelerate innovation.</li>
+                                <li>With world-class tech teams.</li>
+                                <li>Our all service offerings to enhance.</li>
+                                <li>Simply drag, drop and customize.</li>
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
-                        <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">03</span> SaaS</h5>
-                            <p>We develop robust Software as a Service (SaaS) solutions that are scalable, secure,
-                                and designed to meet your business needs.</p>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">Analytics and Research</h4>
+                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li>Accelerate innovation.</li>
+                                <li>With world-class tech teams.</li>
+                                <li>Our all service offerings to enhance.</li>
+                                <li>Simply drag, drop and customize.</li>
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">IT Management Services</h4>
+                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li>Accelerate innovation.</li>
+                                <li>With world-class tech teams.</li>
+                                <li>Our all service offerings to enhance.</li>
+                                <li>Simply drag, drop and customize.</li>
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">Web Development</h4>
+                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li>Accelerate innovation.</li>
+                                <li>With world-class tech teams.</li>
+                                <li>Our all service offerings to enhance.</li>
+                                <li>Simply drag, drop and customize.</li>
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                        </div>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <div class="mil-hover-card">
+                            <h4 class="mil-mb-30">UI/UX Design</h4>
+                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
+                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
+                            <ul class="mil-simple-list mil-mb-50">
+                                <li>Accelerate innovation.</li>
+                                <li>With world-class tech teams.</li>
+                                <li>Our all service offerings to enhance.</li>
+                                <li>Simply drag, drop and customize.</li>
+                            </ul>
+                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                        </div>
+
                     </div>
                 </div>
-                <div class="col-lg-6 col-xl-6">
-                    <h4 class="mil-mb-60 mil-mt-30">IT Solutions</h4>
-                    <div class="mil-divider mil-divider-left"></div>
-                    <div class="mil-service-item">
-                        <div class="mil-service-icon">
-                            <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/4.svg') }}">
-                            </div>
-                        </div>
-                        <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">01</span> Blockchain</h5>
-                            <p>We harness the power of blockchain technology to provide secure, transparent,
-                                and efficient solutions for various business applications.</p>
-                        </div>
-                    </div>
-                    <div class="mil-divider mil-divider-left"></div>
-                    <div class="mil-service-item">
-                        <div class="mil-service-icon">
-                            <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/5.svg') }}">
-                            </div>
-                        </div>
-                        <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">02</span> Artificial Intelligence</h5>
-                            <p>Our AI solutions are designed to automate processes, provide insights,
-                                and enhance decision-making to drive business growth and innovation.</p>
-                        </div>
-                    </div>
-                    <div class="mil-divider mil-divider-left"></div>
-                    <div class="mil-service-item">
-                        <div class="mil-service-icon">
-                            <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/6.svg') }}">
-                            </div>
-                        </div>
-                        <div class="mil-service-text">
-                            <h5 class="mil-mb-30"><span class="mil-accent">03</span> Internet of Things</h5>
-                            <p>We develop IoT solutions that connect devices and systems, enabling real-time data
-                                collection and analysis
-                                for smarter decision-making and improved efficiency.</p>
+            </div>
+
+        </div>
+    </section>
+    <section class="mil-events mil-deep-bg mil-p-120-120">
+        <div class="mil-deco" style="top: 0; right: 20%;"></div>
+        <div class="container">
+
+            <div class="row align-items-end mil-mb-60-adapt">
+                <div class="col-md-4 col-xl-4">
+
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">We Share Knowledge</span>
+                    <h2 class="mil-mb-30">Virtual Events</h2>
+
+                </div>
+                <div class="col-md-5 col-xl-5">
+
+                    <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+
+                </div>
+                <div class="col-md-3 col-xl-3">
+
+                    <div class="mil-adaptive-right mil-mb-30">
+                        <div class="mil-slider-nav">
+                            <div class="mil-slider-btn-prev mil-events-prev"><i class="fas fa-arrow-left"></i><span class="mil-h6">Prev</span></div>
+                            <div class="mil-slider-btn-next mil-events-next"><span class="mil-h6">Next</span><i class="fas fa-arrow-right"></i></div>
                         </div>
                     </div>
+
+                </div>
+            </div>
+
+            <div class="swiper-container mil-events-slider">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+
+                        <a href="event.html" class="mil-card-2">
+                            <div class="mil-cover-frame">
+                                <img src="img/projects/1.jpg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/1.jpg" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/2.jpg" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/3.jpg" alt="speaker">
+                                    </li>
+                                </ul>
+                                <div class="mil-card-title">
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <a href="event.html" class="mil-card-2">
+                            <div class="mil-cover-frame">
+                                <img src="img/projects/2.jpg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/1.jpg" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/3.jpg" alt="speaker">
+                                    </li>
+                                </ul>
+                                <div class="mil-card-title">
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <a href="event.html" class="mil-card-2">
+                            <div class="mil-cover-frame">
+                                <img src="img/projects/3.jpg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/1.jpg" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/2.jpg" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/3.jpg" alt="speaker">
+                                    </li>
+                                </ul>
+                                <div class="mil-card-title">
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <a href="event.html" class="mil-card-2">
+                            <div class="mil-cover-frame">
+                                <img src="img/projects/4.jpg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/1.jpg" alt="speaker">
+                                    </li>
+                                </ul>
+                                <div class="mil-card-title">
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section class="mil-about mil-p-120-60">
+        <div class="mil-deco" style="top: 0; right: 10%;"></div>
+        <div class="container">
+
+            <div class="row align-items-center justify-content-between">
+                <div class="col-md-5 col-xl-5">
+
+                    <div class="mil-about-illustration mil-mb-60">
+                        <div class="mil-image-frame">
+                            <img src="img/photo/8.jpg" alt="Office">
+                        </div>
+                        <div class="mil-window">
+                            <ul class="mil-speakers">
+                                <li class="mil-speaker">
+                                    <img src="img/faces/1.jpg" alt="speaker">
+                                </li>
+                                <li class="mil-speaker">
+                                    <img src="img/faces/2.jpg" alt="speaker">
+                                </li>
+                                <li class="mil-speaker">
+                                    <img src="img/faces/3.jpg" alt="speaker">
+                                </li>
+                                <li class="mil-speaker">
+                                    <img src="img/faces/4.jpg" alt="speaker">
+                                </li>
+                            </ul>
+                            <div class="mil-window-bottom">
+                                <h3>4.5</h3>
+                                <div>
+                                    <ul class="mil-stars">
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li><i class="fas fa-star"></i></li>
+                                        <li class="mil-empty"><i class="fas fa-star"></i></li>
+                                    </ul>
+                                    <p class="mil-text-sm">From +5000 reviews</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-6 col-xl-6">
+
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Designed for Developers</span>
+                    <h2 class="mil-mb-30">Powerful and Easy</h2>
+                    <p class="mil-mb-30">Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. There are many variations of passages majority.</p>
+                    <ul class="mil-simple-list mil-mb-60">
+                        <li>Accelerate innovation.</li>
+                        <li>With world-class tech teams.</li>
+                        <li>Our all service offerings to enhance.</li>
+                        <li>Simply drag, drop and customize.</li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="mil-courses mil-deep-bg mil-p-120-120">
+        <div class="mil-deco" style="top: 0; right: 40%;"></div>
+        <div class="mil-deco" style="bottom: 0; right: 15%; transform: rotate(180deg)"></div>
+        <div class="container">
+            <div class="row align-items-center mil-mb-60-adapt">
+                <div class="col-md-6 col-xl-6">
+
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Unlimited Training</span>
+                    <h2 class="mil-mb-30">Latest Courses</h2>
+
+                </div>
+                <div class="col-md-6 col-xl-6">
+
+                    <div class="mil-adaptive-right">
+                        <div class="mil-slider-nav mil-mb-30">
+                            <div class="mil-slider-btn-prev mil-courses-prev"><i class="fas fa-arrow-left"></i><span class="mil-h6">Prev</span></div>
+                            <div class="mil-slider-btn-next mil-courses-next"><span class="mil-h6">Next</span><i class="fas fa-arrow-right"></i></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="swiper-container mil-courses-slider mil-mb-90">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+
+                        <a href="#." class="mil-card">
+                            <div class="mil-cover-frame mil-mb-15">
+                                <img src="img/blog/1.jpg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <div class="mil-fw-descr">
+                                    <div class="mil-card-top">
+                                        <ul class="mil-bages mil-mb-15">
+                                            <li class="mil-dark">Security</li>
+                                            <li class="mil-dark">Team</li>
+                                        </ul>
+                                        <div class="mil-stars mil-mb-15">
+                                            <span class="mil-dark">4.5</span>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li class="mil-empty"><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                    <div class="mil-divider mil-divider-left mil-mb-20"></div>
+                                    <h4 class="mil-mb-15">Cibersecurity Premium</h4>
+                                    <p class="mil-text-sm mil-mb-15">John Stone</p>
+                                    <div class="mil-text-lg mil-bold mil-accent">Free</div>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <a href="#." class="mil-card">
+                            <div class="mil-cover-frame mil-mb-15">
+                                <img src="img/projects/2.jpg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <div class="mil-fw-descr">
+                                    <div class="mil-card-top">
+                                        <ul class="mil-bages mil-mb-15">
+                                            <li class="mil-dark">Security</li>
+                                            <li class="mil-dark">Team</li>
+                                        </ul>
+                                        <div class="mil-stars mil-mb-15">
+                                            <span class="mil-dark">4.5</span>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li class="mil-empty"><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                    <div class="mil-divider mil-divider-left mil-mb-20"></div>
+                                    <h4 class="mil-mb-15">Cibersecurity Premium</h4>
+                                    <p class="mil-text-sm mil-mb-15">John Stone</p>
+                                    <div class="mil-text-lg mil-dark mil-bold">$22.99 us</div>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <a href="#." class="mil-card">
+                            <div class="mil-cover-frame mil-mb-15">
+                                <img src="img/projects/1.jpg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <div class="mil-fw-descr">
+                                    <div class="mil-card-top">
+                                        <ul class="mil-bages mil-mb-15">
+                                            <li class="mil-dark">Security</li>
+                                            <li class="mil-dark">Team</li>
+                                        </ul>
+                                        <div class="mil-stars mil-mb-15">
+                                            <span class="mil-dark">4.5</span>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li class="mil-empty"><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                    <div class="mil-divider mil-divider-left mil-mb-20"></div>
+                                    <h4 class="mil-mb-15">Cibersecurity Premium</h4>
+                                    <p class="mil-text-sm mil-mb-15">John Stone</p>
+                                    <div class="mil-text-lg mil-bold"><s class="mil-text-sm">$15.99 us</s> &nbsp; <span class="mil-accent">$50.99 us</span></div>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <a href="#." class="mil-card">
+                            <div class="mil-cover-frame mil-mb-15">
+                                <img src="img/blog/3.jpg" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <div class="mil-fw-descr">
+                                    <div class="mil-card-top">
+                                        <ul class="mil-bages mil-mb-15">
+                                            <li class="mil-dark">Security</li>
+                                            <li class="mil-dark">Team</li>
+                                        </ul>
+                                        <div class="mil-stars mil-mb-15">
+                                            <span class="mil-dark">4.5</span>
+                                            <ul>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li><i class="fas fa-star"></i></li>
+                                                <li class="mil-empty"><i class="fas fa-star"></i></li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                    <div class="mil-divider mil-divider-left mil-mb-20"></div>
+                                    <h4 class="mil-mb-15">Cibersecurity Premium</h4>
+                                    <p class="mil-text-sm mil-mb-15">John Stone</p>
+                                    <div class="mil-dark mil-bold">19.99 us$</div>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-md-6 col-xl-6">
+
+                    <a href="#." class="mil-link"><span>See More Courses</span><i class="fas fa-arrow-right"></i></a>
+
                 </div>
             </div>
         </div>
