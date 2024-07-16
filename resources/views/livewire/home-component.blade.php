@@ -27,10 +27,10 @@
                     <div class="col-xl-8">
                         <span class="mil-suptitle mil-mb-60"><span class="mil-light">MADE TO</span> <span
                                 class="mil-accent">GO BEYOND</span></span>
-                        <h1 class="mil-mb-60"><span class="mil-uppercase mil-light">We Provide Software solutions
+                        <h2 class="mil-mb-60"><span class="mil-uppercase mil-light">We Provide Software solutions
                                 <br>and
-                                Digital Products </span> <span class="mil-font-3 mil-accent"> To Africa & Beyond</span>
-                        </h1>
+                                Digital Products </span> <span class="mil-font-3 mil-accent"> to africa & beyond</span>
+                        </h2>
                         <div class="mil-flex-hori-center">
                             <div>
                                 <a href="{{ route('contact') }}" class="mil-button mil-border mil-light"><span>Let’s
