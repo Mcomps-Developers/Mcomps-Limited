@@ -4,15 +4,17 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <img src="{{ asset('img/photo/1.jpg') }}" class="mil-background-image" style="object-position: center"
-                        data-swiper-parallax="-100" data-swiper-parallax-scale="1.1" alt="image">
+                        data-swiper-parallax="-100" data-swiper-parallax-scale="1.1">
                 </div>
                 <div class="swiper-slide">
-                    <img src="{{ asset('img/photo/2.jpg') }}" class="mil-background-image" style="object-position: center"
-                        data-swiper-parallax="-100" data-swiper-parallax-scale="1.1" alt="image">
+                    <img src="{{ asset('img/photo/2.jpg') }}" class="mil-background-image"
+                        style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1"
+                    >
                 </div>
                 <div class="swiper-slide">
-                    <img src="{{ asset('img/photo/3.jpg') }}" class="mil-background-image" style="object-position: center"
-                        data-swiper-parallax="-100" data-swiper-parallax-scale="1.1" alt="image">
+                    <img src="{{ asset('img/photo/3.jpg') }}" class="mil-background-image"
+                        style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1"
+                    >
                 </div>
             </div>
         </div>
@@ -31,7 +33,8 @@
                                 <a href="{{ route('contact') }}" class="mil-button mil-border mil-light"><span>Let’s
                                         Talk</span></a>
                             </div>
-                            <p class="mil-button-descr mil-light-soft">We design, develop, and support business applications using the <br> latest technology and standards.</p>
+                            <p class="mil-button-descr mil-light-soft">We design, develop, and support business
+                                applications using the <br> latest technology and standards.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -42,7 +45,8 @@
                                         <div class="mil-window-content">
                                             <h5 class="mil-dark mil-mb-15">Experts</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">Our dedicated team of experts ensures your project is a success.</p>
+                                            <p class="mil-text-sm">Our dedicated team of experts ensures your project is
+                                                a success.</p>
                                         </div>
                                     </div>
                                     <div class="mil-item-hover">
@@ -92,7 +96,7 @@
     <!-- banner end -->
 
     <!-- partners -->
-    {{-- <div class="mil-partners mil-p-90-60">
+    <div class="mil-partners mil-p-90-60">
         <div class="container">
             <div class="mil-partners-frame">
                 <a href="#."><img src="{{ asset('img/partners/1.png') }}" alt="partner"></a>
@@ -103,12 +107,12 @@
                 <a href="#."><img src="{{ asset('img/partners/6.png') }}" alt="partner"></a>
             </div>
         </div>
-    </div> --}}
+    </div>
     <!-- partners end -->
 
-    {{-- <div class="container">
+    <div class="container">
         <div class="mil-divider"></div>
-    </div> --}}
+    </div>
 
     <!-- services -->
     <section class="mil-services mil-p-120-90">
@@ -122,39 +126,41 @@
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/1.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/md/1.svg') }}">
                             </div>
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">01</span> Dedicated Team</h5>
-                            <p>Our dedicated team model ensures you have a skilled and focused team working exclusively on your projects,
-                                 offering flexibility and control.</p>
+                            <p>Our dedicated team model ensures you have a skilled and focused team working exclusively
+                                on your projects,
+                                offering flexibility and control.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/2.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/md/2.svg') }}">
                             </div>
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">02</span> QA and Testing</h5>
-                            <p>We offer comprehensive quality assurance and testing services to ensure your software is bug-free,
-                                 reliable, and performs optimally.</p>
+                            <p>We offer comprehensive quality assurance and testing services to ensure your software is
+                                bug-free,
+                                reliable, and performs optimally.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/3.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/md/3.svg') }}">
                             </div>
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">03</span> SaaS</h5>
                             <p>We develop robust Software as a Service (SaaS) solutions that are scalable, secure,
-                                 and designed to meet your business needs.</p>
+                                and designed to meet your business needs.</p>
                         </div>
                     </div>
                 </div>
@@ -164,20 +170,20 @@
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/4.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/md/4.svg') }}">
                             </div>
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">01</span> Blockchain</h5>
                             <p>We harness the power of blockchain technology to provide secure, transparent,
-                                 and efficient solutions for various business applications.</p>
+                                and efficient solutions for various business applications.</p>
                         </div>
                     </div>
                     <div class="mil-divider mil-divider-left"></div>
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/5.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/md/5.svg') }}">
                             </div>
                         </div>
                         <div class="mil-service-text">
@@ -190,13 +196,14 @@
                     <div class="mil-service-item">
                         <div class="mil-service-icon">
                             <div class="mil-icon-frame mil-icon-frame-md">
-                                <img src="{{ asset('img/icons/md/6.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/md/6.svg') }}">
                             </div>
                         </div>
                         <div class="mil-service-text">
                             <h5 class="mil-mb-30"><span class="mil-accent">03</span> Internet of Things</h5>
-                            <p>We develop IoT solutions that connect devices and systems, enabling real-time data collection and analysis
-                                 for smarter decision-making and improved efficiency.</p>
+                            <p>We develop IoT solutions that connect devices and systems, enabling real-time data
+                                collection and analysis
+                                for smarter decision-making and improved efficiency.</p>
                         </div>
                     </div>
                 </div>
@@ -243,11 +250,12 @@
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Study Buddy.</h4>
-                                    <a href="https://www.studybuddy.co.ke/"><b>Stydy Buddy</b></a>
+                                    <h4 class="mil-mb-20">Study Buddy</h4>
+                                    <a href="https://www.studybuddy.co.ke/"><b>StydyBuddy</b></a>
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Study Buddy is an innovative platform that connects students directly with teachers,
+                                    <p>Study Buddy is an innovative platform that connects students directly with
+                                        teachers,
                                         facilitating personalized learning and real-time academic support.</p>
                                 </div>
                             </div>
@@ -266,8 +274,9 @@
                                     <a href="https://angoloexpert.com/"><b>Angolo Experts</b></a>
                                 </div>
                                 <div class="mil-card-text">
-                                    <p>Angolo Experts is a dynamic content selling platform designed to empower creators and connect
-                                         them with their audience through high-quality, engaging content.</p>
+                                    <p>Angolo Experts is a dynamic content selling platform designed to empower creators
+                                        and connect
+                                        them with their audience through high-quality, engaging content.</p>
                                 </div>
                             </div>
                         </a>
@@ -286,7 +295,7 @@
                                 </div>
                                 <div class="mil-card-text">
                                     <p>PointPro is a web-based POS system that you can easily use on your mobile phone,
-                                         designed to streamline your business operations effortlessly.</p>
+                                        designed to streamline your business operations effortlessly.</p>
                                 </div>
                             </div>
                         </a>
@@ -305,7 +314,8 @@
                 <div class="col-md-6 col-xl-6">
 
                     <div class="mil-adaptive-right">
-                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get Started</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get
+                                Started</span></a>
                     </div>
 
                 </div>
@@ -327,11 +337,12 @@
                     <div class="mil-mb-60">
                         <div class="mil-icon-box-head mil-mb-30">
                             <div class="mil-icon-frame mil-icon-frame-sm">
-                                <img src="{{ asset('img/icons/sm/1.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/sm/1.svg') }}">
                             </div>
                             <h5>Thinking Big</h5>
                         </div>
-                        <p>At McompsLimited, we believe in thinking big and setting ambitious goals. We aim to revolutionize the
+                        <p>At McompsLimited, we believe in thinking big and setting ambitious goals. We aim to
+                            revolutionize the
                             software industry with innovative
                             solutions tailored to meet our clients' needs.</p>
                     </div>
@@ -342,11 +353,12 @@
                     <div class="mil-mb-60">
                         <div class="mil-icon-box-head mil-mb-30">
                             <div class="mil-icon-frame mil-icon-frame-sm">
-                                <img src="{{ asset('img/icons/sm/2.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/sm/2.svg') }}">
                             </div>
                             <h5>Starting Small</h5>
                         </div>
-                        <p>We understand the importance of starting small and focusing on the details. Our team works closely with clients from the initial idea to the final product,
+                        <p>We understand the importance of starting small and focusing on the details. Our team works
+                            closely with clients from the initial idea to the final product,
                             ensuring every aspect is perfected..</p>
                     </div>
 
@@ -356,12 +368,13 @@
                     <div class="mil-mb-60">
                         <div class="mil-icon-box-head mil-mb-30">
                             <div class="mil-icon-frame mil-icon-frame-sm">
-                                <img src="{{ asset('img/icons/sm/3.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/sm/3.svg') }}">
                             </div>
                             <h5>Creating Fast</h5>
                         </div>
-                        <p>Mcomps Limited is committed to rapid development without compromising quality. Our experienced team leverages cutting-edge technologies and
-                             best practices to deliver solutions quickly and efficiently.</p>
+                        <p>Mcomps Limited is committed to rapid development without compromising quality. Our
+                            experienced team leverages cutting-edge technologies and
+                            best practices to deliver solutions quickly and efficiently.</p>
                     </div>
 
                 </div>
@@ -370,12 +383,13 @@
                     <div class="mil-mb-60">
                         <div class="mil-icon-box-head mil-mb-30">
                             <div class="mil-icon-frame mil-icon-frame-sm">
-                                <img src="{{ asset('img/icons/sm/4.svg') }}" alt="icon">
+                                <img src="{{ asset('img/icons/sm/4.svg') }}">
                             </div>
                             <h5>Innovating Scale</h5>
                         </div>
-                        <p>At Mcomps Limited, we believe in innovation at scale. We continuously explore new technologies and methodologies to drive innovation in our solutions,
-                             ensuring they remain cutting-edge and future-proof.</p>
+                        <p>At Mcomps Limited, we believe in innovation at scale. We continuously explore new
+                            technologies and methodologies to drive innovation in our solutions,
+                            ensuring they remain cutting-edge and future-proof.</p>
                     </div>
 
                 </div>
@@ -411,8 +425,11 @@
                 </div>
                 <div class="col-xl-6">
 
-                    <p class="mil-mt-60-adapt">At Mcomps Limited, we excel in leveraging technology to drive business success.
-                         Our team is adept at crafting innovative solutions tailored to your specific needs, ensuring that your business thrives in today's digital landscape. With our expertise, you can unlock new opportunities,
+                    <p class="mil-mt-60-adapt">At Mcomps Limited, we excel in leveraging technology to drive business
+                        success.
+                        Our team is adept at crafting innovative solutions tailored to your specific needs, ensuring
+                        that your business thrives in today's digital landscape. With our expertise, you can unlock new
+                        opportunities,
                         streamline operations, and achieve your goals with confidence</p>
 
                 </div>
@@ -519,7 +536,7 @@
     </div>
 
     <!-- blog -->
-    {{-- <section class="mil-blog mil-p-120-120">
+    <section class="mil-blog mil-p-120-120">
         <div class="mil-deco" style="top: 0; right: 30%;"></div>
         <div class="container">
             <div class="row align-items-center mil-mb-90">
@@ -672,7 +689,7 @@
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section>
     <!-- blog end -->
 
     <!-- reviews -->
