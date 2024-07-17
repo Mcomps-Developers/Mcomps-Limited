@@ -515,52 +515,91 @@
                         <div class="mil-image-frame">
                             <img src="img/photo/8.jpg" alt="Office">
                         </div>
-                        <div class="mil-window">
-                            <ul class="mil-speakers">
-                                <li class="mil-speaker">
-                                    <img src="img/faces/1.jpg" alt="speaker">
-                                </li>
-                                <li class="mil-speaker">
-                                    <img src="img/faces/2.jpg" alt="speaker">
-                                </li>
-                                <li class="mil-speaker">
-                                    <img src="img/faces/3.jpg" alt="speaker">
-                                </li>
-                                <li class="mil-speaker">
-                                    <img src="img/faces/4.jpg" alt="speaker">
-                                </li>
-                            </ul>
-                            <div class="mil-window-bottom">
-                                <h3>4.5</h3>
-                                <div>
-                                    <ul class="mil-stars">
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li><i class="fas fa-star"></i></li>
-                                        <li class="mil-empty"><i class="fas fa-star"></i></li>
-                                    </ul>
-                                    <p class="mil-text-sm">From +5000 reviews</p>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
 
                 </div>
                 <div class="col-md-6 col-xl-6">
 
-                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Designed for Developers</span>
-                    <h2 class="mil-mb-30">Powerful and Easy</h2>
-                    <p class="mil-mb-30">Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. There are many variations of passages majority.</p>
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Your Parner In Digital Computing</span>
+                    <h2 class="mil-mb-30">Why Choose Us</h2>
+                    <p class="mil-mb-30">Our corporate philosophy establishes the fundamental principles of our
+                        management system. Our operational and performance standards translate
+                        the corporate. We preserve a high level of business ethics characterized by
+                        integrity and honesty in all business actions.</p>
                     <ul class="mil-simple-list mil-mb-60">
-                        <li>Accelerate innovation.</li>
-                        <li>With world-class tech teams.</li>
-                        <li>Our all service offerings to enhance.</li>
-                        <li>Simply drag, drop and customize.</li>
+                        <li>Assured Services.</li>
+                        <li>Quality Expertise.</li>
+                        <li>Tailored Services.</li>
+                        <li>Assured Services.</li>
                     </ul>
 
                 </div>
             </div>
+        </div>
+    </section>
+    <section class="mil-how-it-works mil-deep-bg mil-p-120-90">
+        <div class="mil-deco" style="top: 0; right: 20%;"></div>
+        <div class="mil-deco" style="bottom: 0; left: 30%; transform: rotate(180deg)"></div>
+        <div class="container">
+            <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
+            <h2 class="mil-mb-90">Our<span class="mil-accent">Cooperate</span> Values</h2>
+            <div class="row">
+                
+                <div class="col-md-4 col-xl-4">
+
+                    <div class="mil-mb-60">
+                        <div class="mil-icon-box-head mil-mb-30">
+                            <div class="mil-icon-frame mil-icon-frame-sm">
+                                <img src="{{ asset('img/icons/sm/2.svg') }}">
+                            </div>
+                            <h5>Vision</h5>
+                        </div>
+                        <p>At Mcomps, our vision is to provide the best affordable
+                            and reliable software solutions and digital products
+                            specifically tailored for the African market and
+                            beyond.</p>
+                    </div>
+
+                </div>
+                <div class="col-md-4 col-xl-4">
+
+                    <div class="mil-mb-60">
+                        <div class="mil-icon-box-head mil-mb-30">
+                            <div class="mil-icon-frame mil-icon-frame-sm">
+                                <img src="{{ asset('img/icons/sm/3.svg') }}">
+                            </div>
+                            <h5>Mission</h5>
+                        </div>
+                        <p>To offer Technology Solutions that increase
+                            productivity, improve ease of Business daily
+                            operations, increase sales, reduce expenses,
+                            enhancing continuity and business security
+                            contributing to attainment of every organizational
+                            goals and vision.</p>
+                    </div>
+
+                </div>
+                <div class="col-md-4 col-xl-4">
+
+                    <div class="mil-mb-60">
+                        <div class="mil-icon-box-head mil-mb-30">
+                            <div class="mil-icon-frame mil-icon-frame-sm">
+                                <img src="{{ asset('img/icons/sm/4.svg') }}">
+                            </div>
+                            <h5>Goal</h5>
+                        </div>
+                        <p>Since our inception, our goal has been to provide top notch
+                            ICT solutions that help our clientele have smooth day to day
+                            operations and achieve their business objectives.
+                            Our quality and efficient solutions have earned us a reputa-
+                            tion and recognition from many of our clients who got satis-
+                            faction from our services.</p>
+                    </div>
+
+                </div>
+            </div>
+            
         </div>
     </section>
     <section class="mil-courses mil-deep-bg mil-p-120-120">
@@ -854,94 +893,7 @@
     </section>
     <!-- portfolio end -->
 
-    <!-- how it works -->
-    <section class="mil-how-it-works mil-deep-bg mil-p-120-90">
-        <div class="mil-deco" style="top: 0; right: 20%;"></div>
-        <div class="mil-deco" style="bottom: 0; left: 30%; transform: rotate(180deg)"></div>
-        <div class="container">
-            <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
-            <h2 class="mil-mb-90">How We <span class="mil-accent">Collaborate</span> With You</h2>
-            <div class="row">
-                <div class="col-md-6 col-xl-3">
-
-                    <div class="mil-mb-60">
-                        <div class="mil-icon-box-head mil-mb-30">
-                            <div class="mil-icon-frame mil-icon-frame-sm">
-                                <img src="{{ asset('img/icons/sm/1.svg') }}">
-                            </div>
-                            <h5>Thinking Big</h5>
-                        </div>
-                        <p>At McompsLimited, we believe in thinking big and setting ambitious goals. We aim to
-                            revolutionize the
-                            software industry with innovative
-                            solutions tailored to meet our clients' needs.</p>
-                    </div>
-
-                </div>
-                <div class="col-md-6 col-xl-3">
-
-                    <div class="mil-mb-60">
-                        <div class="mil-icon-box-head mil-mb-30">
-                            <div class="mil-icon-frame mil-icon-frame-sm">
-                                <img src="{{ asset('img/icons/sm/2.svg') }}">
-                            </div>
-                            <h5>Starting Small</h5>
-                        </div>
-                        <p>We understand the importance of starting small and focusing on the details. Our team works
-                            closely with clients from the initial idea to the final product,
-                            ensuring every aspect is perfected..</p>
-                    </div>
-
-                </div>
-                <div class="col-md-6 col-xl-3">
-
-                    <div class="mil-mb-60">
-                        <div class="mil-icon-box-head mil-mb-30">
-                            <div class="mil-icon-frame mil-icon-frame-sm">
-                                <img src="{{ asset('img/icons/sm/3.svg') }}">
-                            </div>
-                            <h5>Creating Fast</h5>
-                        </div>
-                        <p>Mcomps Limited is committed to rapid development without compromising quality. Our
-                            experienced team leverages cutting-edge technologies and
-                            best practices to deliver solutions quickly and efficiently.</p>
-                    </div>
-
-                </div>
-                <div class="col-md-6 col-xl-3">
-
-                    <div class="mil-mb-60">
-                        <div class="mil-icon-box-head mil-mb-30">
-                            <div class="mil-icon-frame mil-icon-frame-sm">
-                                <img src="{{ asset('img/icons/sm/4.svg') }}">
-                            </div>
-                            <h5>Innovating Scale</h5>
-                        </div>
-                        <p>At Mcomps Limited, we believe in innovation at scale. We continuously explore new
-                            technologies and methodologies to drive innovation in our solutions,
-                            ensuring they remain cutting-edge and future-proof.</p>
-                    </div>
-
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-md-6 col-xl-6">
-
-                    <a href="#." class="mil-link mil-mb-30"><span>Learn More</span><i
-                            class="fas fa-arrow-right"></i></a>
-
-                </div>
-                <div class="col-md-6 col-xl-6">
-
-                    <div class="mil-adaptive-right">
-                        <a href="#." class="mil-button mil-border mil-mb-30"><span>How We Work</span></a>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- how it works end -->
+   
 
     <div class="container">
         <div class="mil-divider"></div>
