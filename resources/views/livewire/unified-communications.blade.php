@@ -141,7 +141,7 @@
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>VI</h3>
+                                <h3>VII</h3>
                             </div>
                             <h5 class="mil-mb-30">Bulky SMS</h5>
                             <p>We deliver large volumes of messages efficiently,
