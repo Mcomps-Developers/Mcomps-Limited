@@ -162,7 +162,7 @@
                                 <li> Infrastructure Suppor.</li>
                                 <li> Virtual CIO Services and Consulting.</li>
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('manageditservices') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
