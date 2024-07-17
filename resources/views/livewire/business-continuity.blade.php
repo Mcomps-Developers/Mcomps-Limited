@@ -1,4 +1,7 @@
 <div>
+    @section('title')
+        business continuity & Cloud Services
+    @endsection
     <div>
         <!-- Banner -->
         <div class="mil-banner-sm mil-deep-bg">

@@ -106,7 +106,7 @@
     <!-- banner end -->
 
     <!-- partners -->
-    <div class="mil-partners mil-p-90-60">
+    {{-- <div class="mil-partners mil-p-90-60">
         <div class="container">
             <div class="mil-partners-frame">
                 <a href="#."><img src="{{ asset('img/partners/1.png') }}" alt="partner"></a>
@@ -117,7 +117,7 @@
                 <a href="#."><img src="{{ asset('img/partners/6.png') }}" alt="partner"></a>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- partners end -->
 
     <div class="container">

@@ -1,4 +1,7 @@
 <div>
+    @section('title')
+        Managed I.T Solutions
+    @endsection
     <div>
         <div class="mil-banner-sm mil-deep-bg">
             <img src="img/deco/map.png" alt="background" class="mil-background-image">

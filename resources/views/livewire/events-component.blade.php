@@ -1,4 +1,7 @@
 <div>
+    @section('title')
+        events
+    @endsection
     <div class="mil-banner-sm-3">
         <img src="{{ asset('img/photo/13.jpg') }}" class="mil-background-image" style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1" alt="image">
         <div class="mil-overlay"></div>

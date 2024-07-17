@@ -1,4 +1,7 @@
 <div>
+    @section('title')
+        Digital Finance Solutions
+    @endsection
     <div>
         <!-- Banner -->
         <div class="mil-banner-sm mil-deep-bg">

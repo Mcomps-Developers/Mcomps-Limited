@@ -1,4 +1,7 @@
 <div>
+    @section('title')
+        Data Centre Solutions
+    @endsection
     <!DOCTYPE html>
     <html lang="en">
     <head>
