@@ -369,140 +369,7 @@
 
         </div>
     </section>
-    <section class="mil-events mil-deep-bg mil-p-120-120">
-        <div class="mil-deco" style="top: 0; right: 20%;"></div>
-        <div class="container">
 
-            <div class="row align-items-end mil-mb-60-adapt">
-                <div class="col-md-4 col-xl-4">
-
-                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">We Share Knowledge</span>
-                    <h2 class="mil-mb-30">Virtual Events</h2>
-
-                </div>
-                <div class="col-md-5 col-xl-5">
-
-                    <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-
-                </div>
-                <div class="col-md-3 col-xl-3">
-
-                    <div class="mil-adaptive-right mil-mb-30">
-                        <div class="mil-slider-nav">
-                            <div class="mil-slider-btn-prev mil-events-prev"><i class="fas fa-arrow-left"></i><span class="mil-h6">Prev</span></div>
-                            <div class="mil-slider-btn-next mil-events-next"><span class="mil-h6">Next</span><i class="fas fa-arrow-right"></i></div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <div class="swiper-container mil-events-slider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-
-                        <a href="event.html" class="mil-card-2">
-                            <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/1.jpg') }}" alt="project">
-                            </div>
-                            <div class="mil-description">
-                                <ul class="mil-speakers">
-                                    <li class="mil-speaker">
-                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
-                                    </li>
-                                    <li class="mil-speaker">
-                                        <img src="{{ asset('img/faces/2.jpg') }}" alt="speaker">
-                                    </li>
-                                    <li class="mil-speaker">
-                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
-                                    </li>
-                                </ul>
-                                <div class="mil-card-title">
-                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
-                                    <h4>Development for the next era of the Internet economy</h4>
-                                </div>
-
-                            </div>
-                        </a>
-
-                    </div>
-                    <div class="swiper-slide">
-
-                        <a href="route('events')" class="mil-card-2">
-                            <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/2.jpg') }}" alt="project">
-                            </div>
-                            <div class="mil-description">
-                                <ul class="mil-speakers">
-                                    <li class="mil-speaker">
-                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
-                                    </li>
-                                    <li class="mil-speaker">
-                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
-                                    </li>
-                                </ul>
-                                <div class="mil-card-title">
-                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
-                                    <h4>Development for the next era of the Internet economy</h4>
-                                </div>
-
-                            </div>
-                        </a>
-
-                    </div>
-                    <div class="swiper-slide">
-
-                        <a href="event.html" class="mil-card-2">
-                            <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/3.jpg') }}" alt="project">
-                            </div>
-                            <div class="mil-description">
-                                <ul class="mil-speakers">
-                                    <li class="mil-speaker">
-                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
-                                    </li>
-                                    <li class="mil-speaker">
-                                        <img src="{{ asset('img/faces/2.jpg') }}" alt="speaker">
-                                    </li>
-                                    <li class="mil-speaker">
-                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
-                                    </li>
-                                </ul>
-                                <div class="mil-card-title">
-                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
-                                    <h4>Development for the next era of the Internet economy</h4>
-                                </div>
-
-                            </div>
-                        </a>
-
-                    </div>
-                    <div class="swiper-slide">
-
-                        <a href="event.html" class="mil-card-2">
-                            <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/4.jpg') }}" alt="project">
-                            </div>
-                            <div class="mil-description">
-                                <ul class="mil-speakers">
-                                    <li class="mil-speaker">
-                                        <img src="img/faces/1.jpg" alt="speaker">
-                                    </li>
-                                </ul>
-                                <div class="mil-card-title">
-                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
-                                    <h4>Development for the next era of the Internet economy</h4>
-                                </div>
-
-                            </div>
-                        </a>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </section>
     <section class="mil-about mil-p-120-60">
         <div class="mil-deco" style="top: 0; right: 10%;"></div>
         <div class="container">
@@ -514,7 +381,7 @@
                         <div class="mil-image-frame">
                             <img src="img/photo/8.jpg" alt="Office">
                         </div>
-                        
+
                     </div>
 
                 </div>
@@ -544,7 +411,7 @@
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
             <h2 class="mil-mb-90">Why<span class="mil-accent"> We Exist</span></h2>
             <div class="row">
-                
+
                 <div class="col-md-4 col-xl-4">
 
                     <div class="mil-mb-60">
@@ -598,7 +465,7 @@
 
                 </div>
             </div>
-            
+
         </div>
     </section>
     {{-- <section class="mil-courses mil-deep-bg mil-p-120-120" >
@@ -784,119 +651,148 @@
         <div class="mil-divider"></div>
     </div>
 
-    <!-- portfolio -->
-    {{-- <section class="mil-works mil-p-120-90">
-        <div class="mil-deco" style="top: 0; right: 40%;"></div>
-        <div class="container">
-            <div class="row align-items-center mil-mb-60-adapt">
-                <div class="col-md-6 col-xl-6">
 
-                    <h2 class="mil-mb-30">Latest Projects</h2>
+
+
+
+    <div class="container">
+        <div class="mil-divider"></div>
+    </div>
+
+    <section class="mil-events mil-deep-bg mil-p-120-120">
+        <div class="mil-deco" style="top: 0; right: 20%;"></div>
+        <div class="container">
+
+            <div class="row align-items-end mil-mb-60-adapt">
+                <div class="col-md-4 col-xl-4">
+
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">We Share Knowledge</span>
+                    <h2 class="mil-mb-30">Virtual Events</h2>
 
                 </div>
-                <div class="col-md-6 col-xl-6">
+                <div class="col-md-5 col-xl-5">
 
-                    <div class="mil-adaptive-right">
-                        <div class="mil-slider-nav mil-mb-30">
-                            <div class="mil-slider-btn-prev mil-works-prev"><i class="fas fa-arrow-left"></i><span
-                                    class="mil-h6">Prev</span></div>
-                            <div class="mil-slider-btn-next mil-works-next"><span class="mil-h6">Next</span><i
-                                    class="fas fa-arrow-right"></i></div>
+                    <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+
+                </div>
+                <div class="col-md-3 col-xl-3">
+
+                    <div class="mil-adaptive-right mil-mb-30">
+                        <div class="mil-slider-nav">
+                            <div class="mil-slider-btn-prev mil-events-prev"><i class="fas fa-arrow-left"></i><span class="mil-h6">Prev</span></div>
+                            <div class="mil-slider-btn-next mil-events-next"><span class="mil-h6">Next</span><i class="fas fa-arrow-right"></i></div>
                         </div>
                     </div>
 
                 </div>
             </div>
 
-            <div class="swiper-container mil-works-slider mil-mb-90">
+            <div class="swiper-container mil-events-slider">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
 
-                        <a href="https://www.studybuddy.co.ke/" class="mil-card">
+                        <a href="event.html" class="mil-card-2">
                             <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/5.png') }}" alt="project">
+                                <img src="{{ asset('img/projects/1.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/2.jpg') }}" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
+                                    </li>
+                                </ul>
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Study Buddy</h4>
-                                    <a href="https://www.studybuddy.co.ke/"><b>StydyBuddy</b></a>
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
                                 </div>
-                                <div class="mil-card-text">
-                                    <p>Study Buddy is an innovative platform that connects students directly with
-                                        teachers,
-                                        facilitating personalized learning and real-time academic support.</p>
-                                </div>
+
                             </div>
                         </a>
 
                     </div>
                     <div class="swiper-slide">
 
-                        <a href="https://angoloexpert.com/" class="mil-card">
+                        <a href="route('events')" class="mil-card-2">
                             <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/2.png') }}" alt="project">
+                                <img src="{{ asset('img/projects/2.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
+                                    </li>
+                                </ul>
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">Angolo Experts.</h4>
-                                    <a href="https://angoloexpert.com/"><b>Angolo Experts</b></a>
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
                                 </div>
-                                <div class="mil-card-text">
-                                    <p>Angolo Experts is a dynamic content selling platform designed to empower creators
-                                        and connect
-                                        them with their audience through high-quality, engaging content.</p>
-                                </div>
+
                             </div>
                         </a>
 
                     </div>
                     <div class="swiper-slide">
 
-                        <a href="https://pointpro.mcomps.co.ke/" class="mil-card">
+                        <a href="event.html" class="mil-card-2">
                             <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/6.png') }}" alt="project">
+                                <img src="{{ asset('img/projects/3.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/2.jpg') }}" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
+                                    </li>
+                                </ul>
                                 <div class="mil-card-title">
-                                    <h4 class="mil-mb-20">PointPro</h4>
-                                    <a href="https://pointpro.mcomps.co.ke/"><b>PointPro</b></a>
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
                                 </div>
-                                <div class="mil-card-text">
-                                    <p>PointPro is a web-based POS system that you can easily use on your mobile phone,
-                                        designed to streamline your business operations effortlessly.</p>
-                                </div>
+
                             </div>
                         </a>
 
                     </div>
+                    <div class="swiper-slide">
 
-                </div>
-            </div>
-            <div class="row align-items-center">
-                <div class="col-md-6 col-xl-6">
+                        <a href="event.html" class="mil-card-2">
+                            <div class="mil-cover-frame">
+                                <img src="{{ asset('img/projects/4.jpg') }}" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="img/faces/1.jpg" alt="speaker">
+                                    </li>
+                                </ul>
+                                <div class="mil-card-title">
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
+                                </div>
 
-                    <a href="portfolio.html" class="mil-link mil-mb-30"><span>View All Cases</span><i
-                            class="fas fa-arrow-right"></i></a>
+                            </div>
+                        </a>
 
-                </div>
-                <div class="col-md-6 col-xl-6">
-
-                    <div class="mil-adaptive-right">
-                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get
-                                Started</span></a>
                     </div>
-
                 </div>
             </div>
+
         </div>
-    </section> --}}
-    <!-- portfolio end -->
+    </section>
 
-   
 
-    <div class="container">
-        <div class="mil-divider"></div>
-    </div>
-
-   
 </div>
