@@ -543,7 +543,7 @@
         <div class="mil-deco" style="bottom: 0; left: 30%; transform: rotate(180deg)"></div>
         <div class="container">
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
-            <h2 class="mil-mb-90">Our<span class="mil-accent">Cooperate</span> Values</h2>
+            <h2 class="mil-mb-90">Why<span class="mil-accent"> We Exist</span></h2>
             <div class="row">
                 
                 <div class="col-md-4 col-xl-4">
@@ -602,7 +602,7 @@
             
         </div>
     </section>
-    <section class="mil-courses mil-deep-bg mil-p-120-120">
+    <section class="mil-courses mil-deep-bg mil-p-120-120" >
         <div class="mil-deco" style="top: 0; right: 40%;"></div>
         <div class="mil-deco" style="bottom: 0; right: 15%; transform: rotate(180deg)"></div>
         <div class="container">
