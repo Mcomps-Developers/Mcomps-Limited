@@ -184,7 +184,7 @@
                                 <li> Cyber Awareness Training.</li>
                                 <li> Managed Cyber Security.</li>
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('service4') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
