@@ -26,7 +26,7 @@
                             <img src="img/faces/1.png" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Almeida Manzolo</h4>
+                        <h4 class="mil-mb-10">Manzolo</h4>
                         <p>CEO and Co-Founder </p>
                     </a>
 
@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-sm-6 col-lg-4">
 
-                    <a href="team-single.html" class="mil-team-card mil-mb-60 mil-mb-30">
+                    <a href="#!" class="mil-team-card mil-mb-60 mil-mb-30">
                         <div class="mil-image-frame mil-mb-30">
                             <img src="img/faces/3.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
@@ -57,7 +57,7 @@
                 </div>
                 <div class="col-sm-6 col-lg-4">
 
-                    <a href="team-single.html" class="mil-team-card mil-mb-60">
+                    <a href="#!" class="mil-team-card mil-mb-60">
                         <div class="mil-image-frame mil-mb-30">
                             <img src="img/faces/4.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-sm-6 col-lg-4">
 
-                    <a href="team-single.html" class="mil-team-card mil-mb-60">
+                    <a href="#!" class="mil-team-card mil-mb-60">
                         <div class="mil-image-frame mil-mb-30">
                             <img src="img/faces/5.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
@@ -81,7 +81,7 @@
                 </div>
                 <div class="col-sm-6 col-lg-4">
 
-                    <a href="team-single.html" class="mil-team-card mil-mb-60">
+                    <a href="#!" class="mil-team-card mil-mb-60">
                         <div class="mil-image-frame mil-mb-30">
                             <img src="img/faces/6.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
