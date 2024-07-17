@@ -8,6 +8,6 @@ class WebSolutions extends Component
 {
     public function render()
     {
-        return view('livewire.web-solutions');
+        return view('livewire.web-solutions')->layout('layouts.base');
     }
 }

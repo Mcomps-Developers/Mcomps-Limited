@@ -2,12 +2,15 @@
 
 use App\Livewire\AboutComponent;
 use App\Livewire\BlogComponent;
+use App\Livewire\BusinessContinuity;
 use App\Livewire\CareersComponent;
 use App\Livewire\ContactComponent;
+use App\Livewire\DataCentreSolutions;
 use App\Livewire\EventsComponent;
 use App\Livewire\FaqComponent;
 use App\Livewire\HomeComponent;
 use App\Livewire\ManagedItServices;
+use App\Livewire\NetworkSolutions;
 use App\Livewire\PortfolioComponent;
 use App\Livewire\PricingComponent;
 use App\Livewire\ProjectComponent;
@@ -46,3 +49,6 @@ Route::get('/Managed-I.T-Services',ManagedItServices::class)->name('manageditser
 Route::get('/Unified-Communications',UnifiedCommunications::class)->name('unified.communications');
 Route::get('/software-solutions',SoftwareSolutions::class)->name('software.solutions');
 Route::get('/Web-solutions',WebSolutions::class)->name('web.solutions');
+Route::get('/Network-solutions',NetworkSolutions::class)->name('network.solutions');
+Route::get('/Data-center-solutions',DataCentreSolutions::class)->name('data.centre.solutions');
+Route::get('/Business-continuity-and-cloud-services',BusinessContinuity::class)->name('business.continuity.and.cloud.services');

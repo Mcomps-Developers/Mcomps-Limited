@@ -269,7 +269,7 @@
                                 <li>  Network as a Service .</li>
 
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('network.solutions') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
@@ -289,7 +289,7 @@
                                 <li> Colocation Services.</li>
 
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('data.centre.solutions') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
@@ -311,7 +311,7 @@
                                 <li>   High Availability.</li>
 
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('business.continuity.and.cloud.services') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
