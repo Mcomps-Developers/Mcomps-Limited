@@ -59,7 +59,9 @@
                     <div class="col-xl-7">
                         <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore Our Software Solutions</span>
                         <h2 class="mil-mb-30">Discover Our <span class="mil-accent">Comprehensive Software Solutions</span></h2>
-                        <p class="mil-mb-90">We offer a range of software solutions tailored to meet your business needs, from custom development to off-the-shelf products designed for efficiency and growth.</p>
+                        <p class="mil-mb-90">I.T. software solutions that are customized to fit your business needs,
+                            improve efficiency, drastically reduce errors and increase productivity and
+                            profits.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -69,8 +71,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>I</h3>
                             </div>
-                            <h5 class="mil-mb-30">Custom Software Development</h5>
-                            <p>We create tailored software solutions to meet your specific business requirements, ensuring functionality and scalability.</p>
+                            <h5 class="mil-mb-30">Business Applications</h5>
+                            <p>We Build Business applications streamline operations, enhance productivity, and support decision-making through specialized software solutions tailored to organizational needs.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -79,8 +81,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>II</h3>
                             </div>
-                            <h5 class="mil-mb-30">Software Integration Services</h5>
-                            <p>We help integrate various software systems to streamline your business processes and enhance operational efficiency.</p>
+                            <h5 class="mil-mb-30">School Systems</h5>
+                            <p>We manage educational institutions' operations, facilitating student information, administration, and learning management efficiently.
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -89,8 +91,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>III</h3>
                             </div>
-                            <h5 class="mil-mb-30">Software Maintenance & Support</h5>
-                            <p>Our maintenance and support services ensure your software remains up-to-date, secure, and functional with ongoing support.</p>
+                            <h5 class="mil-mb-30">Payment Gateways</h5>
+                            <p>We Intergrate Payment gateways that enable secure online transactions, processing payments and ensuring financial data confidentiality and integrity.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -99,8 +101,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>IV</h3>
                             </div>
-                            <h5 class="mil-mb-30">Enterprise Software Solutions</h5>
-                            <p>We provide enterprise-level software solutions designed to manage complex processes and large-scale operations.</p>
+                            <h5 class="mil-mb-30">Fintech Solutions</h5>
+                            <p>Fintech solutions innovate financial services, offering advanced technology for banking, investments, and financial management.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -109,20 +111,11 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>V</h3>
                             </div>
-                            <h5 class="mil-mb-30">SaaS Solutions</h5>
-                            <p>We offer Software as a Service (SaaS) products for a variety of business functions, providing scalable and cost-effective software solutions.</p>
+                            <h5 class="mil-mb-30">System Integrations</h5>
+                            <p>System integrations connect disparate software systems, ensuring seamless data flow and enhancing overall operational efficiency.</p>
                         </div>
                     </div>
-                    <div class="col-xl-4">
-                        <div class="mil-hover-card mil-box-center mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>VI</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Mobile Application Development</h5>
-                            <p>Our mobile app development services create user-friendly and functional apps for both iOS and Android platforms.</p>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </section>
@@ -176,7 +169,7 @@
         </section>
         <!-- Additional Services end -->
 
-       
+
 
     </div>
 
