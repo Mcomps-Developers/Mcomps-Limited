@@ -7,9 +7,9 @@
                 <div class="container mil-relative">
                     <ul class="mil-breadcrumbs mil-mb-30">
                         <li><a href="/">Home</a></li>
-                        <li><a href="{{ route('service4') }}">I.T Managed Services</a></li>
+                        <li><a href="{{ route('service4') }}">Managed I.T Services</a></li>
                     </ul>
-                    <h2 class="mil-uppercase">I.T Managed Services</h2>
+                    <h2 class="mil-uppercase">Managed I.T Services</h2>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
                         <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
                             <div class="mil-circle-bg"></div>
                             <div class="mil-image-frame">
-                                <img src="img/faces/t7.png" alt="img">
+                                <img src="img/faces/t7.png" alt="img" style="transform: scale(0.5)">
                             </div>
                         </div>
                     </div>
