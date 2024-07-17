@@ -31,16 +31,20 @@
                 </div>
                 <div class="col-xl-7">
 
-                    <h2 class="mil-mb-30">Protect Your IT Environments With <span class="mil-accent">Powerful Cloud Security</span> Solutions and Always on Support</h2>
+                    <h2 class="mil-mb-30">Protect Your IT Environments With <span class="mil-accent">Powerful Cloud
+                            Security</span> Solutions and Always on Support</h2>
                     <div class="mil-hori-box mil-mb-30">
                         <div class="mil-mr-30">
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg">
                                 <img src="img/icons/md/1.svg" alt="icon">
                             </div>
                         </div>
-                        <p>Our <span class="mil-accent">certified cloud security</span> experts help protect your environments across hyperscale public and private clouds so you can run your business confidence.</p>
+                        <p>Our <span class="mil-accent">certified cloud security</span> experts help protect your
+                            environments across hyperscale public and private clouds so you can run your business
+                            confidence.</p>
                     </div>
-                    <a href="{{ route('service4') }}" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                    <a href="{{ route('service4') }}" class="mil-button mil-border mil-mb-30"><span>Get in
+                            Touch</span></a>
 
                 </div>
             </div>
@@ -59,7 +63,8 @@
                 <div class="col-xl-7">
                     <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
                     <h2 class="mil-mb-30">Explore <span class="mil-accent">Cloud Security</span> Solutions</h2>
-                    <p class="mil-mb-90">The constant evolution of threats and the race for more sophisticated tools to combat them means that security is changing rapidly.</p>
+                    <p class="mil-mb-90">The constant evolution of threats and the race for more sophisticated tools to
+                        combat them means that security is changing rapidly.</p>
                 </div>
             </div>
             <div class="row">
@@ -70,8 +75,9 @@
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                             <h3>I</h3>
                         </div>
-                        <h5 class="mil-mb-30">Application Security</h5>
-                        <p>e ensure that your applications are secure from the ground up, protecting against threats and vulnerabilities throughout the development lifecycle.</p>
+                        <h5 class="mil-mb-30">Endpoint Security</h5>
+                        <p>We safeguard individual devices within a network, protecting against threats and ensuring
+                            data integrity.</p>
                     </div>
 
                 </div>
@@ -82,8 +88,9 @@
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                             <h3>II</h3>
                         </div>
-                        <h5 class="mil-mb-30">Data Protection</h5>
-                        <p>Our data protection solutions safeguard your critical information with advanced encryption, access controls, and regular audits.</p>
+                        <h5 class="mil-mb-30">Perimeter Security</h5>
+                        <p>We defend network boundaries, preventing unauthorized access and detecting potential external
+                            threats effectively.</p>
                     </div>
 
                 </div>
@@ -94,8 +101,9 @@
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                             <h3>III</h3>
                         </div>
-                        <h5 class="mil-mb-30">Network Security</h5>
-                        <p>We offer comprehensive network security solutions to protect your infrastructure from internal and external threats, ensuring business continuity.</p>
+                        <h5 class="mil-mb-30">Endpoint Detection and Response</h5>
+                        <p>We monitor devices for threats, enabling swift identification and mitigation of cyber
+                            incidents.</p>
                     </div>
 
                 </div>
@@ -106,8 +114,9 @@
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                             <h3>IV</h3>
                         </div>
-                        <h5 class="mil-mb-30">Security Strategy</h5>
-                        <p>Our experts help you develop a robust security strategy tailored to your business needs, including risk assessment, compliance, and policy development.</p>
+                        <h5 class="mil-mb-30">Storage and Cloud Security</h5>
+                        <p>We protect data stored locally and in the cloud, ensuring confidentiality and availability.
+                        </p>
                     </div>
 
                 </div>
@@ -118,8 +127,9 @@
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                             <h3>V</h3>
                         </div>
-                        <h5 class="mil-mb-30">Detection and Response</h5>
-                        <p>Identify and respond to security threats in real-time with our advanced detection and response solutions.</p>
+                        <h5 class="mil-mb-30">Email Security</h5>
+                        <p>We prevent malicious attacks via email, safeguarding against phishing, spam, and malware
+                            threats effectively.</p>
                     </div>
 
                 </div>
@@ -130,10 +140,46 @@
                         <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                             <h3>VI</h3>
                         </div>
-                        <h5 class="mil-mb-30">Elastic Engineering</h5>
-                        <p>Scale your security infrastructure dynamically and efficiently with our elastic engineering solutions.</p>
+                        <h5 class="mil-mb-30">Dark Web Monitoring</h5>
+                        <p>Dark web monitoring scans illicit web areas for compromised data, providing alerts for
+                            potential security breaches.</p>
                     </div>
+                </div>
+                <div class="col-xl-4">
 
+                    <div class="mil-hover-card mil-box-center mil-mb-30">
+                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                            <h3>VII</h3>
+                        </div>
+                        <h5 class="mil-mb-30">Authentication</h5>
+                        <p>Authentication verifies user identities, ensuring that only authorized personnel access
+                            sensitive information and systems securely.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+
+                    <div class="mil-hover-card mil-box-center mil-mb-30">
+                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                            <h3>VIII</h3>
+                        </div>
+                        <h5 class="mil-mb-30">Cyber Awareness Training</h5>
+                        <p>Cyber awareness training educates employees on recognizing and responding to cyber threats,
+                            enhancing overall organizational security posture.</p>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+
+                    <div class="mil-hover-card mil-box-center mil-mb-30">
+                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                            <h3>IX</h3>
+                        </div>
+                        <h5 class="mil-mb-30">Managed Cyber Security</h5>
+                        <p>We provide comprehensive, outsourced protection,
+                             continuously monitoring and defending against evolving cyber threats.</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -157,7 +203,8 @@
                         <h3>I</h3>
                     </div>
                     <h5 class="mil-mb-30">Cloud Native <br>Security Services</h5>
-                    <p>Secure your cloud infrastructure with our comprehensive suite of cloud-native security services, ensuring the safety and integrity of your data and applications.</p>
+                    <p>Secure your cloud infrastructure with our comprehensive suite of cloud-native security services,
+                        ensuring the safety and integrity of your data and applications.</p>
 
                 </div>
                 <div class="col-xl-3 mil-mb-30">
@@ -167,7 +214,8 @@
                         <h3>II</h3>
                     </div>
                     <h5 class="mil-mb-30">Multi <br>Cloud Security</h5>
-                    <p>Extend your security protocols across multiple cloud platforms seamlessly with our multi-cloud security solutions, ensuring consistent protection and compliance.</p>
+                    <p>Extend your security protocols across multiple cloud platforms seamlessly with our multi-cloud
+                        security solutions, ensuring consistent protection and compliance.</p>
 
                 </div>
                 <div class="col-xl-3 mil-mb-30">
@@ -177,7 +225,8 @@
                         <h3>III</h3>
                     </div>
                     <h5 class="mil-mb-30">On Site Security <br>and Compliance</h5>
-                    <p>Enhance your on-site security measures and ensure compliance with industry regulations using our on-site security and compliance solutions, tailored to your specific needs.</p>
+                    <p>Enhance your on-site security measures and ensure compliance with industry regulations using our
+                        on-site security and compliance solutions, tailored to your specific needs.</p>
 
                 </div>
                 <div class="col-xl-3 mil-mb-30">
@@ -187,7 +236,8 @@
                         <h3>IV</h3>
                     </div>
                     <h5 class="mil-mb-30">Customized Solutions</h5>
-                    <p>Receive personalized security solutions designed to address your unique challenges and requirements, ensuring maximum protection and peace of mind.</p>
+                    <p>Receive personalized security solutions designed to address your unique challenges and
+                        requirements, ensuring maximum protection and peace of mind.</p>
 
                 </div>
             </div>
@@ -195,80 +245,6 @@
     </section>
     <!-- ??? end -->
 
-    <!-- ??? -->
-    <section class="mil-gradient-bg mil-p-120-90">
-        <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
-        <div class="container">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-xl-4">
 
-                    <span class="mil-suptitle mil-suptitle-2 mil-light mil-mb-30">Explore More Solutions</span>
-                    <h2 class="mil-light mil-mb-90">Do You Know what Your <span class="mil-accent">Cybersecurity</span> Risk Score Is?</h2>
 
-                </div>
-                <div class="col-xl-7 mil-mb-30">
-
-                    <p class="mil-light-soft mil-mb-30">By answering these simple questions about your cybersecurity technology, processes, and people, you'll receive a cybersecurity risk score against our baseline that can help you identify common security gaps in your environment that you may not be aware of.</p>
-                    <a href="#." class="mil-button mil-border mil-light"><span>Start Now</span></a>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ??? end -->
-
-    <!-- contact -->
-    <section class="mil-contact mil-gradient-bg mil-p-120-0">
-        <div class="mil-deco mil-deco-accent" style="top: 0; right: 10%;"></div>
-        <div class="container">
-            <h2 class="mil-light mil-mb-90">Contact <span class="mil-accent">Us</span></h2>
-            <form>
-                <div class="row">
-                    <div class="col-lg-6">
-
-                        <div class="mil-input-frame mil-mb-30">
-                            <label><span class="mil-light">Name</span><span class="mil-accent">Required</span></label>
-                            <input type="text" placeholder="Enter Your Name Here">
-                        </div>
-                        <div class="mil-input-frame mil-mb-30">
-                            <label><span class="mil-light">Email Adress</span><span class="mil-accent">Required</span></label>
-                            <input type="email" id="email" placeholder="Your Email">
-                        </div>
-                        <div class="mil-input-frame mil-mb-60">
-                            <label><span class="mil-light">Phone</span><span class="mil-light-soft">Optional</span></label>
-                            <input type="number" placeholder="Your Phone">
-                        </div>
-                        <div class="mil-attach-frame mil-mb-60">
-                            <i class="fas fa-paperclip"></i>
-                            <label class="mil-custom-file-input">
-                                <span>Attach your file</span>
-                                <input type="file" id="mil-file-input">
-                            </label>
-                            <p class="mil-text-sm mil-light-soft">up to 20MB</p>
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6">
-
-                        <div class="mil-input-frame mil-mb-30">
-                            <label><span class="mil-light">Email Adress</span><span class="mil-accent">Required</span></label>
-                            <textarea placeholder="Your Message"></textarea>
-                        </div>
-                        <p class="mil-text-sm mil-light-soft mil-mb-15">We will process your personal information in accordance with our Privacy Policy.</p>
-
-                        <div class="mil-checbox-frame mil-mb-60">
-                            <input class="mil-checkbox" id="checkbox-1" type="checkbox" value="value">
-                            <label for="checkbox-1" class="mil-text-sm mil-light">I would like to be contacted with news and updates about your <a href="#." class="mil-accent">events and services</a></label>
-                        </div>
-
-                    </div>
-                    <div class="col-12">
-
-                        <button class="mil-button mil-accent-bg mil-fw"><span>Send Message Now</span></button>
-
-                    </div>
-                </div>
-            </form>
-        </div>
-    </section>
 </div>
