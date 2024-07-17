@@ -1,6 +1,6 @@
 <div>
     @section('title')
-    our team
+    Our team
 @endsection
     <div class="mil-banner-sm mil-deep-bg">
         <img src="{{ asset('img/deco/map.png') }}" alt="background" class="mil-background-image">
@@ -77,7 +77,7 @@
                             <img src="img/faces/5.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Muzamil Kitambula</h4>
+                        <h4 class="mil-mb-10">Muzamil Katambula</h4>
                         <p>Operations Manager and Co-Founder</p>
                     </a>
 
