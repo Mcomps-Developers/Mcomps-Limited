@@ -11,7 +11,7 @@
 
                         </li>
                         <li class="mil-has-children">
-                            <a href="#.">About</a>
+                            <a href="#.">About Us</a>
                             <ul>
                                 <li><a href="{{ route('about') }}">About Mcomps</a></li>
                                 <li class="nav-item">
@@ -35,7 +35,8 @@
                         <li><a href="{{ route('service4') }}">Cybersecurity</a></li>
                     </ul>
                     </li>
-                    
+                   
+                    <li class="mil-has-children">
                         <a href="#.">Media</a>
                         <ul>
 
