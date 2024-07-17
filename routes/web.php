@@ -19,6 +19,7 @@ use App\Livewire\Solution1Component;
 use App\Livewire\Solution2Component;
 use App\Livewire\Solution3Component;
 use App\Livewire\TeamComponent;
+use App\Livewire\UnifiedCommunications;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/',HomeComponent::class);
@@ -40,3 +41,4 @@ Route::get('/Big-data',Solution2Component::class)->name('solution2');
 Route::get('/IOT',Solution3Component::class)->name('solution3');
 Route::get('/blogs',BlogComponent::class)->name('blogs');
 Route::get('/Managed-I.T-Services',ManagedItServices::class)->name('manageditservices');
+Route::get('/Unified-Communications',UnifiedCommunications::class)->name('unified.communications');

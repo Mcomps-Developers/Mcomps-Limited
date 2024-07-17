@@ -8,6 +8,6 @@ class UnifiedCommunications extends Component
 {
     public function render()
     {
-        return view('livewire.unified-communications');
+        return view('livewire.unified-communications')->layout('layouts.base');
     }
 }
