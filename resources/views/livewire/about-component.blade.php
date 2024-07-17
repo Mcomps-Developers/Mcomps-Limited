@@ -54,7 +54,7 @@
                 <div class="col-lg-6">
 
                     <span class="mil-suptitle mil-suptitle-2 mil-mb-30">About Us</span>
-                    <h2 class="mil-mb-50">Who We  <span class="mil-accent">Are</span>.</h2>
+                    <h2 class="mil-mb-50">Who   <span class="mil-accent">We Are</span></h2>
 
                     <p class="mil-mb-50">We are a leading Information and Communication Technology
                         providing a complete suite of end-to-end IT and Communications
