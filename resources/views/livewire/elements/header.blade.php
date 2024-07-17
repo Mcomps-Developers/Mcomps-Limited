@@ -43,8 +43,14 @@
                             <li><a href="{{ route('events') }}">Event</a></li>
                             <li><a href="{{ route('faq') }}">FAQs</a></li>
                         </ul>
-                    <li><a href="careers.html">Careers</a></li>
-                    <li><a href="{{ route('contact') }}">Contact Us</a></li>
+                        <li class="mil-has-children">
+                            <a href="{{ route('careers') }}">Careers</a>
+
+                        </li>
+                        <li class="mil-has-children">
+                            <a href="{{ route('contact') }}">Contact Us</a>
+
+                        </li>
                     </ul>
                     <div class="mil-search-icon">
                         <svg width="21" height="20" viewBox="0 0 21 20" fill="none"

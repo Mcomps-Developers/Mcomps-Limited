@@ -259,14 +259,14 @@
                                 <li> Digital Marketing.</li>
                                 <li> Managed Web Services.</li>
                                 <li> Website redesigning.</li>
-                                
+
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
-                  
-                   
+
+
                     <div class="swiper-slide">
 
                         <div class="mil-hover-card">
@@ -282,7 +282,7 @@
                                 <li>Storage Solutions.</li>
                                 <li> SDWAN, LAN, WLAN.</li>
                                 <li>  Network as a Service .</li>
-                                
+
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -302,7 +302,7 @@
                                 <li> Server Hosting.</li>
                                 <li> Data center Architecture Design.</li>
                                 <li> Colocation Services.</li>
-                               
+
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -324,7 +324,7 @@
                                 <li>  Email Backup Solutions.</li>
                                 <li>   File Folder Backup.</li>
                                 <li>   High Availability.</li>
-                               
+
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -345,7 +345,7 @@
                                 <li> School Bus Surveillance System.</li>
                                 <li>    Custom E-Learning System.</li>
                                 <li>   School Website.</li>
-                               
+
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -365,9 +365,9 @@
                                 <li>  Revenue Collection System.</li>
                                 <li>  Self-Service Portals.</li>
                                 <li> Payment Gateway.</li>
-                               
+
                                 <li>    Fintech Solution.</li>
-                               
+
                             </ul>
                             <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
@@ -412,18 +412,42 @@
 
                         <a href="event.html" class="mil-card-2">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/1.jpg" alt="project">
+                                <img src="{{ asset('img/projects/1.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <ul class="mil-speakers">
                                     <li class="mil-speaker">
-                                        <img src="img/faces/1.jpg" alt="speaker">
+                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
                                     </li>
                                     <li class="mil-speaker">
-                                        <img src="img/faces/2.jpg" alt="speaker">
+                                        <img src="{{ asset('img/faces/2.jpg') }}" alt="speaker">
                                     </li>
                                     <li class="mil-speaker">
-                                        <img src="img/faces/3.jpg" alt="speaker">
+                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
+                                    </li>
+                                </ul>
+                                <div class="mil-card-title">
+                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
+                                    <h4>Development for the next era of the Internet economy</h4>
+                                </div>
+
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="swiper-slide">
+
+                        <a href="route('events')" class="mil-card-2">
+                            <div class="mil-cover-frame">
+                                <img src="{{ asset('img/projects/2.jpg') }}" alt="project">
+                            </div>
+                            <div class="mil-description">
+                                <ul class="mil-speakers">
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
                                     </li>
                                 </ul>
                                 <div class="mil-card-title">
@@ -439,15 +463,18 @@
 
                         <a href="event.html" class="mil-card-2">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/2.jpg" alt="project">
+                                <img src="{{ asset('img/projects/3.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <ul class="mil-speakers">
                                     <li class="mil-speaker">
-                                        <img src="img/faces/1.jpg" alt="speaker">
+                                        <img src="{{ asset('img/faces/1.jpg') }}" alt="speaker">
                                     </li>
                                     <li class="mil-speaker">
-                                        <img src="img/faces/3.jpg" alt="speaker">
+                                        <img src="{{ asset('img/faces/2.jpg') }}" alt="speaker">
+                                    </li>
+                                    <li class="mil-speaker">
+                                        <img src="{{ asset('img/faces/3.jpg') }}" alt="speaker">
                                     </li>
                                 </ul>
                                 <div class="mil-card-title">
@@ -463,34 +490,7 @@
 
                         <a href="event.html" class="mil-card-2">
                             <div class="mil-cover-frame">
-                                <img src="img/projects/3.jpg" alt="project">
-                            </div>
-                            <div class="mil-description">
-                                <ul class="mil-speakers">
-                                    <li class="mil-speaker">
-                                        <img src="img/faces/1.jpg" alt="speaker">
-                                    </li>
-                                    <li class="mil-speaker">
-                                        <img src="img/faces/2.jpg" alt="speaker">
-                                    </li>
-                                    <li class="mil-speaker">
-                                        <img src="img/faces/3.jpg" alt="speaker">
-                                    </li>
-                                </ul>
-                                <div class="mil-card-title">
-                                    <p class="mil-category mil-text-sm mil-mb-15">Data Security</p>
-                                    <h4>Development for the next era of the Internet economy</h4>
-                                </div>
-
-                            </div>
-                        </a>
-
-                    </div>
-                    <div class="swiper-slide">
-
-                        <a href="event.html" class="mil-card-2">
-                            <div class="mil-cover-frame">
-                                <img src="img/projects/4.jpg" alt="project">
+                                <img src="{{ asset('img/projects/4.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <ul class="mil-speakers">
@@ -600,7 +600,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/blog/1.jpg" alt="project">
+                                <img src="{{ asset('img/blog/1.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -635,7 +635,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/projects/2.jpg" alt="project">
+                                <img src="{{ asset('img/projects/2.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
@@ -670,7 +670,7 @@
 
                         <a href="#." class="mil-card">
                             <div class="mil-cover-frame mil-mb-15">
-                                <img src="img/projects/1.jpg" alt="project">
+                                <img src="{{ asset('img/projects/1.jpg') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-fw-descr">
