@@ -54,7 +54,7 @@
                 <div class="col-lg-6">
 
                     <span class="mil-suptitle mil-suptitle-2 mil-mb-30">About Us</span>
-                    <h2 class="mil-mb-50">Leading ICT company offering comprehensive  <br><span class="mil-accent">solutions to enhance efficiency,</span> solutions to enhance efficiency, innovation, security, and cost reduction.</h2>
+                    <h2 class="mil-mb-50">Who We  <br><span class="mil-accent">Are</span>.</h2>
 
                     <p class="mil-mb-50">We are a leading Information and Communication Technology
                         providing a complete suite of end-to-end IT and Communications
@@ -325,7 +325,7 @@
                 </div>
             </div>
             <div class="mil-divider"></div>
-            
+
         </div>
     </section>
     <!-- features end -->
