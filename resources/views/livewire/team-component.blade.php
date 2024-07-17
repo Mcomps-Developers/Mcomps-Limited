@@ -21,9 +21,9 @@
             <div class="row">
                 <div class="col-sm-6 col-lg-4">
 
-                    <a href="https://manzolo.mcomps.co.ke/" class="mil-team-card mil-mb-60">
+                    <a href="https://manzolo.mcomps.africa/" class="mil-team-card mil-mb-60">
                         <div class="mil-image-frame mil-mb-30">
-                            <img src="img/faces/1.jpg" alt="Team member">
+                            <img src="img/faces/1.png" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Almeida Manzolo</h4>
@@ -39,7 +39,7 @@
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Muremi Peter</h4>
-                        <p>Production and Quality Assurance</p>
+                        <p>Production and Co-Founder</p>
                     </a>
 
                 </div>
@@ -74,7 +74,7 @@
                             <img src="img/faces/5.jpg" alt="Team member">
                             <div class="mil-team-circle"></div>
                         </div>
-                        <h4 class="mil-mb-10">Muzamil</h4>
+                        <h4 class="mil-mb-10">Muzamil Kitambula</h4>
                         <p>Operations Manager and Co-Founder</p>
                     </a>
 
