@@ -78,10 +78,9 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>I</h3>
                             </div>
-                            <h5 class="mil-mb-30">VoIP Services</h5>
-                            <p>Our Voice over IP (VoIP) solutions provide clear, reliable, and cost-effective
-                                communication for your business, including features like voicemail, call forwarding, and
-                                conferencing.</p>
+                            <h5 class="mil-mb-30">IP Telephony</h5>
+                            <p>We use internet protocols for voice communication,
+                                offering cost-effective and scalable telecommunication solutions.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -90,9 +89,9 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>II</h3>
                             </div>
-                            <h5 class="mil-mb-30">Video Conferencing</h5>
-                            <p>Our video conferencing solutions enable seamless, high-quality virtual meetings and
-                                collaborations, integrating with your existing systems and tools.</p>
+                            <h5 class="mil-mb-30">Contact Center</h5>
+                            <p>A contact center manages customer interactions, enhancing service efficiency
+                                 through multiple communication channels, including phone and email.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -101,9 +100,9 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>III</h3>
                             </div>
-                            <h5 class="mil-mb-30">Unified Messaging</h5>
-                            <p>Our unified messaging solutions consolidate all your communication channels—email,
-                                voicemail, and instant messaging—into a single, accessible platform.</p>
+                            <h5 class="mil-mb-30">Video Conferencing</h5>
+                            <p>Video conferencing enables real-time visual communication, facilitating
+                                remote collaboration and reducing travel costs significantly.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -112,9 +111,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>IV</h3>
                             </div>
-                            <h5 class="mil-mb-30">Collaboration Tools</h5>
-                            <p>Our collaboration tools facilitate teamwork with features such as file sharing, real-time
-                                document editing, and project management.</p>
+                            <h5 class="mil-mb-30">Mobility</h5>
+                            <p>Mobility solutions ensure seamless access to corporate resources, supporting productivity and connectivity from any location.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -134,9 +132,20 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>VI</h3>
                             </div>
-                            <h5 class="mil-mb-30">Network Integration</h5>
-                            <p>Our network integration services ensure that all your communication systems work together
-                                seamlessly, optimizing performance and reliability.</p>
+                            <h5 class="mil-mb-30">Managed Unified Communications</h5>
+                            <p>Managed unified communications integrates various communication tools,
+                                providing streamlined and cohesive business communication management.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="mil-hover-card mil-box-center mil-mb-30">
+                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                <h3>VI</h3>
+                            </div>
+                            <h5 class="mil-mb-30">Bulky SMS</h5>
+                            <p>We deliver large volumes of messages efficiently,
+                                supporting marketing campaigns and customer notifications effectively.</p>
                         </div>
                     </div>
                 </div>
@@ -198,7 +207,7 @@
         </section>
         <!-- Additional Services end -->
 
-        
+
 
     </div>
 
