@@ -37,7 +37,7 @@
                                         Talk</span></a>
                             </div>
                             <p class="mil-button-descr mil-light-soft">We design, develop, and support business
-                                applications using the <br> latest technology and standards.</p>
+                                applications using the latest technology and standards.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -209,7 +209,7 @@
                         </div>
 
                     </div>
-                   
+
                     <div class="swiper-slide">
 
                         <div class="mil-hover-card">
