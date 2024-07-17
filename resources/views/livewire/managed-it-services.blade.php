@@ -176,19 +176,7 @@
         </section>
         <!-- Additional Services end -->
 
-        <!-- CTA Section -->
-        <section class="mil-deep-bg mil-p-120-90">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-6 text-center">
-                        <h2 class="mil-mb-30">Ready to Take Your IT Operations to the Next Level?</h2>
-                        <p class="mil-mb-60">Contact us today to learn more about how our managed IT services can help you achieve your business objectives and drive success.</p>
-                        <a href="#." class="mil-button mil-button-lg mil-border"><span>Contact Us</span></a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- CTA Section end -->
+        
 
     </div>
 

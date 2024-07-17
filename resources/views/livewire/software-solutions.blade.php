@@ -10,14 +10,14 @@
                 <div class="container mil-relative">
                     <ul class="mil-breadcrumbs mil-mb-30">
                         <li><a href="/">Home</a></li>
-                        
+
                     </ul>
                     <h2 class="mil-uppercase">Software Solutions</h2>
                 </div>
             </div>
         </div>
         <!-- banner end -->
-    
+
         <!-- about -->
         <section class="mil-p-120-90">
             <div class="mil-deco" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
@@ -47,11 +47,11 @@
             </div>
         </section>
         <!-- about end -->
-    
+
         <div class="container">
             <div class="mil-divider"></div>
         </div>
-    
+
         <!-- Service Details -->
         <section class="mil-p-120-90">
             <div class="container">
@@ -127,7 +127,7 @@
             </div>
         </section>
         <!-- Service Details end -->
-    
+
         <!-- Additional Services -->
         <section class="mil-p-120-90">
             <div class="container">
@@ -175,21 +175,9 @@
             </div>
         </section>
         <!-- Additional Services end -->
-    
-        <!-- CTA Section -->
-        <section class="mil-deep-bg mil-p-120-90">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-6 text-center">
-                        <h2 class="mil-mb-30">Ready to Elevate Your Software Solutions?</h2>
-                        <p class="mil-mb-60">Contact us today to learn more about our software solutions and discover how we can help you achieve your business goals with innovative technology.</p>
-                        <a href="#." class="mil-button mil-button-lg mil-border"><span>Contact Us</span></a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- CTA Section end -->
-    
+
+       
+
     </div>
-    
+
 </div>

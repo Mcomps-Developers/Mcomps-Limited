@@ -29,7 +29,7 @@
                 </div>
             </div>
             <!-- Banner end -->
-    
+
             <!-- About -->
             <section class="mil-p-120-90">
                 <div class="mil-deco" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
@@ -59,11 +59,11 @@
                 </div>
             </section>
             <!-- About end -->
-    
+
             <div class="container">
                 <div class="mil-divider"></div>
             </div>
-    
+
             <!-- Web Solutions Services -->
             <section class="mil-p-120-90">
                 <div class="container">
@@ -139,7 +139,7 @@
                 </div>
             </section>
             <!-- Web Solutions Services end -->
-    
+
             <!-- Explore More Solutions -->
             <section class="mil-deep-bg mil-p-120-90">
                 <div class="container">
@@ -186,7 +186,7 @@
                 </div>
             </section>
             <!-- Explore More Solutions end -->
-    
+
             <!-- Cybersecurity Risk Score -->
             <section class="mil-gradient-bg mil-p-120-90">
                 <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
@@ -204,60 +204,13 @@
                 </div>
             </section>
             <!-- Cybersecurity Risk Score end -->
-    
-            <!-- Contact -->
-            <section class="mil-contact mil-gradient-bg mil-p-120-0">
-                <div class="mil-deco mil-deco-accent" style="top: 0; right: 10%;"></div>
-                <div class="container">
-                    <h2 class="mil-light mil-mb-90">Contact <span class="mil-accent">Us</span></h2>
-                    <form>
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="mil-input-frame mil-mb-30">
-                                    <label><span class="mil-light">Name</span><span class="mil-accent">Required</span></label>
-                                    <input type="text" placeholder="Enter Your Name Here">
-                                </div>
-                                <div class="mil-input-frame mil-mb-30">
-                                    <label><span class="mil-light">Email Address</span><span class="mil-accent">Required</span></label>
-                                    <input type="email" id="email" placeholder="Your Email">
-                                </div>
-                                <div class="mil-input-frame mil-mb-60">
-                                    <label><span class="mil-light">Phone</span><span class="mil-light-soft">Optional</span></label>
-                                    <input type="number" placeholder="Your Phone">
-                                </div>
-                                <div class="mil-attach-frame mil-mb-60">
-                                    <i class="fas fa-paperclip"></i>
-                                    <label class="mil-custom-file-input">
-                                        <span>Attach your file</span>
-                                        <input type="file" id="mil-file-input">
-                                    </label>
-                                    <p class="mil-text-sm mil-light-soft">up to 20MB</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="mil-input-frame mil-mb-30">
-                                    <label><span class="mil-light">Message</span><span class="mil-accent">Required</span></label>
-                                    <textarea placeholder="Your Message"></textarea>
-                                </div>
-                                <p class="mil-text-sm mil-light-soft mil-mb-15">We will process your personal information in accordance with our Privacy Policy.</p>
-                                <div class="mil-checbox-frame mil-mb-60">
-                                    <input class="mil-checkbox" id="checkbox-1" type="checkbox" value="value">
-                                    <label for="checkbox-1" class="mil-text-sm mil-light">I would like to be contacted with news and updates about your <a href="#." class="mil-accent">events and services</a></label>
-                                </div>
-                            </div>
-                            <div class="col-12">
-                                <button class="mil-button mil-accent-bg mil-fw"><span>Send Message Now</span></button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </section>
-            <!-- Contact end -->
+
+           
         </div>
     </body>
     </html>
-    
+
     </div>
-    
+
 
 </div>

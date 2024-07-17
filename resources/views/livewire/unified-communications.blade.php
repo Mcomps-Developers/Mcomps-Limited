@@ -198,20 +198,7 @@
         </section>
         <!-- Additional Services end -->
 
-        <!-- CTA Section -->
-        <section class="mil-deep-bg mil-p-120-90">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-6 text-center">
-                        <h2 class="mil-mb-30">Ready to Revolutionize Your Communication Systems?</h2>
-                        <p class="mil-mb-60">Contact us today to learn more about our unified communications solutions
-                            and discover how we can help you improve collaboration and efficiency.</p>
-                        <a href="#." class="mil-button mil-button-lg mil-border"><span>Contact Us</span></a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- CTA Section end -->
+        
 
     </div>
 

@@ -29,7 +29,7 @@
                 </div>
             </div>
             <!-- Banner end -->
-    
+
             <!-- About -->
             <section class="mil-p-120-90" id="data-centre-solutions">
                 <div class="mil-deco" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
@@ -59,11 +59,11 @@
                 </div>
             </section>
             <!-- About end -->
-    
+
             <div class="container">
                 <div class="mil-divider"></div>
             </div>
-    
+
             <!-- Data Centre Solutions Services -->
             <section class="mil-p-120-90">
                 <div class="container">
@@ -139,7 +139,7 @@
                 </div>
             </section>
             <!-- Data Centre Solutions Services end -->
-    
+
             <!-- Explore More Solutions -->
             <section class="mil-deep-bg mil-p-120-90">
                 <div class="container">
@@ -185,20 +185,12 @@
                     </div>
                 </div>
             </section>
-            <!-- Explore More Solutions end -->
-    
-            <!-- Contact -->
-            
-            <!-- Contact end -->
-    
-            <!-- Footer -->
-            
-            <!-- Footer end -->
+          
         </div>
-    
+
         <!-- JavaScript includes -->
         <script src="scripts.js"></script> <!-- Link to your JavaScript file -->
     </body>
     </html>
-    
+
 </div>
