@@ -39,7 +39,7 @@
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Muremi Peter</h4>
-                        <p>Production and Co-Founder</p>
+                        <p>Production and Quality Assurance</p>
                     </a>
 
                 </div>
