@@ -205,7 +205,7 @@
                                 <li> Mobility.</li>
                                 <li> Bulky SMS.</li>
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('unified.communications') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
@@ -225,7 +225,7 @@
                                 <li> Fintech solutions.</li>
                                 <li> System Integrations.</li>
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('software.solutions') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
@@ -246,7 +246,7 @@
                                 <li> Website redesigning.</li>
 
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('web.solutions') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
