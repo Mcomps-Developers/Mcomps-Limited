@@ -144,7 +144,7 @@
                                 <h3>VII</h3>
                             </div>
                             <h5 class="mil-mb-30">Bulky SMS</h5>
-                            <p>We deliver large volumes of messages efficiently,
+                            <p>We deliver large volumes of SMS efficiently,
                                 supporting marketing campaigns and customer notifications effectively.</p>
                         </div>
                     </div>
