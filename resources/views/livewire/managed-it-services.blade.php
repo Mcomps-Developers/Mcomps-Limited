@@ -57,9 +57,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xl-7">
-                        <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our I.T Managed Services</span>
+                        <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Managed I.T Services</span>
                         <h2 class="mil-mb-30">Explore Our <span class="mil-accent">Managed Services</span></h2>
-                        <p class="mil-mb-90">We offer a range of I.T managed services designed to streamline your operations and ensure your technology supports your business goals.</p>
+                        <p class="mil-mb-90">Benefit from our superior I.T. services that support the success of your
+                            organization.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -69,8 +70,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>I</h3>
                             </div>
-                            <h5 class="mil-mb-30">Application Management</h5>
-                            <p>We manage and maintain your applications to ensure they run smoothly and meet your business requirements.</p>
+                            <h5 class="mil-mb-30">Professional Support</h5>
+                            <p>We offer expert assistance for IT issues, system optimizations, and strategic advice to organizations and Individuals.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -79,8 +80,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>II</h3>
                             </div>
-                            <h5 class="mil-mb-30">Cloud Services</h5>
-                            <p>Our cloud solutions help you scale your operations, improve flexibility, and reduce costs with secure and reliable cloud infrastructure.</p>
+                            <h5 class="mil-mb-30">Proactive Maintenance</h5>
+                            <p>We do regular updates and checks to prevent IT issues and ensure system efficiency and longevity.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -89,8 +90,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>III</h3>
                             </div>
-                            <h5 class="mil-mb-30">Network Management</h5>
-                            <p>We provide end-to-end network management to ensure your IT infrastructure is secure, stable, and optimized for performance.</p>
+                            <h5 class="mil-mb-30">Patch Management</h5>
+                            <p>Software updates to fix vulnerabilities, improve performance, and keep your systems secure and efficient.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -99,8 +100,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>IV</h3>
                             </div>
-                            <h5 class="mil-mb-30">IT Support Services</h5>
-                            <p>Our IT support team is available to assist with technical issues, offering quick and effective solutions to keep your systems running smoothly.</p>
+                            <h5 class="mil-mb-30">Monitoring</h5>
+                            <p>We provide 24/7 oversight of IT systems to detect issues early and maintain optimal performance and stability.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -109,8 +110,8 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>V</h3>
                             </div>
-                            <h5 class="mil-mb-30">IT Consulting</h5>
-                            <p>We offer expert consulting services to help you develop and implement IT strategies that align with your business objectives.</p>
+                            <h5 class="mil-mb-30">Managed Cyber Security Services</h5>
+                            <p>We offer comprehensive protection against cyber threats with advanced technologies and expert management for security.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
@@ -119,8 +120,58 @@
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                 <h3>VI</h3>
                             </div>
-                            <h5 class="mil-mb-30">Data Backup and Recovery</h5>
-                            <p>We provide robust backup and recovery solutions to ensure your data is protected and can be restored in the event of a disaster.</p>
+                            <h5 class="mil-mb-30">Managed Backup and Disaster Recovery Services</h5>
+                            <p>We ensure data security and recovery plans for business continuity during emergencies and failures.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="mil-hover-card mil-box-center mil-mb-30">
+                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                <h3>VII</h3>
+                            </div>
+                            <h5 class="mil-mb-30">Managed Unified Communications (3CX)</h5>
+                            <p>We integrate voice, video, and messaging into a unified platform, streamlining communication for businesses.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="mil-hover-card mil-box-center mil-mb-30">
+                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                <h3>VIII</h3>
+                            </div>
+                            <h5 class="mil-mb-30">Managed Web Services</h5>
+                            <p>We cover web hosting, maintenance, and performance optimization to keep your website secure, updated, and functional.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="mil-hover-card mil-box-center mil-mb-30">
+                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                <h3>IX</h3>
+                            </div>
+                            <h5 class="mil-mb-30">Network as a Service</h5>
+                            <p>We provide scalable, flexible network resources and management without the need for physical network infrastructure investment.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="mil-hover-card mil-box-center mil-mb-30">
+                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                <h3>X</h3>
+                            </div>
+                            <h5 class="mil-mb-30">Infrastructure Support</h5>
+                            <p>Infrastructure Support handles server, storage, and network maintenance to keep your IT systems reliable and operational for your business.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="mil-hover-card mil-box-center mil-mb-30">
+                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                <h3>XI</h3>
+                            </div>
+                            <h5 class="mil-mb-30">Virtual CIO Services and Consulting</h5>
+                            <p>We offer strategic IT guidance and leadership to align technology with business goals without hiring a full-time CIO.</p>
                         </div>
                     </div>
                 </div>
@@ -176,7 +227,7 @@
         </section>
         <!-- Additional Services end -->
 
-        
+
 
     </div>
 
