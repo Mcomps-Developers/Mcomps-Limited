@@ -602,7 +602,7 @@
             
         </div>
     </section>
-    <section class="mil-courses mil-deep-bg mil-p-120-120" >
+    {{-- <section class="mil-courses mil-deep-bg mil-p-120-120" >
         <div class="mil-deco" style="top: 0; right: 40%;"></div>
         <div class="mil-deco" style="bottom: 0; right: 15%; transform: rotate(180deg)"></div>
         <div class="container">
@@ -778,7 +778,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- services end -->
 
     <div class="container">
@@ -786,7 +786,7 @@
     </div>
 
     <!-- portfolio -->
-    <section class="mil-works mil-p-120-90">
+    {{-- <section class="mil-works mil-p-120-90">
         <div class="mil-deco" style="top: 0; right: 40%;"></div>
         <div class="container">
             <div class="row align-items-center mil-mb-60-adapt">
@@ -890,7 +890,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- portfolio end -->
 
    
