@@ -24,7 +24,7 @@
                         <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
                             <div class="mil-circle-bg"></div>
                             <div class="mil-image-frame">
-                                <img src="img/faces/t8.png" alt="Unified Communications">
+                                <img src="img/faces/t8.jpeg" alt="Unified Communications"style="border-radius: 20%;transform:scale(0.5)">
                             </div>
                         </div>
                     </div>

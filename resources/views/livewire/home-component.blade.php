@@ -332,7 +332,7 @@
                                 <li>   School Website.</li>
 
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('school.solutions') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
@@ -354,7 +354,7 @@
                                 <li>    Fintech Solution.</li>
 
                             </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
+                            <a href="{{ route('digital.finance.solutions') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
                         </div>
 
                     </div>
