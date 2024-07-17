@@ -50,7 +50,7 @@
                             </div>
                             <p>Our <span class="mil-accent">network solutions</span> offer comprehensive IT services designed to enhance your network infrastructure, ensure security, and support your business operations.</p>
                         </div>
-                        <a href="#contact" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
                     </div>
                 </div>
             </div>

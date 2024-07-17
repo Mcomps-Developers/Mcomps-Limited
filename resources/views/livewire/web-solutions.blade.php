@@ -34,7 +34,7 @@
                         <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
                             <div class="mil-circle-bg"></div>
                             <div class="mil-image-frame">
-                                <img src="img/faces/t9.jpeg" alt="web solutions image" style="border-radius: 20%;transform:scale(0.50)">
+                                <img src="img/faces/int9.jpeg" alt="web solutions image" style="border-radius: 20%;transform:scale(0.50)">
                             </div>
                         </div>
                     </div>
@@ -48,7 +48,7 @@
                             </div>
                             <p>Our <span class="mil-accent">expert web solutions</span> help you build a strong online presence with professional design, development, and marketing services tailored to your business needs.</p>
                         </div>
-                        <a href="#." class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
                     </div>
                 </div>
             </div>

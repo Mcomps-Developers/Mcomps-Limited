@@ -38,7 +38,7 @@
                             </div>
                             <p>Our <span class="mil-accent">experienced I.T professionals</span> offer managed services to ensure your IT systems are secure, reliable, and optimized for peak performance.</p>
                         </div>
-                        <a href="#." class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
                     </div>
                 </div>
             </div>

@@ -50,7 +50,7 @@
                                 </div>
                                 <p>Our <span class="mil-accent">data centre solutions</span> offer comprehensive services to manage and optimize your data storage, processing, and connectivity needs.</p>
                             </div>
-                            <a href="#contact" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                            <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
                         </div>
                     </div>
                 </div>

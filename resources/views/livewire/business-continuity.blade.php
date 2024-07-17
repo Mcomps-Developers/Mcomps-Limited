@@ -39,7 +39,7 @@
                             </div>
                             <p>Our <span class="mil-accent">business continuity and cloud services</span> ensure that your business can recover from disruptions and leverage cloud technologies for efficiency and growth.</p>
                         </div>
-                        <a href="#." class="mil-button mil-border mil-mb-30"><span>Learn More</span></a>
+                        <a href="{{ route('business.continuity.and.cloud.services') }}" class="mil-button mil-border mil-mb-30"><span>Learn More</span></a>
                     </div>
                 </div>
             </div>

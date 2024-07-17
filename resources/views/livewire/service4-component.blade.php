@@ -40,7 +40,7 @@
                         </div>
                         <p>Our <span class="mil-accent">certified cloud security</span> experts help protect your environments across hyperscale public and private clouds so you can run your business confidence.</p>
                     </div>
-                    <a href="#." class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                    <a href="{{ route('service4') }}" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
 
                 </div>
             </div>

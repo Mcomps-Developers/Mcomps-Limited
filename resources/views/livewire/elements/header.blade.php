@@ -11,7 +11,7 @@
 
                         </li>
                         <li class="mil-has-children">
-                            <a href="#.">About Us</a>
+                            <a href="#.">About</a>
                             <ul>
                                 <li><a href="{{ route('about') }}">About Mcomps</a></li>
                                 <li class="nav-item">

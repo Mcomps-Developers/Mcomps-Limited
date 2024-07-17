@@ -46,15 +46,17 @@
                                 <div class="mil-plus">
                                     <div class="mil-hover-window">
                                         <div class="mil-window-content">
-                                            <h5 class="mil-dark mil-mb-15">Experts</h5>
+                                            <h5 class="mil-dark mil-mb-15">Assured Services</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">Our dedicated team of experts ensures your project is
-                                                a success.</p>
+                                            <p class="mil-text-sm">Client satisfaction matters very much
+                                                to us and we take it very seriously. We
+                                                do not over promise but rather we over
+                                                deliver.</p>
                                         </div>
                                     </div>
                                     <div class="mil-item-hover">
                                         <div class="mil-plus-icon">+</div>
-                                        <h6 class="mil-light">Dedicated Team</h6>
+                                        <h6 class="mil-light">Assured Services</h6>
                                     </div>
                                 </div>
                             </div>
@@ -62,31 +64,36 @@
                                 <div class="mil-plus">
                                     <div class="mil-hover-window">
                                         <div class="mil-window-content">
-                                            <h5 class="mil-dark mil-mb-15">Experts</h5>
+                                            <h5 class="mil-dark mil-mb-15">Tailored Services</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">And here's some amazing content. It's very engaging.
-                                                Right?</p>
+                                            <p class="mil-text-sm">We build powerful and customized IT
+                                                solutions and support systems that
+                                                underpin the daily operations of your
+                                                business.</p>
                                         </div>
                                     </div>
                                     <div class="mil-item-hover">
                                         <div class="mil-plus-icon">+</div>
-                                        <h6 class="mil-light">Developers</h6>
+                                        <h6 class="mil-light">Tailored Services</h6>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="mil-item mil-item-3">
                                 <div class="mil-plus">
                                     <div class="mil-hover-window">
                                         <div class="mil-window-content">
-                                            <h5 class="mil-dark mil-mb-15">Experts</h5>
+                                            <h5 class="mil-dark mil-mb-15">Expertise</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">And here's some amazing content. It's very engaging.
-                                                Right?</p>
+                                            <p class="mil-text-sm">You have over 20 qualified and certified
+                                                technicians & engineers at your disposal
+                                                who have the capabilities to meet all your IT
+                                                requirements.</p>
                                         </div>
                                     </div>
                                     <div class="mil-item-hover">
                                         <div class="mil-plus-icon">+</div>
-                                        <h6 class="mil-light">Designers</h6>
+                                        <h6 class="mil-light">Quality Expertise</h6>
                                     </div>
                                 </div>
                             </div>

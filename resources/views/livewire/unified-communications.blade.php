@@ -38,7 +38,7 @@
                             </div>
                             <p>Our <span class="mil-accent">Unified Communications</span> solutions streamline communication and collaboration across your organization, making it easier for teams to connect, share information, and work together.</p>
                         </div>
-                        <a href="#." class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Get in Touch</span></a>
                     </div>
                 </div>
             </div>
