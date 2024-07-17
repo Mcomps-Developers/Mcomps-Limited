@@ -112,7 +112,7 @@
                                 <h3>V</h3>
                             </div>
                             <h5 class="mil-mb-30">System Integrations</h5>
-                            <p>System integrations connect disparate software systems, ensuring seamless data flow and enhancing overall operational efficiency.</p>
+                            <p>We do System integrations to connect disparate software systems, ensuring seamless data flow and enhancing overall operational efficiency.</p>
                         </div>
                     </div>
                     
