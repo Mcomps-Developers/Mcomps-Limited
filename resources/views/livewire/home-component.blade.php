@@ -209,22 +209,7 @@
                         </div>
 
                     </div>
-                    <div class="swiper-slide">
-
-                        <div class="mil-hover-card">
-                            <h4 class="mil-mb-30">IT Management Services</h4>
-                            <p class="mil-mb-50">Accelerate innovation with world class tech teams our all service.</p>
-                            <div class="mil-divider mil-divider-left mil-mb-50"></div>
-                            <ul class="mil-simple-list mil-mb-50">
-                                <li>Accelerate innovation.</li>
-                                <li>With world-class tech teams.</li>
-                                <li>Our all service offerings to enhance.</li>
-                                <li>Simply drag, drop and customize.</li>
-                            </ul>
-                            <a href="#." class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
-                        </div>
-
-                    </div>
+                   
                     <div class="swiper-slide">
 
                         <div class="mil-hover-card">
@@ -784,7 +769,7 @@
 
                         <a href="https://www.studybuddy.co.ke/" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/1.png') }}" alt="project">
+                                <img src="{{ asset('img/projects/5.png') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
@@ -824,7 +809,7 @@
 
                         <a href="https://pointpro.mcomps.co.ke/" class="mil-card">
                             <div class="mil-cover-frame">
-                                <img src="{{ asset('img/projects/3.png') }}" alt="project">
+                                <img src="{{ asset('img/projects/6.png') }}" alt="project">
                             </div>
                             <div class="mil-description">
                                 <div class="mil-card-title">
