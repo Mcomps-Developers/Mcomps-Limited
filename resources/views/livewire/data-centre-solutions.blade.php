@@ -123,51 +123,7 @@
             </section>
             <!-- Data Centre Solutions Services end -->
 
-            <!-- Explore More Solutions -->
-            <section class="mil-deep-bg mil-p-120-90">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-7">
-                            <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore More Data Centre Solutions</span>
-                            <h2 class="mil-mb-90">Expand Your <span class="mil-accent">Data Centre</span></h2>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>I</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Data Centre Virtualization</h5>
-                            <p>Optimize resource utilization with virtualization technologies for servers, storage, and networking.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>II</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Data Centre Disaster Recovery</h5>
-                            <p>Develop strategies and solutions for data backup, recovery, and continuity in case of disasters or emergencies.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>III</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Data Centre Networking Solutions</h5>
-                            <p>Design and implement network infrastructures to support high-speed data transfer, connectivity, and security.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>IV</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Data Centre Consulting Services</h5>
-                            <p>Get expert advice on data centre design, best practices, and future-proofing your infrastructure for long-term success.</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
+           
 
         </div>
 

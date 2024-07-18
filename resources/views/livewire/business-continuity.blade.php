@@ -1,6 +1,6 @@
 <div>
     @section('title')
-        business continuity & Cloud Services
+        Business Continuity & Cloud Services
     @endsection
     <div>
         <!-- Banner -->
@@ -42,7 +42,7 @@
                             </div>
                             <p>Our <span class="mil-accent">business continuity and cloud services</span> ensure that your business can recover from disruptions and leverage cloud technologies for efficiency and growth.</p>
                         </div>
-                        <a href="{{ route('business.continuity.and.cloud.services') }}" class="mil-button mil-border mil-mb-30"><span>Let's talk</span></a>
+                        <a href="{{ route('contact') }}" class="mil-button mil-border mil-mb-30"><span>Let's Discuss</span></a>
                     </div>
                 </div>
             </div>
@@ -128,70 +128,9 @@
         </section>
         <!-- Business Continuity and Cloud Services End -->
 
-        <!-- Additional Solutions -->
-        <section class="mil-deep-bg mil-p-120-90">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7">
-                        <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Additional Cloud Services</span>
-                        <h2 class="mil-mb-90">Explore More of Our <span class="mil-accent">Cloud</span> & <span class="mil-accent">Business Continuity Solutions</span></h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>I</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Cloud Native Security Services</h5>
-                        <p>Secure your cloud infrastructure with our comprehensive suite of cloud-native security services, ensuring the safety and integrity of your data and applications.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>II</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Multi-Cloud Security</h5>
-                        <p>Extend your security protocols across multiple cloud platforms seamlessly with our multi-cloud security solutions, ensuring consistent protection and compliance.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>III</h3>
-                        </div>
-                        <h5 class="mil-mb-30">On-Site Security and Compliance</h5>
-                        <p>Enhance your on-site security measures and ensure compliance with industry regulations using our on-site security and compliance solutions, tailored to your specific needs.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>IV</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Customized Solutions</h5>
-                        <p>Receive personalized security solutions designed to address your unique challenges and requirements, ensuring maximum protection and peace of mind.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Additional Solutions End -->
 
-        <!-- Risk Assessment -->
-        <section class="mil-gradient-bg mil-p-120-90">
-            <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
-            <div class="container">
-                <div class="row justify-content-between align-items-center">
-                    <div class="col-xl-4">
-                        <span class="mil-suptitle mil-suptitle-2 mil-light mil-mb-30">Assess Your Cloud Security</span>
-                        <h2 class="mil-light mil-mb-90">Do You Know Your <span class="mil-accent">Cybersecurity</span> Risk Score?</h2>
-                    </div>
-                    <div class="col-xl-7 mil-mb-30">
-                        <p class="mil-light-soft mil-mb-30">By answering these simple questions about your cybersecurity technology, processes, and people, you'll receive a cybersecurity risk score against our baseline that can help you identify common security gaps in your environment that you may not be aware of.</p>
-                        <a href="#." class="mil-button mil-border mil-light"><span>Start Now</span></a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Risk Assessment End -->
+
+       
 
 
     </div>

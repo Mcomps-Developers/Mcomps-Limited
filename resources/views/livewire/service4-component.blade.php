@@ -1,7 +1,7 @@
 <div>
     @section('title')
-    Cybersecurity
-@endsection
+        Cybersecurity
+    @endsection
     <div class="mil-banner-sm mil-deep-bg">
         <img src="img/deco/map.png" alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
@@ -79,7 +79,8 @@
                             <h3>I</h3>
                         </div>
                         <h5 class="mil-mb-30">Endpoint Security</h5>
-                        <p>We provide endpoint security solutions, protecting individual devices within your network from threats and vulnerabilities.</p>
+                        <p>We provide endpoint security solutions, protecting individual devices within your network
+                            from threats and vulnerabilities.</p>
                     </div>
 
                 </div>
@@ -91,7 +92,8 @@
                             <h3>II</h3>
                         </div>
                         <h5 class="mil-mb-30">Perimeter Security</h5>
-                        <p>Our perimeter security services safeguard your network boundaries, preventing unauthorized access and external threats.</p>
+                        <p>Our perimeter security services safeguard your network boundaries, preventing unauthorized
+                            access and external threats.</p>
                     </div>
 
                 </div>
@@ -103,7 +105,8 @@
                             <h3>III</h3>
                         </div>
                         <h5 class="mil-mb-30">Endpoint Detection and Response</h5>
-                        <p>We offer endpoint detection and response, enabling rapid identification and mitigation of cyber threats on devices.</p>
+                        <p>We offer endpoint detection and response, enabling rapid identification and mitigation of
+                            cyber threats on devices.</p>
                     </div>
 
                 </div>
@@ -115,7 +118,8 @@
                             <h3>IV</h3>
                         </div>
                         <h5 class="mil-mb-30">Storage and Cloud Security</h5>
-                        <p>Our storage and cloud security solutions ensure the confidentiality and integrity of data stored locally and in the cloud.
+                        <p>Our storage and cloud security solutions ensure the confidentiality and integrity of data
+                            stored locally and in the cloud.
                         </p>
                     </div>
 
@@ -128,7 +132,8 @@
                             <h3>V</h3>
                         </div>
                         <h5 class="mil-mb-30">Email Security</h5>
-                        <p>We provide email security services, protecting against phishing, spam, and malware to secure your communications.</p>
+                        <p>We provide email security services, protecting against phishing, spam, and malware to secure
+                            your communications.</p>
                     </div>
 
                 </div>
@@ -140,7 +145,8 @@
                             <h3>VI</h3>
                         </div>
                         <h5 class="mil-mb-30">Dark Web Monitoring</h5>
-                        <p>Our dark web monitoring services scan illicit web areas, alerting you to compromised data and potential security breaches.</p>
+                        <p>Our dark web monitoring services scan illicit web areas, alerting you to compromised data and
+                            potential security breaches.</p>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -151,7 +157,8 @@
                             <h3>VII</h3>
                         </div>
                         <h5 class="mil-mb-30">Authentication</h5>
-                        <p>We implement authentication solutions, ensuring only authorized users can access your sensitive information and systems.</p>
+                        <p>We implement authentication solutions, ensuring only authorized users can access your
+                            sensitive information and systems.</p>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -162,7 +169,8 @@
                             <h3>VIII</h3>
                         </div>
                         <h5 class="mil-mb-30">Cyber Awareness Training</h5>
-                        <p>Our cyber awareness training programs educate employees on recognizing and responding to cyber threats, enhancing overall security.</p>
+                        <p>Our cyber awareness training programs educate employees on recognizing and responding to
+                            cyber threats, enhancing overall security.</p>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -173,7 +181,8 @@
                             <h3>IX</h3>
                         </div>
                         <h5 class="mil-mb-30">Managed Cyber Security</h5>
-                        <p>We offer managed cyber security services, providing comprehensive protection and continuous monitoring against evolving cyber threats.</p>
+                        <p>We offer managed cyber security services, providing comprehensive protection and continuous
+                            monitoring against evolving cyber threats.</p>
                     </div>
                 </div>
             </div>
@@ -181,64 +190,7 @@
     </section>
     <!-- ??? end -->
 
-    <!-- ??? -->
-    <section class="mil-deep-bg mil-p-120-90">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-7">
-                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore More Solutions</span>
-                    <h2 class="mil-mb-90">Boost Your <span class="mil-accent">Advantage</span></h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-3 mil-mb-30">
-
-                    <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                    <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                        <h3>I</h3>
-                    </div>
-                    <h5 class="mil-mb-30">Cloud Native <br>Security Services</h5>
-                    <p>Secure your cloud infrastructure with our comprehensive suite of cloud-native security services,
-                        ensuring the safety and integrity of your data and applications.</p>
-
-                </div>
-                <div class="col-xl-3 mil-mb-30">
-
-                    <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                    <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                        <h3>II</h3>
-                    </div>
-                    <h5 class="mil-mb-30">Multi <br>Cloud Security</h5>
-                    <p>Extend your security protocols across multiple cloud platforms seamlessly with our multi-cloud
-                        security solutions, ensuring consistent protection and compliance.</p>
-
-                </div>
-                <div class="col-xl-3 mil-mb-30">
-
-                    <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                    <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                        <h3>III</h3>
-                    </div>
-                    <h5 class="mil-mb-30">On Site Security <br>and Compliance</h5>
-                    <p>Enhance your on-site security measures and ensure compliance with industry regulations using our
-                        on-site security and compliance solutions, tailored to your specific needs.</p>
-
-                </div>
-                <div class="col-xl-3 mil-mb-30">
-
-                    <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                    <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                        <h3>IV</h3>
-                    </div>
-                    <h5 class="mil-mb-30">Customized Solutions</h5>
-                    <p>Receive personalized security solutions designed to address your unique challenges and
-                        requirements, ensuring maximum protection and peace of mind.</p>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- ??? end -->
+    
 
 
 
