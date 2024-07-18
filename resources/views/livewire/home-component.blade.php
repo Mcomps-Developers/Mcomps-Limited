@@ -139,9 +139,9 @@
                 </div>
                 <div class="col-lg-6 mil-mb-60">
 
-                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Hello!</span>
-                    <h2 class="mil-mb-50">We are providing the key
-                        solutions to your needs.</h2>
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">We are providing the key
+                        solutions to your needs.</span>
+                    <h2 class="mil-mb-50">Hello!</h2>
 
                     <p class="mil-mb-50">Mcomps Limited is a pioneering company in the ICT industry. With a clear
                         vision and a dedication to meeting our clients' specific requirements, we
