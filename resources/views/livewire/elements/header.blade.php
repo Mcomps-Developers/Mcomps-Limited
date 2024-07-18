@@ -30,24 +30,24 @@
                             <a href="#.">Services</a>
                             <ul>
                         </li>
-                        <li><a href="{{ route('service4') }}">Business Continuity &
+                        <li><a href="{{ route('business.continuity.and.cloud.services') }}">Business Continuity &
                                 Cloud Services</a></li>
                         <li><a href="{{ route('service4') }}">Cyber Security</a></li>
-                        <li><a href="{{ route('service2') }}">Data Center
+                        <li><a href="{{ route('data.centre.solutions') }}">Data Center
                                 Solutions</a></li>
-                        <li><a href="{{ route('service3') }}">Digital Financial
+                        <li><a href="{{ route('digital.finance.solutions') }}">Digital Financial
                                 Solutions</a></li>
-                        <li><a href="{{ route('service4') }}">Managed I.T.
+                        <li><a href="{{ route('manageditservices') }}">Managed I.T.
                                 Services</a></li>
 
 
-                        <li><a href="{{ route('service4') }}">Network Solutions</a></li>
+                        <li><a href="{{ route('network.solutions') }}">Network Solutions</a></li>
 
-                        <li><a href="{{ route('service4') }}">School Solutions</a></li>
-                        <li><a href="{{ route('service4') }}">Software Solutions</a></li>
-                        <li><a href="{{ route('service4') }}">Unified
+                        <li><a href="{{ route('school.solutions') }}">School Solutions</a></li>
+                        <li><a href="{{ route('software.solutions') }}">Software Solutions</a></li>
+                        <li><a href="{{ route('unified.communications') }}">Unified
                                 Communications</a></li>
-                        <li><a href="{{ route('service4') }}">Web Solutions</a></li>
+                        <li><a href="{{ route('web.solutions') }}">Web Solutions</a></li>
 
                     </ul>
                     </li>
