@@ -659,8 +659,8 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-lg-5">
-                    <div class="mil-h1">4<span class="mil-accent">+</span></div>
-                    <h6 class="mil-mb-60">Years Experience</h6>
+                    <div class="mil-h1">{{date('Y')-2020}}<span class="mil-accent">+</span></div>
+                    <h6 class="mil-mb-60">Years Since Inception</h6>
 
                     <h4 class="mil-mb-60">We Run All Kinds of IT Services That Vow Your Success</h4>
                 </div>
