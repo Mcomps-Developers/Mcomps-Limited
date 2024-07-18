@@ -40,7 +40,7 @@
                             <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
                                 <div class="mil-circle-bg"></div>
                                 <div class="mil-image-frame">
-                                    <img src="{{ asset('img/faces/t10.jpeg') }}" alt="network solutions image">
+                                    <img src="{{ asset('img/faces/t10.png') }}" style="border-radius: 20%;transform:scale(0.75)">
                                 </div>
                             </div>
                         </div>
