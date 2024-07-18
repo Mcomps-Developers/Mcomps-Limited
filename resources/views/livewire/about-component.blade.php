@@ -91,7 +91,7 @@
                                     <span class="mil-dark">Agile development methodologies.</span>
                                 </li>
                                 <li>
-                                    <img src="{{ asset('mg/icons/sm/12.svg') }}" alt="icon">
+                                    <img src="{{ asset('img/icons/sm/12.svg') }}" alt="icon">
                                     <span class="mil-dark">Continuous innovation and improvement.</span>
                                 </li>
                             </ul>
