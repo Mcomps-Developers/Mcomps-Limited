@@ -208,7 +208,7 @@
                                 <li>Video Conferencing.</li>
                                 <li> Mobility.</li>
                                 <li>  Managed Unified Communications.</li>
-                                
+
                                 <li> Bulky SMS.</li>
                             </ul>
                             <a href="{{ route('unified.communications') }}" class="mil-link"><span>Learn More</span><i class="fas fa-arrow-right"></i></a>
@@ -489,13 +489,13 @@
             <div class="row align-items-end mil-mb-60-adapt">
                 <div class="col-md-4 col-xl-4">
 
-                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">We Share Knowledge</span>
-                    <h2 class="mil-mb-30">Virtual Events</h2>
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Let's Engage</span>
+                    <h2 class="mil-mb-30">Our Events</h2>
 
                 </div>
                 <div class="col-md-5 col-xl-5">
 
-                    <p class="mil-mb-30">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                    <p class="mil-mb-30">Let's connect during our events, exchange knowledge while empowering our society. We address our clientele and reason together while introducing new solutions to the market.</p>
 
                 </div>
                 <div class="col-md-3 col-xl-3">
