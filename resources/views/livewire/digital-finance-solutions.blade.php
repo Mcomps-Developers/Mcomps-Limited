@@ -25,11 +25,11 @@
             <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-xl-4">
-                        <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
-                            <div class="mil-circle-bg"></div>
+                        <div class="mil-about-illustration mil-mb-60">
                             <div class="mil-image-frame">
-                                <img src="img/faces/t12.jpeg" alt="img"style="border-radius: 20%;transform:scale(0.5)">
+                                <img src="{{ asset('img/faces/33.jpeg') }}">
                             </div>
+
                         </div>
                     </div>
                     <div class="col-xl-7">
@@ -118,58 +118,9 @@
         </section>
         <!-- Core Services End -->
 
-        <!-- Explore More Solutions -->
-        <section class="mil-deep-bg mil-p-120-90">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7">
-                        <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore More Solutions</span>
-                        <h2 class="mil-mb-90">Boost Your <span class="mil-accent">Financial Advantage</span></h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <!-- Cloud Native Security Services -->
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>I</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Cloud Native Financial Services</h5>
-                        <p>Secure and scalable cloud-based financial services designed to meet the evolving needs of your business.</p>
-                    </div>
-                    <!-- Multi-Cloud Financial Solutions -->
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>II</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Multi-Cloud Financial Solutions</h5>
-                        <p>Integrate and manage financial services across multiple cloud platforms for enhanced efficiency and security.</p>
-                    </div>
-                    <!-- On-Site Financial Solutions -->
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>III</h3>
-                        </div>
-                        <h5 class="mil-mb-30">On-Site Financial Solutions</h5>
-                        <p>Enhance your on-site financial systems and ensure compliance with industry standards through our expert solutions.</p>
-                    </div>
-                    <!-- Customized Financial Solutions -->
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>IV</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Customized Financial Solutions</h5>
-                        <p>Receive tailored financial solutions that address your specific challenges and objectives for maximum impact.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Explore More Solutions End -->
 
-       
+
+
 
 
     </div>

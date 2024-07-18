@@ -24,11 +24,11 @@
             <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-xl-4">
-                        <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
-                            <div class="mil-circle-bg"></div>
+                        <div class="mil-about-illustration mil-mb-60">
                             <div class="mil-image-frame">
-                                <img src="img/faces/t8.png" alt="Software Solutions">
+                                <img src="{{ asset('img/faces/35.png') }}">
                             </div>
+
                         </div>
                     </div>
                     <div class="col-xl-7">
@@ -115,59 +115,13 @@
                             <p>We do System integrations to connect disparate software systems, ensuring seamless data flow and enhancing overall operational efficiency.</p>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </section>
         <!-- Service Details end -->
 
-        <!-- Additional Services -->
-        <section class="mil-p-120-90">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7">
-                        <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore More Software Solutions</span>
-                        <h2 class="mil-mb-30">Expand Your <span class="mil-accent">Software Capabilities</span></h2>
-                        <p class="mil-mb-90">We offer a variety of software solutions to meet diverse business needs and support your growth in the digital age.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>I</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Cloud-Based Software Development</h5>
-                        <p>Develop cloud-based applications that offer flexibility, scalability, and access from anywhere in the world.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>II</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Custom CRM Development</h5>
-                        <p>Create a custom CRM solution to manage customer relationships, track interactions, and improve customer service.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>III</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Business Intelligence Solutions</h5>
-                        <p>Implement business intelligence tools to analyze data, gain insights, and make informed business decisions.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>IV</h3>
-                        </div>
-                        <h5 class="mil-mb-30">E-Commerce Development</h5>
-                        <p>Build robust e-commerce platforms with features for online sales, payment processing, and inventory management.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Additional Services end -->
+
 
 
 

@@ -179,53 +179,7 @@
         </section>
         <!-- Service Details end -->
 
-        <!-- Additional Services -->
-        <section class="mil-p-120-90">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7">
-                        <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore More Services</span>
-                        <h2 class="mil-mb-30">Enhance Your <span class="mil-accent">IT Capabilities</span></h2>
-                        <p class="mil-mb-90">We offer a variety of managed IT services to meet your unique business needs and drive success in the digital age.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>I</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Cloud Infrastructure Services</h5>
-                        <p>Build and manage your cloud infrastructure with our tailored solutions to ensure scalability, reliability, and efficiency.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>II</h3>
-                        </div>
-                        <h5 class="mil-mb-30">IT Governance</h5>
-                        <p>Establish effective IT governance frameworks to manage risk, ensure compliance, and align IT strategies with your business goals.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>III</h3>
-                        </div>
-                        <h5 class="mil-mb-30">IT Infrastructure Management</h5>
-                        <p>Manage and optimize your IT infrastructure with our comprehensive services, including hardware, software, and network management.</p>
-                    </div>
-                    <div class="col-xl-3 mil-mb-30">
-                        <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <h3>IV</h3>
-                        </div>
-                        <h5 class="mil-mb-30">Endpoint Management</h5>
-                        <p>Manage and secure all endpoints in your organization, from desktops to mobile devices, to ensure consistency and protection.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Additional Services end -->
+        
 
 
 

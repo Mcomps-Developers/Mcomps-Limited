@@ -43,11 +43,11 @@
                 <div class="container">
                     <div class="row justify-content-between align-items-center">
                         <div class="col-xl-4">
-                            <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
-                                <div class="mil-circle-bg"></div>
+                            <div class="mil-about-illustration mil-mb-60">
                                 <div class="mil-image-frame">
-                                    <img src="img/faces/t14.jpeg" alt="School IT Solutions">
+                                    <img src="{{ asset('img/faces/t14.jpeg') }}">
                                 </div>
+
                             </div>
                         </div>
                         <div class="col-xl-7">
@@ -159,70 +159,7 @@
             </section>
             <!-- Explore School IT Solutions End -->
 
-            <!-- More School Solutions -->
-            <section class="mil-deep-bg mil-p-120-90">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-7">
-                            <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore More Solutions</span>
-                            <h2 class="mil-mb-90">Enhance Your <span class="mil-accent">School's Capabilities</span></h2>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>I</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Virtual Classrooms</h5>
-                            <p>Create interactive and engaging virtual classrooms for remote learning and online education.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>II</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Educational Software Solutions</h5>
-                            <p>Equip your school with advanced educational software for learning management, student engagement, and academic performance tracking.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>III</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Student and Staff Management</h5>
-                            <p>Implement systems for efficient management of student records, staff schedules, and school administration.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>IV</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Tech Training Programs</h5>
-                            <p>Provide training programs for teachers and staff to effectively use technology and integrate it into their teaching methods.</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- More School Solutions End -->
-
-            <!-- Risk Assessment -->
-            <section class="mil-gradient-bg mil-p-120-90">
-                <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
-                <div class="container">
-                    <div class="row justify-content-between align-items-center">
-                        <div class="col-xl-4">
-                            <span class="mil-suptitle mil-suptitle-2 mil-light mil-mb-30">Evaluate Your IT Readiness</span>
-                            <h2 class="mil-light mil-mb-90">Do You Know What Your <span class="mil-accent">School's IT Risk Score</span> Is?</h2>
-                        </div>
-                        <div class="col-xl-7 mil-mb-30">
-                            <p class="mil-light-soft mil-mb-30">By answering a few questions about your school's technology setup and IT policies, you can receive a comprehensive risk assessment to identify potential areas for improvement and ensure your IT infrastructure supports your educational goals.</p>
-                            <a href="#contact" class="mil-button mil-border mil-light"><span>Start Risk Assessment</span></a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Risk Assessment End -->
+           
 
 
         </div>
