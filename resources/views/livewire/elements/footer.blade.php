@@ -42,13 +42,14 @@
                                 unwavering, and we offer a comprehensive range of cybersecurity services
                                 designed to protect your business from threats
                             </p>
-                            <p>
+                            <br>
+                            <p class="mil-light-soft">
                                 With our array of cybersecurity solutions, we aim to safeguard your sensitive
-data, systems, and operations. Our approach includes robust measures
-such as threat monitoring, vulnerability assessments, secure coding
-practices, and employee training. By partnering with us, you can trust that
-we prioritize the security of your digital assets, providing you with peace of
-mind and a strong defense against potential threats.
+                                data, systems, and operations. Our approach includes robust measures
+                                such as threat monitoring, vulnerability assessments, secure coding
+                                practices, and employee training. By partnering with us, you can trust that
+                                we prioritize the security of your digital assets, providing you with peace of
+                                mind and a strong defense against potential threats.
                             </p>
 
                         </div>
