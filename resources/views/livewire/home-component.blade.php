@@ -129,11 +129,11 @@
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-5 mil-mb-60">
 
-                    <div class="mil-circle-illustration">
-                        <div class="mil-circle-bg"></div>
+                    <div class="mil-about-illustration mil-mb-60">
                         <div class="mil-image-frame">
-                            <img src="img/faces/t2.png" alt="img">
+                            <img src="{{ asset('img/faces/25.jpg') }}">
                         </div>
+
                     </div>
 
                 </div>
@@ -417,7 +417,7 @@
 
                     <div class="mil-about-illustration mil-mb-60">
                         <div class="mil-image-frame">
-                            <img src="img/photo/8.jpg" alt="Office">
+                            <img src="{{ asset('img/faces/26.jpg') }}">
                         </div>
 
                     </div>
