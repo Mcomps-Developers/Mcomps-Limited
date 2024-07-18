@@ -15,7 +15,8 @@
                             <ul>
                                 <li><a href="{{ route('about') }}">About Mcomps</a></li>
                                 <li class="nav-item">
-                                    <a href="{{ asset('img/Mcomps Limited Company Profile.pdf') }}" class="nav-link">Company
+                                    <a href="{{ asset('img/Mcomps Limited Company Profile.pdf') }}"
+                                        class="nav-link">Company
                                         profile</a>
                                 </li>
                                 <li><a href="{{ route('team') }}">Our Team</a></li>
@@ -29,13 +30,28 @@
                             <a href="#.">Services</a>
                             <ul>
                         </li>
-                        <li><a href="{{ route('service1') }}">SAAS-Development-Services</a></li>
-                        <li><a href="{{ route('service2') }}">UI/UX design</a></li>
-                        <li><a href="{{ route('service3') }}">Mobile app development</a></li>
-                        <li><a href="{{ route('service4') }}">Cybersecurity</a></li>
+                        <li><a href="{{ route('service4') }}">Business Continuity &
+                                Cloud Services</a></li>
+                        <li><a href="{{ route('service4') }}">Cyber Security</a></li>
+                        <li><a href="{{ route('service2') }}">Data Center
+                                Solutions</a></li>
+                        <li><a href="{{ route('service3') }}">Digital Financial
+                                Solutions</a></li>
+                        <li><a href="{{ route('service4') }}">Managed I.T.
+                                Services</a></li>
+
+
+                        <li><a href="{{ route('service4') }}">Network Solutions</a></li>
+
+                        <li><a href="{{ route('service4') }}">School Solutions</a></li>
+                        <li><a href="{{ route('service4') }}">Software Solutions</a></li>
+                        <li><a href="{{ route('service4') }}">Unified
+                                Communications</a></li>
+                        <li><a href="{{ route('service4') }}">Web Solutions</a></li>
+
                     </ul>
                     </li>
-                   
+
                     <li class="mil-has-children">
                         <a href="#.">Media</a>
                         <ul>
@@ -46,14 +62,14 @@
                             <li><a href="#">Privacy Policy</a></li>
                             <li><a href="#">Terms and Conditions</a></li>
                         </ul>
-                        <li class="mil-has-children">
-                            <a href="{{ route('careers') }}">Careers</a>
+                    <li class="mil-has-children">
+                        <a href="{{ route('careers') }}">Careers</a>
 
-                        </li>
-                        <li class="mil-has-children">
-                            <a href="{{ route('contact') }}">Contact Us</a>
+                    </li>
+                    <li class="mil-has-children">
+                        <a href="{{ route('contact') }}">Contact Us</a>
 
-                        </li>
+                    </li>
                     </ul>
 
                 </nav>

@@ -520,7 +520,7 @@
         <div class="mil-divider"></div>
     </div>
 
-    <section class="mil-events mil-deep-bg mil-p-120-120">
+    {{-- <section class="mil-events mil-deep-bg mil-p-120-120">
         <div class="mil-deco" style="top: 0; right: 20%;"></div>
         <div class="container">
 
@@ -653,7 +653,7 @@
             </div>
 
         </div>
-    </section>
+    </section> --}}
 
 
 </div>
