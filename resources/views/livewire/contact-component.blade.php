@@ -164,8 +164,7 @@
 
                     <div class="mil-divider mil-mb-60"></div>
 
-                    <a href="contact.html" class="mil-link mil-link-sm mil-mb-15"><span>Legality Guide</span><i class="fas fa-arrow-right"></i></a><br>
-                    <a href="contact.html" class="mil-link mil-link-sm"><span>Security Center</span><i class="fas fa-arrow-right"></i></a>
+                    
 
                 </div>
             </div>
@@ -195,7 +194,7 @@
                         <div class="mil-divider mil-divider-left mil-mb-30"></div>
 
                         <h6 class="mil-mb-15"><i class="fas fa-phone"></i> <span class="mil-accent">+ 254</span> 7-0010-6541</h6>
-                        <h6><i class="fas fa-envelope"></i> info@mcomps.co.ke</h6>
+                        <h6><i class="fas fa-envelope"></i> info@mcomps.africa</h6>
                     </div>
 
 

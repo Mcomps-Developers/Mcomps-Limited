@@ -37,11 +37,11 @@
                 <div class="container">
                     <div class="row justify-content-between align-items-center">
                         <div class="col-xl-4">
-                            <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
-                                <div class="mil-circle-bg"></div>
+                            <div class="mil-about-illustration mil-mb-60">
                                 <div class="mil-image-frame">
-                                    <img src="{{ asset('img/faces/t10.png') }}" style="border-radius: 20%;transform:scale(0.75)">
+                                    <img src="{{ asset('img/faces/t10.png') }}">
                                 </div>
+
                             </div>
                         </div>
                         <div class="col-xl-7">
