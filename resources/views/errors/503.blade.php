@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="{{ asset('css/plugins/swiper.min.css') }}">
     <!-- itsulu css -->
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
-    <title>@yield('title')</title>
+    <title>Service Unavailable</title>
     <!-- itsulu favicon -->
     <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('favicon/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('favicon/favicon-32x32.png') }}">
@@ -34,7 +34,32 @@
     <div class="mil-wrapper">
         <!-- top bar -->
         @livewire('elements.header')
-        {{ $slot }}
+        <div class="mil-dark-bg mil-add-page">
+            <div class="mil-deco mil-deco-accent" style="top: 40vh; right: 10%; transform: rotate(90deg)"></div>
+            <img src="img/deco/map.png" alt="background" class="mil-map-bg">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-4">
+
+                        <div class="mil-text-center mil-mb-30">
+                            <h5 class="mil-light">Error</h5>
+                            <h1 class="mil-light mil-404-number">503</h1>
+                            <h5 class="mil-light">Page <span class="mil-accent">Service</span> Unavailable</h5>
+                        </div>
+
+                    </div>
+                    <div class="col-xl-4">
+
+                        <div class="mil-404-text">
+                            <p class="mil-light-soft mil-mb-30">The Service You are Looking is unavailable.</p>
+                            <a href="/" class="mil-button mil-border mil-light"><span>Back to
+                                    homepage</span></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
         @livewire('elements.footer')
@@ -53,19 +78,6 @@
     <!-- bslthemes.com buttons assets begin -->
     <link rel="{{ asset('stylesheet" href="bslthms-advanced-btns/assets/style.css') }}">
     <script src="{{ asset('bslthms-advanced-btns/assets/script.js') }}"></script>
-    <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-    s1.async=true;
-    s1.src='https://embed.tawk.to/60894cb45eb20e09cf3764cf/1gmdn8ebv';
-    s1.charset='UTF-8';
-    s1.setAttribute('crossorigin','*');
-    s0.parentNode.insertBefore(s1,s0);
-    })();
-    </script>
-    <!--End of Tawk.to Script-->
 
 
 </body>

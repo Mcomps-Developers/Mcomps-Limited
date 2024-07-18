@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="{{ asset('css/plugins/swiper.min.css') }}">
     <!-- itsulu css -->
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
-    <title>Internal Servor Error</title>
+    <title>Internal Server Error</title>
     <!-- itsulu favicon -->
     <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('favicon/apple-touch-icon.png') }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('favicon/favicon-32x32.png') }}">
@@ -44,14 +44,14 @@
                         <div class="mil-text-center mil-mb-30">
                             <h5 class="mil-light">Error</h5>
                             <h1 class="mil-light mil-404-number">500</h1>
-                            <h5 class="mil-light">Internal <span class="mil-accent">Servor</span> Error</h5>
+                            <h5 class="mil-light">Internal <span class="mil-accent">Server</span> Error</h5>
                         </div>
 
                     </div>
                     <div class="col-xl-4">
 
                         <div class="mil-404-text">
-                            <p class="mil-light-soft mil-mb-30">Internal Servor Error Occured.</p>
+                            <p class="mil-light-soft mil-mb-30">Internal Servor Error Occured. Our Team Will Fix It.</p>
                             <a href="/" class="mil-button mil-border mil-light"><span>Back to
                                     homepage</span></a>
                         </div>

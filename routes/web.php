@@ -55,4 +55,4 @@ Route::get('/Network-solutions',NetworkSolutions::class)->name('network.solution
 Route::get('/Data-center-solutions',DataCentreSolutions::class)->name('data.centre.solutions');
 Route::get('/Business-continuity-and-cloud-services',BusinessContinuity::class)->name('business.continuity.and.cloud.services');
 Route::get('/School-solutions',SchoolSolutions::class)->name('school.solutions');
-Route::get('/Digital-Finance-Solutions',DigitalFinanceSolutions::class)->name('digital.finance.solutions');s
+Route::get('/Digital-Finance-Solutions',DigitalFinanceSolutions::class)->name('digital.finance.solutions');
