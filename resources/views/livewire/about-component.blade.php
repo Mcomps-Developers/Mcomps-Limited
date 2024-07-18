@@ -148,6 +148,14 @@
 
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
             <h2 class="mil-mb-120">Methodology</h2>
+            <span class="mil-suptitle mil-suptitle-2 mil-mb-30">At Mcomps, Agile development is our default approach. We embrace an
+                iterative and adaptive methodology to maximize the value of the solutions
+                we develop.
+                This methodology helps us minimize failures and enables us to scale on
+                those failures, learning and improving along the way. One of the key
+                advantages of Agile is that it allows our customers to have regular visibility
+                into the solution's progress, providing opportunities for immediate
+                feedback and adjustments instead of waiting until the end of the project.</span>
 
             <div class="mil-divider"></div>
             <div class="mil-line-icon-box">
@@ -266,7 +274,7 @@
         <div class="mil-deco" style="top: 0; right: 25%;"></div>
         <div class="container">
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Values</span>
-            <h2 class="mil-mb-120">Our  <span class="mil-accent">Corporate</span> Values</h2>
+            <h2 class="mil-mb-120">Our  <span class="mil-accent">Corprate</span> Values</h2>
 
             <div class="row">
                 <div class="col-md-6 col-xl-4">
