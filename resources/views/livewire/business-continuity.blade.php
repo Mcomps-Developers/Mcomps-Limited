@@ -25,11 +25,11 @@
             <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-xl-4">
-                        <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
-                            <div class="mil-circle-bg"></div>
+                        <div class="mil-about-illustration mil-mb-60">
                             <div class="mil-image-frame">
-                                <img src="img/faces/t11.jpeg" alt="img">
+                                <img src="{{ asset('img/faces/31.png') }}">
                             </div>
+
                         </div>
                     </div>
                     <div class="col-xl-7">
@@ -42,7 +42,7 @@
                             </div>
                             <p>Our <span class="mil-accent">business continuity and cloud services</span> ensure that your business can recover from disruptions and leverage cloud technologies for efficiency and growth.</p>
                         </div>
-                        <a href="{{ route('business.continuity.and.cloud.services') }}" class="mil-button mil-border mil-mb-30"><span>Learn More</span></a>
+                        <a href="{{ route('business.continuity.and.cloud.services') }}" class="mil-button mil-border mil-mb-30"><span>Let's talk</span></a>
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
                             <p>Our high availability solutions guarantee continuous operation and minimal downtime for your critical systems and applications.</p>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </section>

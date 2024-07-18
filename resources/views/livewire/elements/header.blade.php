@@ -19,7 +19,7 @@
                                         class="nav-link">Company
                                         profile</a>
                                 </li>
-                                <li><a href="{{ route('team') }}">Our Team</a></li>
+                                {{-- <li><a href="{{ route('team') }}">Our Team</a></li> --}}
 
 
 
