@@ -36,11 +36,11 @@
                 <div class="container">
                     <div class="row justify-content-between align-items-center">
                         <div class="col-xl-4">
-                            <div class="mil-circle-illustration mil-with-dots-2 mil-mb-60" data-swiper-parallax-scale=".8">
-                                <div class="mil-circle-bg"></div>
+                            <div class="mil-about-illustration mil-mb-60">
                                 <div class="mil-image-frame">
-                                    <img src="img/faces/int9.jpeg" alt="web solutions image" style="border-radius: 20%;transform:scale(0.50)">
+                                    <img src="{{ asset('img/faces/t9.jpeg') }}">
                                 </div>
+
                             </div>
                         </div>
                         <div class="col-xl-7">
@@ -151,72 +151,11 @@
             </section>
             <!-- Web Solutions Services end -->
 
-            <!-- Explore More Solutions -->
-            <section class="mil-deep-bg mil-p-120-90">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-7">
-                            <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore More Solutions</span>
-                            <h2 class="mil-mb-90">Boost Your <span class="mil-accent">Online Presence</span></h2>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>I</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Cloud Hosting <br>Services</h5>
-                            <p>Secure and reliable cloud hosting solutions to ensure your website’s performance and uptime, providing scalable and flexible hosting options.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>II</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Website Redesign</h5>
-                            <p>Revamp your existing website with a fresh and modern design that enhances user experience and aligns with current web design trends.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>III</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Digital Marketing Strategies</h5>
-                            <p>Develop effective digital marketing strategies to reach your target audience through SEO, PPC, social media, and more.</p>
-                        </div>
-                        <div class="col-xl-3 mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <h3>IV</h3>
-                            </div>
-                            <h5 class="mil-mb-30">Custom Web Applications</h5>
-                            <p>Build custom web applications tailored to your specific business needs, providing innovative solutions to streamline your operations.</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Explore More Solutions end -->
 
-            <!-- Cybersecurity Risk Score -->
-            <section class="mil-gradient-bg mil-p-120-90">
-                <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
-                <div class="container">
-                    <div class="row justify-content-between align-items-center">
-                        <div class="col-xl-4">
-                            <span class="mil-suptitle mil-suptitle-2 mil-light mil-mb-30">Find Out Your Web Solution Readiness</span>
-                            <h2 class="mil-light mil-mb-90">Do You Know What Your <span class="mil-accent">Online Strategy</span> Needs?</h2>
-                        </div>
-                        <div class="col-xl-7 mil-mb-30">
-                            <p class="mil-light-soft mil-mb-30">By answering a few questions about your current online presence and goals, you will receive a comprehensive assessment of what your web strategy needs to achieve success.</p>
-                            <a href="#." class="mil-button mil-border mil-light"><span>Start Assessment</span></a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Cybersecurity Risk Score end -->
 
            
+
+
         </div>
     </body>
     </html>
