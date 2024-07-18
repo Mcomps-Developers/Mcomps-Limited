@@ -662,11 +662,11 @@
                     <div class="mil-h1">4<span class="mil-accent">+</span></div>
                     <h6 class="mil-mb-60">Years Experience</h6>
 
-                    <h2 class="mil-mb-60">We Run All Kinds of IT Services That Vow Your Success</h2>
+                    <h4 class="mil-mb-60">We Run All Kinds of IT Services That Vow Your Success</h4>
                 </div>
                 <div class="col-lg-6">
 
-                    <h3 class="mil-mb-60">Accelerate <span class="mil-accent">Innovation</span> with world class tech teams We’ll match you to an entire <span class="mil-accent">Remote Technology</span></h3>
+                    <h4 class="mil-mb-60">Accelerate <span class="mil-accent">Innovation</span> with world class tech teams We’ll match you to an entire <span class="mil-accent">Remote Technology</span></h4>
 
                     <div class="row">
                         <div class="col-lg-6">

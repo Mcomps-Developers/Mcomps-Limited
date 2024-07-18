@@ -31,28 +31,25 @@
                 <div class="col-xl-7 mil-mt-60-adapt">
 
                     <div class="row">
-                        <div class="col-lg-7 mil-mb-30">
+                        <div class="col-lg-12 mil-mb-30">
 
-                            <h3 class="mil-light mil-up-font mil-mb-30">Get <span
-                                    class="mil-accent">{{ config('app.name') }}</span> <br>Experience</h3>
-                            <p class="mil-light-soft">Are you ready to engage {{ config('app.name') }} and experience
-                                the
-                                excitement of being part of a dynamic team dedicated to innovation and
-                                excellence? With opportunities for growth and development, we strive to create
-                                an environment where your skills and talents can flourish. Join us in shaping
-                                the future of technology and making a meaningful impact in the industry.</p>
-
-                        </div>
-                        <div class="col-lg-5 mil-mb-30">
-                            <form>
-                                <input class="mil-rounded-input mil-text-center mil-mb-5" type="email"
-                                    placeholder="Your email address">
-                                <button class="mil-button mil-accent-bg mil-fw">
-                                    <span>
-                                        Subscribe
-                                    </span>
-                                </button>
-                            </form>
+                            <h3 class="mil-light mil-up-font mil-mb-30">Our <span class="mil-accent">Security
+                                    Statement</span></h3>
+                            <p class="mil-light-soft">
+                                At Mcomps, we understand that security is essential for both your business
+                                and ours. We prioritize strategic incorporation of relevant security controls
+                                to help minimize your business risks. Our commitment to cybersecurity is
+                                unwavering, and we offer a comprehensive range of cybersecurity services
+                                designed to protect your business from threats
+                            </p>
+                            <p>
+                                With our array of cybersecurity solutions, we aim to safeguard your sensitive
+data, systems, and operations. Our approach includes robust measures
+such as threat monitoring, vulnerability assessments, secure coding
+practices, and employee training. By partnering with us, you can trust that
+we prioritize the security of your digital assets, providing you with peace of
+mind and a strong defense against potential threats.
+                            </p>
 
                         </div>
                     </div>
