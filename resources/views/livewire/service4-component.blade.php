@@ -91,8 +91,7 @@
                             <h3>II</h3>
                         </div>
                         <h5 class="mil-mb-30">Perimeter Security</h5>
-                        <p>We defend network boundaries, preventing unauthorized access and detecting potential external
-                            threats effectively.</p>
+                        <p>Our perimeter security services safeguard your network boundaries, preventing unauthorized access and external threats.</p>
                     </div>
 
                 </div>
@@ -104,8 +103,7 @@
                             <h3>III</h3>
                         </div>
                         <h5 class="mil-mb-30">Endpoint Detection and Response</h5>
-                        <p>We monitor devices for threats, enabling swift identification and mitigation of cyber
-                            incidents.</p>
+                        <p>We offer endpoint detection and response, enabling rapid identification and mitigation of cyber threats on devices.</p>
                     </div>
 
                 </div>
@@ -117,7 +115,7 @@
                             <h3>IV</h3>
                         </div>
                         <h5 class="mil-mb-30">Storage and Cloud Security</h5>
-                        <p>We protect data stored locally and in the cloud, ensuring confidentiality and availability.
+                        <p>Our storage and cloud security solutions ensure the confidentiality and integrity of data stored locally and in the cloud.
                         </p>
                     </div>
 
@@ -130,8 +128,7 @@
                             <h3>V</h3>
                         </div>
                         <h5 class="mil-mb-30">Email Security</h5>
-                        <p>We prevent malicious attacks via email, safeguarding against phishing, spam, and malware
-                            threats effectively.</p>
+                        <p>We provide email security services, protecting against phishing, spam, and malware to secure your communications.</p>
                     </div>
 
                 </div>
@@ -143,8 +140,7 @@
                             <h3>VI</h3>
                         </div>
                         <h5 class="mil-mb-30">Dark Web Monitoring</h5>
-                        <p>Dark web monitoring scans illicit web areas for compromised data, providing alerts for
-                            potential security breaches.</p>
+                        <p>Our dark web monitoring services scan illicit web areas, alerting you to compromised data and potential security breaches.</p>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -155,8 +151,7 @@
                             <h3>VII</h3>
                         </div>
                         <h5 class="mil-mb-30">Authentication</h5>
-                        <p>Authentication verifies user identities, ensuring that only authorized personnel access
-                            sensitive information and systems securely.</p>
+                        <p>We implement authentication solutions, ensuring only authorized users can access your sensitive information and systems.</p>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -167,8 +162,7 @@
                             <h3>VIII</h3>
                         </div>
                         <h5 class="mil-mb-30">Cyber Awareness Training</h5>
-                        <p>Cyber awareness training educates employees on recognizing and responding to cyber threats,
-                            enhancing overall organizational security posture.</p>
+                        <p>Our cyber awareness training programs educate employees on recognizing and responding to cyber threats, enhancing overall security.</p>
                     </div>
                 </div>
                 <div class="col-xl-4">
@@ -179,8 +173,7 @@
                             <h3>IX</h3>
                         </div>
                         <h5 class="mil-mb-30">Managed Cyber Security</h5>
-                        <p>We provide comprehensive, outsourced protection,
-                             continuously monitoring and defending against evolving cyber threats.</p>
+                        <p>We offer managed cyber security services, providing comprehensive protection and continuous monitoring against evolving cyber threats.</p>
                     </div>
                 </div>
             </div>
