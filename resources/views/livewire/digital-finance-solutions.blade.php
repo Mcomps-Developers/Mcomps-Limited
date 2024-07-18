@@ -56,43 +56,63 @@
                     <div class="col-xl-7">
                         <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Explore Our Solutions</span>
                         <h2 class="mil-mb-30">Our <span class="mil-accent">Digital Finance Services</span> at a Glance</h2>
-                        <p class="mil-mb-90">We offer a range of digital finance solutions tailored to meet your business needs, from secure payment systems to advanced financial analytics and investment management.</p>
+                        <p class="mil-mb-90">We provide financial institutions and financial service providers with digital
+                            solutions to assist them in serving the needs of clients putting in mind
+                            security, accessibility, and reliability.</p>
                     </div>
                 </div>
                 <div class="row">
-                    <!-- Digital Payment Systems -->
                     <div class="col-xl-4">
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="{{ asset('img/icons/finance/digital-payment.svg') }}" alt="Digital Payment Systems">
+                                <h3>I</h3>
                             </div>
-                            <h5 class="mil-mb-30">Digital Payment Systems</h5>
-                            <p>Efficient and secure digital payment solutions for seamless transactions and comprehensive financial management.</p>
+                            <h5 class="mil-mb-30">E-Wallet</h5>
+                            <p>We offer e-wallet solutions, enabling secure and convenient digital transactions for users.</p>
                         </div>
                     </div>
-                    <!-- Financial Analytics -->
                     <div class="col-xl-4">
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="{{ asset('img/icons/finance/financial-analytics.svg') }}" alt="Financial Analytics">
+                                <h3>II</h3>
                             </div>
-                            <h5 class="mil-mb-30">Financial Analytics</h5>
-                            <p>Advanced tools for analyzing financial performance, forecasting trends, and making informed financial decisions.</p>
+                            <h5 class="mil-mb-30">Revenue Collection System</h5>
+                            <p>Our revenue collection systems streamline and automate the process, ensuring efficient and accurate financial management.</p>
                         </div>
                     </div>
-                    <!-- Investment Management -->
                     <div class="col-xl-4">
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="{{ asset('img/icons/finance/investment-management.svg') }}" alt="Investment Management">
+                                <h3>III</h3>
                             </div>
-                            <h5 class="mil-mb-30">Investment Management</h5>
-                            <p>Strategic investment management services to optimize your portfolio and achieve your financial goals.</p>
+                            <h5 class="mil-mb-30">Self-Service Portals</h5>
+                            <p>We develop self-service portals, empowering users to manage their accounts and services independently and efficiently.</p>
                         </div>
                     </div>
+                    <div class="col-xl-4">
+                        <div class="mil-hover-card mil-box-center mil-mb-30">
+                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                <h3>IV</h3>
+                            </div>
+                            <h5 class="mil-mb-30">Payment Gateway</h5>
+                            <p>Our payment gateway solutions facilitate secure and seamless online transactions, supporting various payment methods.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4">
+                        <div class="mil-hover-card mil-box-center mil-mb-30">
+                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                <h3>V</h3>
+                            </div>
+                            <h5 class="mil-mb-30">Fintech Solution</h5>
+                            <p>We provide comprehensive fintech solutions, innovating financial services to enhance banking, investments, and financial management.</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </section>
@@ -149,25 +169,9 @@
         </section>
         <!-- Explore More Solutions End -->
 
-        <!-- Call to Action -->
-        <section class="mil-gradient-bg mil-p-120-90">
-            <div class="mil-deco mil-deco-accent" style="bottom: 0; right: 20%; transform: rotate(180deg)"></div>
-            <div class="container">
-                <div class="row justify-content-between align-items-center">
-                    <div class="col-xl-4">
-                        <span class="mil-suptitle mil-suptitle-2 mil-light mil-mb-30">Get Started with Our Solutions</span>
-                        <h2 class="mil-light mil-mb-90">Are You Ready to Transform Your <span class="mil-accent">Financial Future</span>?</h2>
-                    </div>
-                    <div class="col-xl-7 mil-mb-30">
-                        <p class="mil-light-soft mil-mb-30">Discover how our digital finance solutions can help you optimize your financial operations, drive growth, and achieve your business goals.</p>
-                        <a href="#." class="mil-button mil-border mil-light"><span>Get Started</span></a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Call to Action End -->
-
        
+
+
     </div>
 
 </div>

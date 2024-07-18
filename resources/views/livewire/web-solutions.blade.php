@@ -71,7 +71,8 @@
                         <div class="col-xl-7">
                             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Expertise</span>
                             <h2 class="mil-mb-30">Explore Our <span class="mil-accent">Web Solutions</span></h2>
-                            <p class="mil-mb-90">We offer a range of web solutions designed to help you achieve your business goals online. From web design to digital marketing, explore how we can elevate your web presence.</p>
+                            <p class="mil-mb-90">Be part of the digital world aided by our outstanding, professional and fully
+                                tailored web Services.</p>
                         </div>
                     </div>
                     <div class="row">
@@ -81,8 +82,8 @@
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                     <h3>I</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Web Design and Development</h5>
-                                <p>Craft stunning and user-friendly websites that captivate your audience and drive business growth. Our web design and development services cover everything from concept to launch.</p>
+                                <h5 class="mil-mb-30">Web Development and Design</h5>
+                                <p>We create visually appealing and functional websites, ensuring a seamless user experience and responsive design for all devices.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
@@ -91,8 +92,8 @@
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                     <h3>II</h3>
                                 </div>
-                                <h5 class="mil-mb-30">SEO and Online Marketing</h5>
-                                <p>Improve your search engine rankings and attract more customers with our comprehensive SEO and online marketing strategies tailored to your business needs.</p>
+                                <h5 class="mil-mb-30">Domain Registration</h5>
+                                <p>Our domain registration services help you secure a unique online address, establishing your brand's presence on the internet.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
@@ -101,8 +102,8 @@
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                     <h3>III</h3>
                                 </div>
-                                <h5 class="mil-mb-30">E-commerce Solutions</h5>
-                                <p>Build and optimize your online store with our e-commerce solutions that provide seamless shopping experiences and effective sales strategies.</p>
+                                <h5 class="mil-mb-30">Web Hosting</h5>
+                                <p>We provide reliable web hosting solutions, ensuring your website is always accessible, fast, and secure for users.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
@@ -111,8 +112,8 @@
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                     <h3>IV</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Content Creation</h5>
-                                <p>Engage your audience with high-quality content including blog posts, articles, and multimedia that effectively communicates your message and drives conversions.</p>
+                                <h5 class="mil-mb-30">Email Services</h5>
+                                <p>Our email services offer professional and secure communication solutions, supporting your business with reliable email hosting.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
@@ -121,8 +122,8 @@
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                     <h3>V</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Website Maintenance</h5>
-                                <p>Keep your website running smoothly with our ongoing maintenance services, including updates, security checks, and performance optimization.</p>
+                                <h5 class="mil-mb-30">Digital Marketing</h5>
+                                <p>We specialize in digital marketing strategies, enhancing your online visibility through SEO, social media, and targeted advertising.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
@@ -131,8 +132,18 @@
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
                                     <h3>VI</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Analytics and Reporting</h5>
-                                <p>Gain insights into your website’s performance with our analytics and reporting services, helping you make data-driven decisions for your online strategy.</p>
+                                <h5 class="mil-mb-30">Managed Web Services</h5>
+                                <p>Our managed web services ensure your website is maintained, updated, and secure, allowing you to focus on your business.</p>
+                            </div>
+                        </div>
+                        <div class="col-xl-4">
+                            <div class="mil-hover-card mil-box-center mil-mb-30">
+                                <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                                <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                    <h3>VI</h3>
+                                </div>
+                                <h5 class="mil-mb-30">Website Redesigning</h5>
+                                <p>We offer website redesigning services, revamping your existing site to improve aesthetics, functionality, and user engagement.</p>
                             </div>
                         </div>
                     </div>

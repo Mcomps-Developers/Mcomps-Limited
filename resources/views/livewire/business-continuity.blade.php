@@ -56,7 +56,9 @@
                     <div class="col-xl-7">
                         <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Core Offerings</span>
                         <h2 class="mil-mb-30">Explore Our <span class="mil-accent">Business Continuity</span> & <span class="mil-accent">Cloud Services</span></h2>
-                        <p class="mil-mb-90">We provide a range of services designed to ensure business continuity and leverage the latest cloud technologies for efficiency, security, and growth.</p>
+                        <p class="mil-mb-90">Backup your organization’s data to a secure cloud storage that is
+                            accessible to authorized users only. With us, you get world class cloud
+                            infrastructure that ensures security, reliability, availability.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -64,72 +66,63 @@
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/cloud/cloud-computing.svg" alt="Cloud Computing">
+                                <h3>I</h3>
                             </div>
-                            <h5 class="mil-mb-30">Cloud Computing Solutions</h5>
-                            <p>Leverage advanced cloud computing platforms to run applications and services efficiently with scalability and flexibility.</p>
+                            <h5 class="mil-mb-30">Offsite Backup (Cloud) Management</h5>
+                            <p>We offer offsite backup management, securing your data in the cloud to protect against local failures.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/cloud/cloud-storage.svg" alt="Cloud Storage">
+                                <h3>II</h3>
                             </div>
-                            <h5 class="mil-mb-30">Cloud Storage Solutions</h5>
-                            <p>Secure and scalable cloud storage solutions for managing and protecting your business data.</p>
+                            <h5 class="mil-mb-30">Disaster Recovery</h5>
+                            <p>Our disaster recovery services ensure business continuity by quickly restoring operations after unexpected disruptions.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/cloud/cloud-migration.svg" alt="Cloud Migration Services">
+                                <h3>III</h3>
                             </div>
-                            <h5 class="mil-mb-30">Cloud Migration Services</h5>
-                            <p>Smoothly transition your applications and data to the cloud with minimal disruption and maximum efficiency.</p>
+                            <h5 class="mil-mb-30">Secret Data Handling</h5>
+                            <p>We handle secret data with utmost confidentiality, employing advanced security measures to safeguard sensitive information.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/cloud/cloud-security.svg" alt="Cloud Security Solutions">
+                                <h3>IV</h3>
                             </div>
-                            <h5 class="mil-mb-30">Cloud Security Solutions</h5>
-                            <p>Implement robust cloud security measures to protect your assets and ensure compliance with industry standards.</p>
+                            <h5 class="mil-mb-30">Email Backup Solutions</h5>
+                            <p>Our email backup solutions protect your communications, ensuring all email data is securely stored and easily recoverable.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/cloud/cloud-management.svg" alt="Cloud Management Services">
+                                <h3>V</h3>
                             </div>
-                            <h5 class="mil-mb-30">Cloud Management Services</h5>
-                            <p>Expert management and optimization of your cloud environment to ensure efficiency and cost-effectiveness.</p>
+                            <h5 class="mil-mb-30">File Folder Backup</h5>
+                            <p>We provide file folder backup services, keeping your critical documents safe and accessible in case of data loss.</p>
                         </div>
                     </div>
                     <div class="col-xl-4">
                         <div class="mil-hover-card mil-box-center mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/cloud/cloud-backup.svg" alt="Cloud Backup Solutions">
+                                <h3>VI</h3>
                             </div>
-                            <h5 class="mil-mb-30">Cloud Backup Solutions</h5>
-                            <p>Reliable cloud backup services to ensure your data is always protected and recoverable.</p>
+                            <h5 class="mil-mb-30">High Availability</h5>
+                            <p>Our high availability solutions guarantee continuous operation and minimal downtime for your critical systems and applications.</p>
                         </div>
                     </div>
-                    <div class="col-xl-4">
-                        <div class="mil-hover-card mil-box-center mil-mb-30">
-                            <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
-                            <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/cloud/cloud-consulting.svg" alt="Cloud Consulting Services">
-                            </div>
-                            <h5 class="mil-mb-30">Cloud Consulting Services</h5>
-                            <p>Expert guidance to help you choose the best cloud solutions for your specific business needs and goals.</p>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </section>

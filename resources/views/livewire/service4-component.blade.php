@@ -1,4 +1,7 @@
 <div>
+    @section('title')
+    Cybersecurity
+@endsection
     <div class="mil-banner-sm mil-deep-bg">
         <img src="img/deco/map.png" alt="background" class="mil-background-image">
         <div class="mil-deco mil-deco-accent" style="top: 47%; right: 10%; transform: rotate(90deg)"></div>
@@ -63,8 +66,8 @@
                 <div class="col-xl-7">
                     <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
                     <h2 class="mil-mb-30">Explore <span class="mil-accent">Cloud Security</span> Solutions</h2>
-                    <p class="mil-mb-90">The constant evolution of threats and the race for more sophisticated tools to
-                        combat them means that security is changing rapidly.</p>
+                    <p class="mil-mb-90">Helping your business quickly and effectively respond to cyber attacks
+                        using the very best tools and technologies.</p>
                 </div>
             </div>
             <div class="row">
@@ -76,8 +79,7 @@
                             <h3>I</h3>
                         </div>
                         <h5 class="mil-mb-30">Endpoint Security</h5>
-                        <p>We safeguard individual devices within a network, protecting against threats and ensuring
-                            data integrity.</p>
+                        <p>We provide endpoint security solutions, protecting individual devices within your network from threats and vulnerabilities.</p>
                     </div>
 
                 </div>

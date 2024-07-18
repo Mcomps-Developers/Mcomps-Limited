@@ -1,6 +1,6 @@
 <div>
     @section('title')
-    school solutions
+    School Solutions
 @endsection
 
     <div>
@@ -78,7 +78,9 @@
                         <div class="col-xl-7">
                             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Solutions</span>
                             <h2 class="mil-mb-30">Explore <span class="mil-accent">School IT Solutions</span></h2>
-                            <p class="mil-mb-90">Our IT solutions are designed to support educational institutions with the tools and technologies they need to foster a successful learning environment.</p>
+                            <p class="mil-mb-90">Education institutions can choose from our wide selection of our
+                                customized services to get comprehensive solutions that address their
+                                needs.</p>
                         </div>
                     </div>
                     <div class="row">
@@ -86,60 +88,70 @@
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/school/classroom.svg" alt="Classroom Technology">
+                                    <h3>I</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Classroom Technology</h5>
-                                <p>Implement advanced classroom technologies like interactive whiteboards, projectors, and student response systems to enhance the learning experience.</p>
+                                <h5 class="mil-mb-30">School Management Systems</h5>
+                                <p>Our school management systems streamline administrative tasks, enhancing efficiency and communication within educational institutions.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/school/learning-management.svg" alt="Learning Management Systems">
+                                    <h3>II</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Learning Management Systems</h5>
-                                <p>Deploy and manage Learning Management Systems (LMS) for efficient course management, online learning, and student assessment.</p>
+                                <h5 class="mil-mb-30">Timetabling Systems</h5>
+                                <p>We offer timetabling systems that simplify schedule creation, ensuring optimal use of resources and conflict-free planning.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/school/networking.svg" alt="School Networking Solutions">
+                                    <h3>III</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Networking Solutions</h5>
-                                <p>Design and implement robust networking solutions for your school's IT infrastructure, ensuring reliable connectivity and network security.</p>
+                                <h5 class="mil-mb-30">Bulk SMS</h5>
+                                <p>Our bulk SMS services enable efficient communication with parents, students, and staff, delivering important updates and notifications.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/school/it-support.svg" alt="IT Support and Maintenance">
+                                    <h3>IV</h3>
                                 </div>
-                                <h5 class="mil-mb-30">IT Support and Maintenance</h5>
-                                <p>Provide ongoing IT support and maintenance services to ensure your technology systems run smoothly and address any technical issues that arise.</p>
+                                <h5 class="mil-mb-30">School Bus Surveillance System</h5>
+                                <p>We provide school bus surveillance systems, ensuring student safety through real-time monitoring and tracking of school transport.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/school/security.svg" alt="Cybersecurity Solutions">
+                                    <h3>V</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Cybersecurity Solutions</h5>
-                                <p>Implement comprehensive cybersecurity measures to protect your school's data, networks, and systems from potential threats and vulnerabilities.</p>
+                                <h5 class="mil-mb-30">Biometric Attendance System</h5>
+                                <p>Our biometric attendance systems offer accurate and secure tracking of student and staff attendance, reducing manual errors.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/school/cloud-services.svg" alt="Cloud Services for Schools">
+                                    <h3>VI</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Cloud Services</h5>
-                                <p>Offer cloud-based solutions for data storage, collaboration, and resource management to streamline school operations and support remote learning.</p>
+                                <h5 class="mil-mb-30">Custom E-Learning System</h5>
+                                <p>We develop custom e-learning systems, tailored to your school's needs, providing an engaging and interactive online learning experience.</p>
+                            </div>
+                        </div>
+                        <div class="col-xl-4">
+                            <div class="mil-hover-card mil-box-center mil-mb-30">
+                                <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                                <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                    <h3>VII</h3>
+                                </div>
+                                <h5 class="mil-mb-30">School Website</h5>
+                                <p>Our school website services create a professional and informative online presence, enhancing communication and accessibility for all stakeholders.</p>
                             </div>
                         </div>
                     </div>
@@ -212,7 +224,7 @@
             </section>
             <!-- Risk Assessment End -->
 
-           
+
         </div>
 
         <!-- Swiper JS (if used) -->

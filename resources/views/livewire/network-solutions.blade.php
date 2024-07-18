@@ -72,7 +72,8 @@
                         <div class="col-xl-7">
                             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Our Expertise in Network Solutions</span>
                             <h2 class="mil-mb-30">Explore Our <span class="mil-accent">Network Solutions</span></h2>
-                            <p class="mil-mb-90">Discover how our network solutions can address your IT needs, from network design to security and management, ensuring a robust and reliable IT infrastructure for your business.</p>
+                            <p class="mil-mb-90">We deliver network and infrastructure solutions that future proof your
+                                business. Solutions that reduce operational costs and increase connectivity.</p>
                         </div>
                     </div>
                     <div class="row">
@@ -80,60 +81,70 @@
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/md/design.svg" alt="Network Design and Architecture">
+                                    <h3>I</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Network Design and Architecture</h5>
-                                <p>We design and build scalable and efficient network infrastructures tailored to your business requirements, ensuring optimal performance and reliability.</p>
+                                <h5 class="mil-mb-30">Structured Cabling</h5>
+                                <p>We provide structured cabling solutions, ensuring reliable and organized connectivity infrastructure for your business operations.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/md/security.svg" alt="Network Security Solutions">
+                                    <h3>II</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Network Security Solutions</h5>
-                                <p>Protect your network from threats with advanced security solutions including firewalls, intrusion detection systems, and security audits to safeguard your data and infrastructure.</p>
+                                <h5 class="mil-mb-30">CCTV Cameras Installation</h5>
+                                <p>Our CCTV camera installation services enhance security by providing comprehensive surveillance coverage for your premises.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/md/management.svg" alt="Network Management and Monitoring">
+                                    <h3>III</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Network Management and Monitoring</h5>
-                                <p>Ensure the smooth operation of your network with our management and monitoring services, including performance optimization, troubleshooting, and regular maintenance.</p>
+                                <h5 class="mil-mb-30">Video Surveillance Analytics</h5>
+                                <p>We offer video surveillance analytics, enabling intelligent monitoring and analysis of security footage for actionable insights.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/md/support.svg" alt="Network Support and Troubleshooting">
+                                    <h3>IV</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Network Support and Troubleshooting</h5>
-                                <p>Get expert support for network issues with our troubleshooting services, offering solutions to connectivity problems, performance issues, and other network-related challenges.</p>
+                                <h5 class="mil-mb-30">Biometrics and Access Control</h5>
+                                <p>Our biometrics and access control systems ensure secure and efficient management of personnel entry and exit.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/md/cloud.svg" alt="Cloud Networking Solutions">
+                                    <h3>V</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Cloud Networking Solutions</h5>
-                                <p>Leverage cloud technology to enhance your network capabilities with solutions for cloud connectivity, hybrid networks, and cloud-based network management.</p>
+                                <h5 class="mil-mb-30">Storage Solutions</h5>
+                                <p>We provide advanced storage solutions, safeguarding your data with scalable and reliable options for various needs.</p>
                             </div>
                         </div>
                         <div class="col-xl-4">
                             <div class="mil-hover-card mil-box-center mil-mb-30">
                                 <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                                 <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                    <img src="img/icons/md/upgrade.svg" alt="Network Upgrades and Scalability">
+                                    <h3>VI</h3>
                                 </div>
-                                <h5 class="mil-mb-30">Network Upgrades and Scalability</h5>
-                                <p>Upgrade your existing network infrastructure to meet growing demands with our scalable solutions for expanding bandwidth, improving performance, and integrating new technologies.</p>
+                                <h5 class="mil-mb-30">SDWAN, LAN, WLAN</h5>
+                                <p>We implement SDWAN, LAN, and WLAN solutions, optimizing network performance and connectivity across your organization.</p>
+                            </div>
+                        </div>
+                        <div class="col-xl-4">
+                            <div class="mil-hover-card mil-box-center mil-mb-30">
+                                <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
+                                <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
+                                    <h3>VII</h3>
+                                </div>
+                                <h5 class="mil-mb-30">Network as a Service</h5>
+                                <p>Our Network as a Service offerings deliver comprehensive network management, ensuring efficient and secure operations.</p>
                             </div>
                         </div>
                     </div>
@@ -154,7 +165,7 @@
                         <div class="col-xl-3 mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/md/setup.svg" alt="Network Setup and Installation">
+                                <h3>I</h3>
                             </div>
                             <h5 class="mil-mb-30">Network Setup and Installation</h5>
                             <p>Professional setup and installation of network hardware and software to establish a robust and secure network environment for your business.</p>
@@ -162,7 +173,7 @@
                         <div class="col-xl-3 mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/md/performance.svg" alt="Network Performance Optimization">
+                                <h3>II</h3>
                             </div>
                             <h5 class="mil-mb-30">Network Performance Optimization</h5>
                             <p>Enhance network performance with solutions for bandwidth management, latency reduction, and overall network efficiency improvements.</p>
@@ -170,7 +181,7 @@
                         <div class="col-xl-3 mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/md/recovery.svg" alt="Disaster Recovery Planning">
+                                <h3>III</h3>
                             </div>
                             <h5 class="mil-mb-30">Disaster Recovery Planning</h5>
                             <p>Develop and implement disaster recovery plans to ensure business continuity in the event of network failures or other IT emergencies.</p>
@@ -178,7 +189,7 @@
                         <div class="col-xl-3 mil-mb-30">
                             <div class="mil-deco mil-deco-accent" style="top: -10%; right: -10%;"></div>
                             <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                                <img src="img/icons/md/consultation.svg" alt="Network Consultation Services">
+                                <h3>IV</h3>
                             </div>
                             <h5 class="mil-mb-30">Network Consultation Services</h5>
                             <p>Get expert advice on network design, upgrades, and best practices to optimize your IT infrastructure for current and future needs.</p>
@@ -206,27 +217,9 @@
             </section>
             <!-- Network Readiness Assessment end -->
 
-           
 
-            <!-- Footer -->
-            <footer class="mil-footer mil-deep-bg">
-                <div class="container">
-                    <div class="row justify-content-between align-items-center">
-                        <div class="col-lg-6">
-                            <p>&copy; 2024 Your Company Name. All Rights Reserved.</p>
-                        </div>
-                        <div class="col-lg-6 text-end">
-                            <ul class="mil-footer-socials">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </footer>
-            <!-- Footer end -->
+
+
         </div>
 
         <!-- JavaScript includes -->

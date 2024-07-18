@@ -1,6 +1,6 @@
 <div>
     @section('title')
-    software solutions
+    Software Solutions
 @endsection
     <div>
         <div class="mil-banner-sm mil-deep-bg">
