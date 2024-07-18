@@ -123,6 +123,44 @@
         <div class="mil-divider"></div>
     </div>
 
+    <section class="mil-deep-bg mil-p-120-60">
+        <div class="mil-deco" style="top: 0; right: 15%;"></div>
+        <div class="container">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-lg-5 mil-mb-60">
+
+                    <div class="mil-circle-illustration">
+                        <div class="mil-circle-bg"></div>
+                        <div class="mil-image-frame">
+                            <img src="img/faces/t2.png" alt="img">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-6 mil-mb-60">
+
+                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Hello!</span>
+                    <h2 class="mil-mb-50">We are providing the key
+                        solutions to your needs.</h2>
+
+                    <p class="mil-mb-50">Mcomps Limited is a pioneering company in the ICT industry. With a clear
+                        vision and a dedication to meeting our clients' specific requirements, we
+                        have been providing custom solutions since our establishment. Our
+                        primary objective has always been to deliver exceptional ICT solutions that
+                        empower our clients to achieve their business goals. Over the years, we
+                        have had the privilege of serving prominent brands and government
+                        institutions. The quality of our solutions has garnered praise and
+                        recognition from numerous satisfied clients. We remain unwavering in our
+                        commitment to offering tailored infrastructure solutions that perfectly align
+                        with the needs of our clients.</p>
+
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- services -->
     <section class="mil-services mil-deep-bg mil-p-120-90">
         <div class="mil-deco" style="top: 0; right: 20%;"></div>

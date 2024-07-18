@@ -183,42 +183,7 @@
     <!-- partners end -->
 
     <!-- about -->
-    <section class="mil-deep-bg mil-p-120-60">
-        <div class="mil-deco" style="top: 0; right: 15%;"></div>
-        <div class="container">
-            <div class="row justify-content-between align-items-center">
-                <div class="col-lg-5 mil-mb-60">
-
-                    <div class="mil-circle-illustration">
-                        <div class="mil-circle-bg"></div>
-                        <div class="mil-image-frame">
-                            <img src="img/faces/t2.png" alt="img">
-                        </div>
-                    </div>
-
-                </div>
-                <div class="col-lg-6 mil-mb-60">
-
-                    <span class="mil-suptitle mil-suptitle-2 mil-mb-30">IT Enterprise</span>
-                    <h2 class="mil-mb-50">Our Mission</h2>
-
-                    <p class="mil-mb-50">To offer Technology Solutions that increase
-                        productivity, improve ease of Business daily
-                        operations, increase sales, reduce expenses,
-                        enhancing continuity and business security
-                        contributing to attainment of every organizational
-                        goals and vision</p>
-
-                    <ul class="mil-simple-list">
-                        <li>Accelerate innovation.</li>
-                        <li>With world class tech teams.</li>
-                        <li>Our all service offerings to enhance.</li>
-                    </ul>
-
-                </div>
-            </div>
-        </div>
-    </section>
+   
     <!-- about end -->
 
     <!-- features -->
@@ -441,5 +406,5 @@
     <!-- features end -->
 
     <!-- contact -->
-   
+
 </div>
