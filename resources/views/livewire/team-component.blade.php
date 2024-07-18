@@ -30,7 +30,7 @@
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Manzolo</h4>
-                        <p>CEO and Co-Founder </p>
+                        <p>CEO</p>
                     </a>
 
                 </div>
@@ -54,7 +54,7 @@
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Celestine Oseda</h4>
-                        <p>Head of marketing and Co-Founder</p>
+                        <p>Head of marketing</p>
                     </a>
 
                 </div>
@@ -66,7 +66,7 @@
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Del Manzolo</h4>
-                        <p>Head Of Public Relations and Co-Founder</p>
+                        <p>Head Of Public Relations</p>
                     </a>
 
                 </div>
@@ -78,7 +78,7 @@
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Muzamil Katambula</h4>
-                        <p>Operations Manager and Co-Founder</p>
+                        <p>Operations</p>
                     </a>
 
                 </div>
@@ -90,7 +90,7 @@
                             <div class="mil-team-circle"></div>
                         </div>
                         <h4 class="mil-mb-10">Ambrose Ikedi</h4>
-                        <p>Cheaf Finance Officer and Co-Founder</p>
+                        <p>Chief Finance Officer</p>
                     </a>
 
                 </div>
