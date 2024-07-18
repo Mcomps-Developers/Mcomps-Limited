@@ -57,7 +57,7 @@
                         <ul>
 
                             <li><a href="{{ route('blogs') }}">Blog</a></li>
-                            <li><a href="{{ route('events') }}">Event</a></li>
+                            {{-- <li><a href="{{ route('events') }}">Event</a></li> --}}
                             <li><a href="{{ route('faq') }}">FAQs</a></li>
                             <li><a href="#">Privacy Policy</a></li>
                             <li><a href="#">Terms and Conditions</a></li>

@@ -27,7 +27,7 @@
                     <div class="col-xl-4">
                         <div class="mil-about-illustration mil-mb-60">
                             <div class="mil-image-frame">
-                                <img src="{{ asset('img/faces/33.jpeg') }}">
+                                <img src="{{ asset('img/faces/36.png') }}">
                             </div>
 
                         </div>
