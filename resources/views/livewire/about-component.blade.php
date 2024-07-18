@@ -147,7 +147,7 @@
         <div class="container">
 
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Discover Our Company</span>
-            <h2 class="mil-mb-120">Why Choose Us</h2>
+            <h2 class="mil-mb-120">Methodology</h2>
 
             <div class="mil-divider"></div>
             <div class="mil-line-icon-box">
@@ -161,15 +161,16 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">Assured Services</h4>
+                        <h4 class="mil-mb-30">1. Evaluate</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Client satisfaction matters very much
-                            to us and we take it very seriously. We
-                            do not over promise but rather we over
-                            deliver.</p>
+                        <p class="mil-box-text mil-mb-30">During the evaluation phase, we meticulously assess the requirements and
+                            objectives of the project. This involves understanding your unique business
+                            needs, conducting market research, and analyzing the feasibility of different
+                            ap- proaches. By gaining a comprehensive understanding of your project, we
+                            lay the foundation for a successful development journey.</p>
 
                     </div>
                 </div>
@@ -186,15 +187,16 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">Quality Expertise</h4>
+                        <h4 class="mil-mb-30">2. Define</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">You have over 20 qualified and certified
-                            technicians & engineers at your disposal
-                            who have the capabilities to meet all your IT
-                            requirements.</p>
+                        <p class="mil-box-text mil-mb-30">In the definition phase, we collaborate closely with you to define clear
+                            project objectives, scope, and deliverables. This includes identifying key
+                            milestones, creating a detailed project plan, and establishing transparent
+                            communication channels. Our aim is to ensure a shared understanding of
+                            the project's direction and goals, setting the stage for effective development.</p>
 
                     </div>
                 </div>
@@ -211,15 +213,17 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">Tailored Services</h4>
+                        <h4 class="mil-mb-30">3. Develop:</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">We build powerful and customized IT
-                            solutions and support systems that
-                            underpin the daily operations of your
-                            business.</p>
+                        <p class="mil-box-text mil-mb-30">The development phase is where the actual creation of the solution takes
+                            place. Following the Agile principles, we break the project into smaller,
+                            manageable iterations or sprints. This iterative approach allows for
+                            incremental development, continuous integration, and regular testing.
+                            Throughout this phase, we prioritize collaboration, flexibility, and adaptability
+                            to deliver high-quality solutions that meet your evolving needs.</p>
 
                     </div>
                 </div>
@@ -236,14 +240,17 @@
                     </div>
                     <div class="col-xl-4">
 
-                        <h4 class="mil-mb-30">Assured Services</h4>
+                        <h4 class="mil-mb-30">4. Scope:</h4>
 
                     </div>
                     <div class="col-xl-6">
 
-                        <p class="mil-box-text mil-mb-30">Client satisfaction matters very much to us and
-                            we take it very seriously. We do not over prom-
-                            ise but rather we over deliver.</p>
+                        <p class="mil-box-text mil-mb-30">During the scoping phase, we review and refine the project's scope based
+                            on the insights gained during development. This involves assessing
+                            progress, addressing any changes or new requirements, and ensuring
+                            alignment with your expectations. By continuously monitoring and adjusting
+                            the scope, we ensure that the solution remains on track and aligned with
+                            your business goals.</p>
 
                     </div>
                 </div>
@@ -259,7 +266,7 @@
         <div class="mil-deco" style="top: 0; right: 25%;"></div>
         <div class="container">
             <span class="mil-suptitle mil-suptitle-2 mil-mb-30">Values</span>
-            <h2 class="mil-mb-120">Our  <span class="mil-accent">Coorperate</span> Values</h2>
+            <h2 class="mil-mb-120">Our  <span class="mil-accent">Corporate</span> Values</h2>
 
             <div class="row">
                 <div class="col-md-6 col-xl-4">
