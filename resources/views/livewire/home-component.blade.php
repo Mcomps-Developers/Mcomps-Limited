@@ -17,6 +17,10 @@
                     <img src="{{ asset('img/photo/3.jpg') }}" class="mil-background-image"
                         style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1">
                 </div>
+                <div class="swiper-slide">
+                    <img src="{{ asset('img/photo/4.jpg') }}" class="mil-background-image"
+                        style="object-position: center" data-swiper-parallax="-100" data-swiper-parallax-scale="1.1">
+                </div>
             </div>
         </div>
         <div class="mil-overlay"></div>
