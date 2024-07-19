@@ -6,7 +6,7 @@
             <div class="mil-navigation">
                 <nav>
                     <ul>
-                        <li class="mil-has-children">
+                        <li class="">
                             <a href="/">Home</a>
 
                         </li>
@@ -66,7 +66,7 @@
                         <a href="{{ route('careers') }}">Careers</a>
 
                     </li> --}}
-                    <li class="mil-has-children">
+                    <li class="">
                         <a href="{{ route('contact') }}">Contact Us</a>
 
                     </li>
