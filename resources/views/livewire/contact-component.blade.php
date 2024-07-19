@@ -32,7 +32,7 @@
 
                                 <div class="mil-input-frame mil-dark-input mil-mb-30">
                                     <label class="mil-h6 mil-dark"><span>First Name</span></label>
-                                    <input type="text" placeholder="John">
+                                    <input type="text" placeholder="Mcomps">
                                 </div>
 
                             </div>
@@ -40,7 +40,7 @@
 
                                 <div class="mil-input-frame mil-dark-input mil-mb-30">
                                     <label class="mil-h6"><span>Last Name</span></label>
-                                    <input type="text" placeholder="Jones">
+                                    <input type="text" placeholder="Limited">
                                 </div>
 
                             </div>
@@ -48,7 +48,7 @@
 
                                 <div class="mil-input-frame mil-dark-input mil-mb-30">
                                     <label class="mil-h6"><span>Email Address</span></label>
-                                    <input type="email" placeholder="doe@mydomain.com">
+                                    <input type="email" placeholder="mcomps@mydomain.com">
                                 </div>
 
                             </div>
@@ -136,37 +136,7 @@
                     </form>
 
                 </div>
-                <div class="col-lg-4 col-xl-3 mil-mb-120">
-
-                    <div class="mil-mb-60">
-                        <h5 class="mil-list-title mil-mb-30">Support Request</h5>
-                        <p class="mil-mb-20">Our experts are ready to answer your questions.</p>
-                        <a href="contact.html" class="mil-link mil-link-sm"><span>Support Now</span><i class="fas fa-arrow-right"></i></a>
-                    </div>
-
-                    <div class="mil-divider mil-mb-60"></div>
-
-                    <div class="mil-mb-60">
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <img src="img/icons/md/8.svg" alt="icon">
-                        </div>
-                        <h5 class="mil-list-title mil-mb-30">Need Help?</h5>
-                        <p>For technical questions or billing questions, please contact Customer Care.</p>
-                    </div>
-
-                    <div class="mil-mb-60">
-                        <div class="mil-icon-frame mil-icon-frame-md mil-icon-bg mil-mb-30">
-                            <img src="img/icons/md/9.svg" alt="icon">
-                        </div>
-                        <h5 class="mil-list-title mil-mb-30">Needs More Info?</h5>
-                        <p>For technical questions or billing questions, please contact Customer Care.</p>
-                    </div>
-
-                    <div class="mil-divider mil-mb-60"></div>
-
-                    
-
-                </div>
+                
             </div>
         </div>
     </section>
