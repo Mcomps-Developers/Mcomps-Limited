@@ -88,7 +88,7 @@
                                         <div class="mil-window-content">
                                             <h5 class="mil-dark mil-mb-15">Expertise</h5>
                                             <div class="mil-divider mil-divider-left mil-mb-15"></div>
-                                            <p class="mil-text-sm">You have over 20 qualified and certified
+                                            <p class="mil-text-sm">We have over 20 qualified and certified
                                                 technicians & engineers at your disposal
                                                 who have the capabilities to meet all your IT
                                                 requirements.</p>
