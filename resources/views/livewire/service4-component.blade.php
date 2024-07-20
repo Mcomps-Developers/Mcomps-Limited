@@ -46,7 +46,7 @@
                             environments across hyperscale public and private clouds so you can run your business
                             confidence.</p>
                     </div>
-                    <a href="{{ route('service4') }}" class="mil-button mil-border mil-mb-30"><span>Get in
+                    <a href="route{{('contact')}}" class="mil-button mil-border mil-mb-30"><span>Get in
                             Touch</span></a>
 
                 </div>
